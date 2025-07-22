@@ -1,0 +1,491 @@
+Min,Max,Modal Price from Tamil Nadu[Sugarcane] from 01-Jan-2015To21-Jul-2025 (Total-22) (Total-22)<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridPriceData" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:DarkGray;font-weight:bold;">
+			<th scope="col">Sl no.</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Commodity</th><th scope="col">Variety</th><th scope="col">Grade</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Price Date</th>
+		</tr><tr>
+			<td>
+                                                1
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_0">Erode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_0">Chithode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_0">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_0">3333</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_0">3922</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_0">3627</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_0">23 Jul 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                2
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_1">Erode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_1">Chithode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_1">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_1">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_1">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_1">3400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_1">3833</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_1">3616</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_1">19 Jul 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                3
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_2">Erode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_2">Chithode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_2">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_2">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_2">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_2">3600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_2">3726</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_2">3650</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_2">27 Jul 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                4
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_3">Erode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_3">Chithode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_3">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_3">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_3">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_3">3700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_3">3900</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_3">3800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_3">04 Jul 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                5
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_4">Erode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_4">Chithode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_4">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_4">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_4">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_4">3700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_4">3900</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_4">3800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_4">21 Jul 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                6
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_5">Erode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_5">Chithode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_5">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_5">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_5">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_5">3700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_5">3900</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_5">3800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_5">28 Jul 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                7
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_6">Erode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_6">Chithode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_6">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_6">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_6">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_6">3750</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_6">4000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_6">3850</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_6">10 Jul 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                8
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_7">Erode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_7">Chithode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_7">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_7">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_7">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_7">3800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_7">4220</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_7">4010</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_7">10 Aug 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                9
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_8">Erode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_8">Chithode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_8">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_8">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_8">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_8">3900</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_8">4000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_8">3950</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_8">22 Jul 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                10
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_9">Erode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_9">Chithode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_9">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_9">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_9">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_9">3910</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_9">4100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_9">4005</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_9">08 Aug 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                11
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_10">Erode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_10">Chithode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_10">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_10">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_10">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_10">4000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_10">4060</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_10">4030</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_10">25 Jul 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                12
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_11">Erode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_11">Chithode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_11">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_11">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_11">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_11">4250</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_11">4336</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_11">4300</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_11">02 Aug 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                13
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_12">Erode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_12">Chithode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_12">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_12">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_12">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_12">4300</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_12">4500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_12">4400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_12">11 Aug 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                14
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_13">Erode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_13">Chithode</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_13">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_13">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_13">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_13">4300</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_13">4566</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_13">4400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_13">09 Aug 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                15
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_14">Salem</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_14">Salem</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_14">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_14">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_14">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_14">2600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_14">2700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_14">2650</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_14">06 Nov 2017</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                16
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_15">Coimbatore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_15">Thondamuthur</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_15">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_15">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_15">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_15">4000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_15">4000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_15">4000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_15">18 Oct 2016</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                17
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_16">Vellore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_16">Vellore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_16">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_16">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_16">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_16">2050</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_16">2050</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_16">2050</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_16">22 Sep 2021</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                18
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_17">Vellore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_17">Vellore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_17">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_17">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_17">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_17">2200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_17">3910</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_17">3500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_17">18 Sep 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                19
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_18">Vellore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_18">Vellore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_18">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_18">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_18">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_18">3000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_18">3000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_18">3000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_18">28 Apr 2021</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                20
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_19">Vellore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_19">Vellore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_19">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_19">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_19">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_19">3050</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_19">4400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_19">4400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_19">20 Apr 2021</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                21
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_20">Vellore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_20">Vellore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_20">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_20">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_20">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_20">3300</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_20">3300</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_20">3300</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_20">16 Sep 2021</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                22
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_21">Vellore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_21">Vellore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_21">Sugarcane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_21">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_21">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_21">3675</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_21">3675</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_21">3675</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_21">09 Apr 2020</span>
+                                </td>
+		</tr>
+	</table>
+</div>
