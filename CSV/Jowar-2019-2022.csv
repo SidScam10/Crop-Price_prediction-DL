@@ -1,0 +1,316 @@
+Sl no.,District Name,Market Name,Commodity,Variety,Grade,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2000,2500,2200,13 Oct 2021
+2,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2800,3000,2900,03 Dec 2021
+3,Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,3000,3500,3250,30 Mar 2021
+4,Coimbatore,Pethappampatti,Jowar(Sorghum),Jowar (Yellow),FAQ,1700,2500,2100,25 Jan 2019
+5,Salem,Salem,Jowar(Sorghum),Other,FAQ,2000,2300,2100,30 Dec 2020
+6,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2450,2700,2550,09 Jan 2019
+7,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2450,3050,2850,02 May 2019
+8,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,3300,3200,03 Oct 2019
+9,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,06 Oct 2021
+10,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,06 Sep 2021
+11,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,09 Nov 2021
+12,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,28 Sep 2020
+13,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3100,4100,3600,23 Jun 2021
+14,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,4000,5000,4500,15 Dec 2021
+15,Dindigul,Vedachandur,Jowar(Sorghum),Annigeri,FAQ,2430,2460,2450,28 Mar 2019
+16,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2020,2020,2020,20 Jun 2019
+17,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2200,3330,3300,06 Oct 2020
+18,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2950,2950,2950,06 Jan 2021
+19,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3589,3891,3800,21 May 2019
+20,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1700,1800,1750,27 Feb 2021
+21,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1750,1800,1770,10 Jun 2021
+22,Coimbatore,Annur,Jowar(Sorghum),Jowar ( White),FAQ,4200,4500,4300,22 Jan 2019
+23,Ariyalur,Ariyalur Market,Jowar(Sorghum),Other,FAQ,4155,4555,4235,04 Mar 2019
+24,Coimbatore,Karamadai,Jowar(Sorghum),Other,FAQ,2500,2700,2600,08 Feb 2019
+25,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,01 Sep 2021
+26,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,11 Nov 2020
+27,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,12 Oct 2020
+28,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,15 Oct 2020
+29,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,22 Jul 2021
+30,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,23 Sep 2021
+31,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,28 Apr 2021
+32,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500,4500,4000,04 Mar 2021
+33,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500,4500,4000,05 May 2021
+34,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1516,1568,1568,07 Dec 2020
+35,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1520,1540,1530,02 Jan 2019
+36,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2350,2350,2350,22 Nov 2021
+37,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2650,2650,2650,04 Jan 2021
+38,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2820,2820,2820,25 Jun 2020
+39,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3640,3640,3640,20 Jul 2021
+40,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1750,1800,1770,08 Mar 2021
+41,Coimbatore,Annur,Jowar(Sorghum),Jowar ( White),FAQ,2300,2500,2450,11 Feb 2021
+42,Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,1600,1750,1650,23 Sep 2021
+43,Coimbatore,Pethappampatti,Jowar(Sorghum),Jowar ( White),FAQ,2000,2500,2430,22 Sep 2021
+44,Salem,Salem,Jowar(Sorghum),Other,FAQ,2100,2460,2270,16 Dec 2020
+45,Theni,Theni,Jowar(Sorghum),Jowar ( White),FAQ,1450,1500,1475,15 Dec 2020
+46,Theni,Theni,Jowar(Sorghum),Jowar ( White),FAQ,1700,1800,1750,08 Oct 2021
+47,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3000,2800,19 Jun 2019
+48,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3200,2800,10 Apr 2019
+49,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,02 Nov 2020
+50,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,03 Feb 2021
+51,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,16 Oct 2020
+52,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500,4500,4000,03 May 2021
+53,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500,4500,4000,17 Mar 2021
+54,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1500,2900,2700,17 Nov 2021
+55,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2121,3333,3000,09 Nov 2020
+56,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2222,3000,3000,02 Nov 2020
+57,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2243,2243,2243,21 Jun 2021
+58,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,4391,4391,4391,08 Aug 2019
+59,Virudhunagar,Virudhunagar,Jowar(Sorghum),Red,FAQ,1900,2000,1950,11 Jan 2019
+60,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1700,1800,1750,26 Apr 2021
+61,Coimbatore,Annur,Jowar(Sorghum),Jowar ( White),FAQ,2500,2800,2600,02 Mar 2021
+62,Coimbatore,Karamadai,Jowar(Sorghum),Other,FAQ,2500,2700,2600,12 Feb 2019
+63,Coimbatore,Karamadai,Jowar(Sorghum),Other,FAQ,2500,2700,2600,14 Feb 2019
+64,Salem,Salem,Jowar(Sorghum),Other,FAQ,2000,2230,2150,02 Feb 2021
+65,Salem,Salem,Jowar(Sorghum),Other,FAQ,2100,2430,2240,27 Nov 2020
+66,Theni,Theni,Jowar(Sorghum),Jowar ( White),FAQ,1700,1750,1725,18 Oct 2021
+67,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2450,3050,2850,25 Apr 2019
+68,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,03 Dec 2020
+69,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,08 Oct 2020
+70,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3100,4100,3600,10 Feb 2021
+71,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,4000,5500,5000,17 Jun 2021
+72,Coimbatore,Thiruppur,Jowar(Sorghum),White,FAQ,2400,3200,2800,06 Mar 2019
+73,Namakkal,Tiruchengode,Jowar(Sorghum),Other,FAQ,2800,4000,3550,06 Jul 2021
+74,Madurai,Usilampatty,Jowar(Sorghum),Local,FAQ,3000,3100,3050,12 Jan 2019
+75,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,969,4689,4689,15 Mar 2019
+76,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1500,2050,1800,18 Feb 2020
+77,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1799,1800,1800,11 Jan 2019
+78,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1833,1833,1833,12 Aug 2021
+79,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2300,2300,2300,06 Nov 2020
+80,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2750,2750,2750,05 Dec 2019
+81,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,4739,4739,4739,28 Feb 2019
+82,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2800,2900,2850,22 Dec 2021
+83,Coimbatore,Annur,Jowar(Sorghum),Other,FAQ,1800,2500,2000,24 Jan 2019
+84,Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,3820,4125,4015,12 Nov 2020
+85,Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,3835,4100,3970,23 Nov 2020
+86,Salem,Salem,Jowar(Sorghum),Other,FAQ,2200,2500,2400,24 Dec 2020
+87,Theni,Theni,Jowar(Sorghum),Jowar ( White),FAQ,1700,1800,1750,12 Oct 2021
+88,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2300,3000,2700,27 Feb 2019
+89,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3200,2800,14 Jun 2019
+90,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2450,3050,2850,22 May 2019
+91,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2500,3500,3000,03 Sep 2021
+92,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,27 Oct 2021
+93,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,28 Jul 2021
+94,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500,4500,4000,03 Mar 2021
+95,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,4000,5000,4500,08 Dec 2021
+96,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1050,1050,1050,02 May 2019
+97,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1460,1460,1460,06 Mar 2019
+98,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1587,1587,1587,03 Dec 2020
+99,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1702,1702,1702,13 Feb 2019
+100,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2810,2810,2810,03 Jul 2020
+101,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3030,3030,3030,29 Jul 2021
+102,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1650,1700,1670,03 May 2021
+103,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1650,1700,1670,30 Apr 2021
+104,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1700,1800,1750,21 Apr 2021
+105,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2750,2800,2770,11 Jun 2021
+106,Coimbatore,Annur,Jowar(Sorghum),Jowar ( White),FAQ,2500,2650,2600,19 Jan 2021
+107,Theni,Theni,Jowar(Sorghum),Jowar ( White),FAQ,1700,1750,1725,27 Oct 2021
+108,Theni,Theni,Jowar(Sorghum),Red,FAQ,2700,2800,2750,08 Jan 2019
+109,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3000,2800,09 Jul 2019
+110,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3200,2800,12 Jun 2019
+111,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,01 Oct 2021
+112,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,10 Nov 2021
+113,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4050,3550,10 Nov 2020
+114,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500,4500,4000,10 Mar 2021
+115,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500,4500,4000,17 Feb 2021
+116,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1220,1220,1220,26 Apr 2019
+117,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1660,1660,1660,28 Jul 2020
+118,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1730,2310,2300,28 Oct 2020
+119,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2060,2060,2060,10 Feb 2021
+120,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2450,2450,2450,19 Aug 2020
+121,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2760,2760,2760,28 Oct 2021
+122,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3565,3565,3565,18 Mar 2021
+123,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3722,3722,3722,01 Apr 2021
+124,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,4750,4750,4750,07 Aug 2019
+125,Ariyalur,Ariyalur Market,Jowar(Sorghum),Other,FAQ,3991,4200,4061,26 Mar 2019
+126,Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,2000,2500,2200,23 Aug 2021
+127,Theni,Theni,Jowar(Sorghum),Jowar ( White),FAQ,1700,1750,1725,23 Oct 2021
+128,Theni,Theni,Jowar(Sorghum),Jowar ( White),FAQ,1800,1900,1850,09 Sep 2021
+129,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3200,2800,11 Mar 2019
+130,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2500,4000,3000,06 May 2020
+131,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2600,4000,3400,20 May 2020
+132,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,02 Nov 2021
+133,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500,4500,4000,08 Mar 2021
+134,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1161,1660,1660,11 Feb 2019
+135,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1561,1561,1561,20 Feb 2020
+136,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1620,1620,1620,21 Dec 2020
+137,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2451,2451,2451,15 Jul 2020
+138,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2510,2510,2510,12 Feb 2020
+139,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2610,2610,2610,14 May 2019
+140,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2730,2730,2730,11 Dec 2020
+141,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2815,2815,2815,01 Nov 2019
+142,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3220,3220,3220,14 Feb 2019
+143,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1900,2000,1950,05 May 2021
+144,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2900,3000,2950,16 Dec 2021
+145,Coimbatore,Annur,Jowar(Sorghum),Jowar ( White),FAQ,3500,3700,3600,08 Oct 2021
+146,Coimbatore,Karamadai,Jowar(Sorghum),Other,FAQ,2400,2500,2450,09 Mar 2019
+147,Salem,Salem,Jowar(Sorghum),Other,FAQ,1900,2200,2050,22 Jan 2021
+148,Salem,Salem,Jowar(Sorghum),Other,FAQ,2100,2430,2255,01 Dec 2020
+149,Theni,Theni,Jowar(Sorghum),Jowar ( White),FAQ,1700,1800,1750,10 Dec 2021
+150,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2300,2700,2500,23 Jan 2019
+151,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2300,2700,2500,30 Jan 2019
+152,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2430,3000,2500,03 Jul 2019
+153,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2430,3000,2700,17 Jul 2019
+154,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2450,3050,2850,29 Apr 2019
+155,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2450,3050,2850,29 May 2019
+156,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2800,4000,3200,12 May 2021
+157,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,26 Sep 2020
+158,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500,4500,4000,29 Dec 2021
+159,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1110,1110,1110,07 Feb 2019
+160,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1515,2612,2500,05 Nov 2020
+161,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2560,2560,2560,30 Nov 2020
+162,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2612,2612,2612,20 Sep 2021
+163,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2900,2900,2900,21 Apr 2021
+164,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3010,3010,3010,07 Oct 2020
+165,Virudhunagar,Virudhunagar,Jowar(Sorghum),Red,FAQ,1900,2000,1950,25 Jan 2019
+166,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1750,1800,1770,08 Jun 2021
+167,Coimbatore,Karamadai,Jowar(Sorghum),Other,FAQ,2500,2700,2600,06 Feb 2019
+168,Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,1800,2200,2000,17 Aug 2021
+169,Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,3860,4150,3945,19 Nov 2020
+170,Theni,Theni,Jowar(Sorghum),Jowar ( White),FAQ,1360,1400,1380,10 Nov 2020
+171,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3200,2800,03 Apr 2019
+172,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2600,4100,3200,13 May 2020
+173,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,08 Sep 2021
+174,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,18 Nov 2020
+175,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,23 Sep 2020
+176,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500,4500,4000,06 May 2021
+177,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500,4500,4000,15 Apr 2021
+178,Coimbatore,Thiruppur,Jowar(Sorghum),White,FAQ,2400,3200,2800,13 Mar 2019
+179,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,790,790,790,12 Apr 2019
+180,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2100,2100,2100,29 Jun 2021
+181,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2250,2250,2250,19 Oct 2020
+182,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2275,2275,2275,14 Feb 2020
+183,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2410,2410,2410,24 Dec 2021
+184,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2565,2565,2565,15 Dec 2020
+185,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3910,3910,3910,24 Sep 2019
+186,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2900,3000,2950,09 Dec 2021
+187,Coimbatore,Annur,Jowar(Sorghum),Jowar ( White),FAQ,2000,2500,2300,21 May 2019
+188,Coimbatore,Annur,Jowar(Sorghum),Jowar ( White),FAQ,2100,2500,2300,15 May 2019
+189,Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,3800,4100,3950,26 Apr 2019
+190,Theni,Theni,Jowar(Sorghum),Jowar ( White),FAQ,1700,1800,1750,01 Dec 2021
+191,Theni,Theni,Jowar(Sorghum),Jowar ( White),FAQ,1800,1900,1850,07 Sep 2021
+192,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,23 Dec 2020
+193,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,25 Aug 2021
+194,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,25 Nov 2020
+195,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4200,3500,16 Sep 2020
+196,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3900,4200,4100,22 Apr 2020
+197,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,803,803,803,20 Mar 2019
+198,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,920,920,920,20 Nov 2019
+199,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2002,2304,2200,30 Sep 2019
+200,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2110,3010,3010,27 Sep 2021
+201,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2270,2270,2270,23 Dec 2020
+202,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2517,2517,2517,04 Apr 2019
+203,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3005,3005,3005,08 Jun 2020
+204,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3151,3151,3151,22 Dec 2021
+205,Coimbatore,Annur,Jowar(Sorghum),Jowar ( White),FAQ,2500,2600,2550,18 Jan 2021
+206,Coimbatore,Annur,Jowar(Sorghum),Jowar ( White),FAQ,4600,4800,4700,09 Jul 2020
+207,Ariyalur,Ariyalur Market,Jowar(Sorghum),Other,FAQ,1110,1220,1210,21 Sep 2021
+208,Ariyalur,Ariyalur Market,Jowar(Sorghum),Other,FAQ,1480,1510,1500,26 Oct 2021
+209,Salem,Attur,Jowar(Sorghum),Other,FAQ,2400,2500,2450,29 Dec 2020
+210,Salem,Salem,Jowar(Sorghum),Other,FAQ,2200,2400,2300,19 Dec 2020
+211,Theni,Theni,Jowar(Sorghum),Jowar ( White),FAQ,1800,1900,1850,04 Sep 2021
+212,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3200,2800,05 Apr 2019
+213,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3200,2800,06 Jun 2019
+214,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2430,3200,2800,24 Jul 2019
+215,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,19 Nov 2020
+216,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1812,4289,4000,18 Nov 2019
+217,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2325,3025,3000,27 Oct 2020
+218,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2360,2360,2360,02 Sep 2021
+219,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1650,1700,1670,29 Apr 2021
+220,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2500,2800,2650,27 Jul 2021
+221,Coimbatore,Annur,Jowar(Sorghum),Jowar ( White),FAQ,3000,3400,3200,27 Sep 2021
+222,Coimbatore,Annur,Jowar(Sorghum),Jowar ( White),FAQ,6000,6500,6200,24 Mar 2021
+223,Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,1600,1800,1700,27 Aug 2021
+224,Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,3300,3500,3400,21 Apr 2021
+225,Salem,Salem,Jowar(Sorghum),Other,FAQ,2300,2500,2400,04 Dec 2020
+226,Theni,Theni,Jowar(Sorghum),Jowar ( White),FAQ,1700,1750,1725,10 Nov 2021
+227,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3000,2700,10 Jul 2019
+228,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3000,2800,15 May 2019
+229,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3000,2800,23 Jul 2019
+230,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3200,2800,01 Apr 2019
+231,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3200,2800,22 Apr 2019
+232,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3200,2800,26 Jun 2019
+233,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,01 Jul 2021
+234,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,02 Dec 2020
+235,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,18 Aug 2021
+236,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,24 Feb 2021
+237,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3050,3900,3550,20 Nov 2020
+238,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500,4500,4000,22 Dec 2021
+239,Madurai,Usilampatty,Jowar(Sorghum),Local,FAQ,3000,3500,3250,05 Feb 2019
+240,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,630,2430,2430,26 Feb 2019
+241,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1310,2265,2100,13 Feb 2020
+242,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1602,1602,1602,17 Jul 2020
+243,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1760,1760,1760,12 Nov 2019
+244,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2020,2020,2020,29 Oct 2021
+245,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2330,2330,2330,14 Dec 2020
+246,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2500,2500,2500,10 May 2019
+247,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3255,3255,3255,19 Nov 2020
+248,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3300,3300,3300,22 Jan 2021
+249,Virudhunagar,Virudhunagar,Jowar(Sorghum),Red,FAQ,2300,2500,2400,28 Aug 2019
+250,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2200,2430,2430,28 Jun 2019
+251,Coimbatore,Annur,Jowar(Sorghum),Jowar ( White),FAQ,2100,2500,2300,14 May 2019
+252,Coimbatore,Annur,Jowar(Sorghum),Jowar ( White),FAQ,3500,4000,3800,17 Nov 2021
+253,Ariyalur,Ariyalur Market,Jowar(Sorghum),Other,FAQ,2430,2695,2520,17 Feb 2020
+254,Salem,Salem,Jowar(Sorghum),Other,FAQ,2000,2400,2200,08 Jan 2021
+255,Salem,Salem,Jowar(Sorghum),Other,FAQ,2200,2500,2375,20 Nov 2020
+256,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2300,2700,2500,13 Feb 2019
+257,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,2800,2600,18 Jul 2019
+258,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,15 Sep 2021
+259,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,20 Oct 2021
+260,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,900,900,900,08 Mar 2019
+261,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1000,1891,1800,28 Aug 2019
+262,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1515,1515,1515,16 Jul 2021
+263,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2002,2002,2002,08 Dec 2020
+264,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2010,3509,3400,05 Sep 2019
+265,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2063,2063,2063,10 Mar 2021
+266,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3489,3889,3800,09 Aug 2019
+267,Coimbatore,Annur,Jowar(Sorghum),Jowar ( White),FAQ,2500,2700,2600,05 Jan 2021
+268,Ariyalur,Ariyalur Market,Jowar(Sorghum),Other,FAQ,3991,4200,4061,31 May 2019
+269,Theni,Theni,Jowar(Sorghum),Jowar ( White),FAQ,1700,1800,1750,20 Sep 2021
+270,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,14 Jul 2021
+271,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,29 Sep 2021
+272,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,31 Aug 2021
+273,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,31 Mar 2021
+274,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3150,4100,3600,09 Sep 2021
+275,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3700,4000,3900,26 May 2021
+276,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1489,1489,1489,14 Mar 2019
+277,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1720,1720,1720,27 Jul 2020
+278,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2210,2210,2210,25 Oct 2021
+279,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2280,2280,2280,22 Oct 2020
+280,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1900,2000,1950,03 Sep 2021
+281,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2300,2800,2500,20 Feb 2019
+282,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3000,2800,24 Apr 2019
+283,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,21 Apr 2021
+284,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,21 Oct 2020
+285,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3100,4100,3600,24 Sep 2020
+286,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,4000,5000,4500,16 Dec 2021
+287,Coimbatore,Thiruppur,Jowar(Sorghum),Other,FAQ,2400,4000,3500,15 Apr 2020
+288,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1502,1502,1502,27 May 2019
+289,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1520,1520,1520,20 Dec 2019
+290,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1620,3520,3520,12 Jul 2021
+291,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1654,1654,1654,30 Jan 2019
+292,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2503,2503,2503,10 Jan 2020
+293,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3722,3722,3722,29 Mar 2021
+294,Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2700,2800,2750,27 Apr 2021
+295,Coimbatore,Annur,Jowar(Sorghum),Jowar ( White),FAQ,2400,2600,2500,25 Dec 2019
+296,Ariyalur,Ariyalur Market,Jowar(Sorghum),Other,FAQ,2430,2550,2500,06 Jan 2020
+297,Ariyalur,Ariyalur Market,Jowar(Sorghum),Other,FAQ,3700,4050,4000,25 Feb 2019
+298,Coimbatore,Karamadai,Jowar(Sorghum),Other,FAQ,2450,2550,2500,02 Feb 2019
+299,Salem,Salem,Jowar(Sorghum),Other,FAQ,2300,2600,2450,10 Nov 2020
+300,Madurai,Thirumangalam,Jowar(Sorghum),Red,FAQ,2000,2100,2050,12 Apr 2019
+301,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3000,2800,16 May 2019
+302,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3200,2800,20 Jul 2019
+303,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400,3200,2800,27 Mar 2019
+304,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2700,3400,3000,27 May 2020
+305,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,02 Sep 2021
+306,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,04 Nov 2020
+307,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,07 Dec 2020
+308,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,17 Aug 2021
+309,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,22 Sep 2021
+310,Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000,4000,3500,24 Nov 2021
+311,Madurai,Usilampatty,Jowar(Sorghum),Local,FAQ,3000,3200,3100,08 Jan 2019
+312,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2020,2020,2020,30 Sep 2021
+313,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2420,2420,2420,24 Jun 2020
+314,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3111,3111,3111,24 Sep 2021
+315,Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3180,3180,3180,19 Jan 2021
