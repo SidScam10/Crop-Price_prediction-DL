@@ -1,0 +1,316 @@
+District Name,Market Name,Commodity,Variety,Grade,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date,Day Of Week
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2000.0,2500.0,2200.0,2021-10-13,2
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2800.0,3000.0,2900.0,2021-12-03,4
+Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,3000.0,3500.0,3250.0,2021-03-30,1
+Coimbatore,Pethappampatti,Jowar(Sorghum),Jowar (Yellow),FAQ,1700.0,2500.0,2100.0,2019-01-25,4
+Salem,Salem,Jowar(Sorghum),Other,FAQ,2000.0,2300.0,2100.0,2020-12-30,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2450.0,2700.0,2550.0,2019-01-09,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2450.0,3050.0,2850.0,2019-05-02,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,3300.0,3200.0,2019-10-03,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-10-06,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-09-06,0
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-11-09,1
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-09-28,0
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3100.0,4100.0,3600.0,2021-06-23,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,4000.0,5000.0,4500.0,2021-12-15,2
+Dindigul,Vedachandur,Jowar(Sorghum),Annigeri,FAQ,2430.0,2460.0,2450.0,2019-03-28,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2020.0,2020.0,2020.0,2019-06-20,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2200.0,3330.0,3300.0,2020-10-06,1
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2950.0,2950.0,2950.0,2021-01-06,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3589.0,3891.0,3800.0,2019-05-21,1
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1700.0,1800.0,1750.0,2021-02-27,5
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1750.0,1800.0,1770.0,2021-06-10,3
+Coimbatore,Annur,Jowar(Sorghum),Jowar (White),FAQ,4200.0,4500.0,4300.0,2019-01-22,1
+Ariyalur,Ariyalur Market,Jowar(Sorghum),Other,FAQ,4155.0,4555.0,4235.0,2019-03-04,0
+Coimbatore,Karamadai,Jowar(Sorghum),Other,FAQ,2500.0,2700.0,2600.0,2019-02-08,4
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-09-01,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-11-11,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-10-12,0
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-10-15,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-07-22,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-09-23,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-04-28,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500.0,4500.0,4000.0,2021-03-04,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500.0,4500.0,4000.0,2021-05-05,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1516.0,1568.0,1568.0,2020-12-07,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1520.0,1540.0,1530.0,2019-01-02,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2350.0,2350.0,2350.0,2021-11-22,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2650.0,2650.0,2650.0,2021-01-04,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2820.0,2820.0,2820.0,2020-06-25,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3640.0,3640.0,3640.0,2021-07-20,1
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1750.0,1800.0,1770.0,2021-03-08,0
+Coimbatore,Annur,Jowar(Sorghum),Jowar (White),FAQ,2300.0,2500.0,2450.0,2021-02-11,3
+Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,1600.0,1750.0,1650.0,2021-09-23,3
+Coimbatore,Pethappampatti,Jowar(Sorghum),Jowar (White),FAQ,2000.0,2500.0,2430.0,2021-09-22,2
+Salem,Salem,Jowar(Sorghum),Other,FAQ,2100.0,2460.0,2270.0,2020-12-16,2
+Theni,Theni,Jowar(Sorghum),Jowar (White),FAQ,1450.0,1500.0,1475.0,2020-12-15,1
+Theni,Theni,Jowar(Sorghum),Jowar (White),FAQ,1700.0,1800.0,1750.0,2021-10-08,4
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3000.0,2800.0,2019-06-19,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3200.0,2800.0,2019-04-10,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-11-02,0
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-02-03,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-10-16,4
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500.0,4500.0,4000.0,2021-05-03,0
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500.0,4500.0,4000.0,2021-03-17,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1500.0,2900.0,2700.0,2021-11-17,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2121.0,3333.0,3000.0,2020-11-09,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2222.0,3000.0,3000.0,2020-11-02,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2243.0,2243.0,2243.0,2021-06-21,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,4391.0,4391.0,4391.0,2019-08-08,3
+Virudhunagar,Virudhunagar,Jowar(Sorghum),Red,FAQ,1900.0,2000.0,1950.0,2019-01-11,4
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1700.0,1800.0,1750.0,2021-04-26,0
+Coimbatore,Annur,Jowar(Sorghum),Jowar (White),FAQ,2500.0,2800.0,2600.0,2021-03-02,1
+Coimbatore,Karamadai,Jowar(Sorghum),Other,FAQ,2500.0,2700.0,2600.0,2019-02-12,1
+Coimbatore,Karamadai,Jowar(Sorghum),Other,FAQ,2500.0,2700.0,2600.0,2019-02-14,3
+Salem,Salem,Jowar(Sorghum),Other,FAQ,2000.0,2230.0,2150.0,2021-02-02,1
+Salem,Salem,Jowar(Sorghum),Other,FAQ,2100.0,2430.0,2240.0,2020-11-27,4
+Theni,Theni,Jowar(Sorghum),Jowar (White),FAQ,1700.0,1750.0,1725.0,2021-10-18,0
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2450.0,3050.0,2850.0,2019-04-25,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-12-03,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-10-08,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3100.0,4100.0,3600.0,2021-02-10,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,4000.0,5500.0,5000.0,2021-06-17,3
+Coimbatore,Thiruppur,Jowar(Sorghum),White,FAQ,2400.0,3200.0,2800.0,2019-03-06,2
+Namakkal,Tiruchengode,Jowar(Sorghum),Other,FAQ,2800.0,4000.0,3550.0,2021-07-06,1
+Madurai,Usilampatty,Jowar(Sorghum),Local,FAQ,3000.0,3100.0,3050.0,2019-01-12,5
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,969.0,4689.0,4689.0,2019-03-15,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1500.0,2050.0,1800.0,2020-02-18,1
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1799.0,1800.0,1800.0,2019-01-11,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1833.0,1833.0,1833.0,2021-08-12,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2300.0,2300.0,2300.0,2020-11-06,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2750.0,2750.0,2750.0,2019-12-05,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,4739.0,4739.0,4739.0,2019-02-28,3
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2800.0,2900.0,2850.0,2021-12-22,2
+Coimbatore,Annur,Jowar(Sorghum),Other,FAQ,1800.0,2500.0,2000.0,2019-01-24,3
+Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,3820.0,4125.0,4015.0,2020-11-12,3
+Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,3835.0,4100.0,3970.0,2020-11-23,0
+Salem,Salem,Jowar(Sorghum),Other,FAQ,2200.0,2500.0,2400.0,2020-12-24,3
+Theni,Theni,Jowar(Sorghum),Jowar (White),FAQ,1700.0,1800.0,1750.0,2021-10-12,1
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2300.0,3000.0,2700.0,2019-02-27,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3200.0,2800.0,2019-06-14,4
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2450.0,3050.0,2850.0,2019-05-22,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2500.0,3500.0,3000.0,2021-09-03,4
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-10-27,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-07-28,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500.0,4500.0,4000.0,2021-03-03,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,4000.0,5000.0,4500.0,2021-12-08,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1050.0,1050.0,1050.0,2019-05-02,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1460.0,1460.0,1460.0,2019-03-06,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1587.0,1587.0,1587.0,2020-12-03,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1702.0,1702.0,1702.0,2019-02-13,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2810.0,2810.0,2810.0,2020-07-03,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3030.0,3030.0,3030.0,2021-07-29,3
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1650.0,1700.0,1670.0,2021-05-03,0
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1650.0,1700.0,1670.0,2021-04-30,4
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1700.0,1800.0,1750.0,2021-04-21,2
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2750.0,2800.0,2770.0,2021-06-11,4
+Coimbatore,Annur,Jowar(Sorghum),Jowar (White),FAQ,2500.0,2650.0,2600.0,2021-01-19,1
+Theni,Theni,Jowar(Sorghum),Jowar (White),FAQ,1700.0,1750.0,1725.0,2021-10-27,2
+Theni,Theni,Jowar(Sorghum),Red,FAQ,2700.0,2800.0,2750.0,2019-01-08,1
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3000.0,2800.0,2019-07-09,1
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3200.0,2800.0,2019-06-12,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-10-01,4
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-11-10,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4050.0,3550.0,2020-11-10,1
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500.0,4500.0,4000.0,2021-03-10,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500.0,4500.0,4000.0,2021-02-17,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1220.0,1220.0,1220.0,2019-04-26,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1660.0,1660.0,1660.0,2020-07-28,1
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1730.0,2310.0,2300.0,2020-10-28,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2060.0,2060.0,2060.0,2021-02-10,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2450.0,2450.0,2450.0,2020-08-19,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2760.0,2760.0,2760.0,2021-10-28,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3565.0,3565.0,3565.0,2021-03-18,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3722.0,3722.0,3722.0,2021-04-01,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,4750.0,4750.0,4750.0,2019-08-07,2
+Ariyalur,Ariyalur Market,Jowar(Sorghum),Other,FAQ,3991.0,4200.0,4061.0,2019-03-26,1
+Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,2000.0,2500.0,2200.0,2021-08-23,0
+Theni,Theni,Jowar(Sorghum),Jowar (White),FAQ,1700.0,1750.0,1725.0,2021-10-23,5
+Theni,Theni,Jowar(Sorghum),Jowar (White),FAQ,1800.0,1900.0,1850.0,2021-09-09,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3200.0,2800.0,2019-03-11,0
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2500.0,4000.0,3000.0,2020-05-06,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2600.0,4000.0,3400.0,2020-05-20,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-11-02,1
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500.0,4500.0,4000.0,2021-03-08,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1161.0,1660.0,1660.0,2019-02-11,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1561.0,1561.0,1561.0,2020-02-20,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1620.0,1620.0,1620.0,2020-12-21,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2451.0,2451.0,2451.0,2020-07-15,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2510.0,2510.0,2510.0,2020-02-12,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2610.0,2610.0,2610.0,2019-05-14,1
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2730.0,2730.0,2730.0,2020-12-11,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2815.0,2815.0,2815.0,2019-11-01,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3220.0,3220.0,3220.0,2019-02-14,3
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1900.0,2000.0,1950.0,2021-05-05,2
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2900.0,3000.0,2950.0,2021-12-16,3
+Coimbatore,Annur,Jowar(Sorghum),Jowar (White),FAQ,3500.0,3700.0,3600.0,2021-10-08,4
+Coimbatore,Karamadai,Jowar(Sorghum),Other,FAQ,2400.0,2500.0,2450.0,2019-03-09,5
+Salem,Salem,Jowar(Sorghum),Other,FAQ,1900.0,2200.0,2050.0,2021-01-22,4
+Salem,Salem,Jowar(Sorghum),Other,FAQ,2100.0,2430.0,2255.0,2020-12-01,1
+Theni,Theni,Jowar(Sorghum),Jowar (White),FAQ,1700.0,1800.0,1750.0,2021-12-10,4
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2300.0,2700.0,2500.0,2019-01-23,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2300.0,2700.0,2500.0,2019-01-30,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2430.0,3000.0,2500.0,2019-07-03,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2430.0,3000.0,2700.0,2019-07-17,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2450.0,3050.0,2850.0,2019-04-29,0
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2450.0,3050.0,2850.0,2019-05-29,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2800.0,4000.0,3200.0,2021-05-12,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-09-26,5
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500.0,4500.0,4000.0,2021-12-29,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1110.0,1110.0,1110.0,2019-02-07,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1515.0,2612.0,2500.0,2020-11-05,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2560.0,2560.0,2560.0,2020-11-30,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2612.0,2612.0,2612.0,2021-09-20,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2900.0,2900.0,2900.0,2021-04-21,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3010.0,3010.0,3010.0,2020-10-07,2
+Virudhunagar,Virudhunagar,Jowar(Sorghum),Red,FAQ,1900.0,2000.0,1950.0,2019-01-25,4
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1750.0,1800.0,1770.0,2021-06-08,1
+Coimbatore,Karamadai,Jowar(Sorghum),Other,FAQ,2500.0,2700.0,2600.0,2019-02-06,2
+Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,1800.0,2200.0,2000.0,2021-08-17,1
+Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,3860.0,4150.0,3945.0,2020-11-19,3
+Theni,Theni,Jowar(Sorghum),Jowar (White),FAQ,1360.0,1400.0,1380.0,2020-11-10,1
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3200.0,2800.0,2019-04-03,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2600.0,4100.0,3200.0,2020-05-13,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-09-08,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-11-18,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-09-23,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500.0,4500.0,4000.0,2021-05-06,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500.0,4500.0,4000.0,2021-04-15,3
+Coimbatore,Thiruppur,Jowar(Sorghum),White,FAQ,2400.0,3200.0,2800.0,2019-03-13,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,790.0,790.0,790.0,2019-04-12,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2100.0,2100.0,2100.0,2021-06-29,1
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2250.0,2250.0,2250.0,2020-10-19,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2275.0,2275.0,2275.0,2020-02-14,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2410.0,2410.0,2410.0,2021-12-24,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2565.0,2565.0,2565.0,2020-12-15,1
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3910.0,3910.0,3910.0,2019-09-24,1
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2900.0,3000.0,2950.0,2021-12-09,3
+Coimbatore,Annur,Jowar(Sorghum),Jowar (White),FAQ,2000.0,2500.0,2300.0,2019-05-21,1
+Coimbatore,Annur,Jowar(Sorghum),Jowar (White),FAQ,2100.0,2500.0,2300.0,2019-05-15,2
+Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,3800.0,4100.0,3950.0,2019-04-26,4
+Theni,Theni,Jowar(Sorghum),Jowar (White),FAQ,1700.0,1800.0,1750.0,2021-12-01,2
+Theni,Theni,Jowar(Sorghum),Jowar (White),FAQ,1800.0,1900.0,1850.0,2021-09-07,1
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-12-23,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-08-25,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-11-25,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4200.0,3500.0,2020-09-16,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3900.0,4200.0,4100.0,2020-04-22,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,803.0,803.0,803.0,2019-03-20,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,920.0,920.0,920.0,2019-11-20,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2002.0,2304.0,2200.0,2019-09-30,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2110.0,3010.0,3010.0,2021-09-27,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2270.0,2270.0,2270.0,2020-12-23,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2517.0,2517.0,2517.0,2019-04-04,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3005.0,3005.0,3005.0,2020-06-08,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3151.0,3151.0,3151.0,2021-12-22,2
+Coimbatore,Annur,Jowar(Sorghum),Jowar (White),FAQ,2500.0,2600.0,2550.0,2021-01-18,0
+Coimbatore,Annur,Jowar(Sorghum),Jowar (White),FAQ,4600.0,4800.0,4700.0,2020-07-09,3
+Ariyalur,Ariyalur Market,Jowar(Sorghum),Other,FAQ,1110.0,1220.0,1210.0,2021-09-21,1
+Ariyalur,Ariyalur Market,Jowar(Sorghum),Other,FAQ,1480.0,1510.0,1500.0,2021-10-26,1
+Salem,Attur,Jowar(Sorghum),Other,FAQ,2400.0,2500.0,2450.0,2020-12-29,1
+Salem,Salem,Jowar(Sorghum),Other,FAQ,2200.0,2400.0,2300.0,2020-12-19,5
+Theni,Theni,Jowar(Sorghum),Jowar (White),FAQ,1800.0,1900.0,1850.0,2021-09-04,5
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3200.0,2800.0,2019-04-05,4
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3200.0,2800.0,2019-06-06,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2430.0,3200.0,2800.0,2019-07-24,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-11-19,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1812.0,4289.0,4000.0,2019-11-18,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2325.0,3025.0,3000.0,2020-10-27,1
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2360.0,2360.0,2360.0,2021-09-02,3
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1650.0,1700.0,1670.0,2021-04-29,3
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2500.0,2800.0,2650.0,2021-07-27,1
+Coimbatore,Annur,Jowar(Sorghum),Jowar (White),FAQ,3000.0,3400.0,3200.0,2021-09-27,0
+Coimbatore,Annur,Jowar(Sorghum),Jowar (White),FAQ,6000.0,6500.0,6200.0,2021-03-24,2
+Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,1600.0,1800.0,1700.0,2021-08-27,4
+Namakkal,Namakkal,Jowar(Sorghum),Other,FAQ,3300.0,3500.0,3400.0,2021-04-21,2
+Salem,Salem,Jowar(Sorghum),Other,FAQ,2300.0,2500.0,2400.0,2020-12-04,4
+Theni,Theni,Jowar(Sorghum),Jowar (White),FAQ,1700.0,1750.0,1725.0,2021-11-10,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3000.0,2700.0,2019-07-10,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3000.0,2800.0,2019-05-15,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3000.0,2800.0,2019-07-23,1
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3200.0,2800.0,2019-04-01,0
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3200.0,2800.0,2019-04-22,0
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3200.0,2800.0,2019-06-26,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-07-01,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-12-02,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-08-18,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-02-24,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3050.0,3900.0,3550.0,2020-11-20,4
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3500.0,4500.0,4000.0,2021-12-22,2
+Madurai,Usilampatty,Jowar(Sorghum),Local,FAQ,3000.0,3500.0,3250.0,2019-02-05,1
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,630.0,2430.0,2430.0,2019-02-26,1
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1310.0,2265.0,2100.0,2020-02-13,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1602.0,1602.0,1602.0,2020-07-17,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1760.0,1760.0,1760.0,2019-11-12,1
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2020.0,2020.0,2020.0,2021-10-29,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2330.0,2330.0,2330.0,2020-12-14,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2500.0,2500.0,2500.0,2019-05-10,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3255.0,3255.0,3255.0,2020-11-19,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3300.0,3300.0,3300.0,2021-01-22,4
+Virudhunagar,Virudhunagar,Jowar(Sorghum),Red,FAQ,2300.0,2500.0,2400.0,2019-08-28,2
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2200.0,2430.0,2430.0,2019-06-28,4
+Coimbatore,Annur,Jowar(Sorghum),Jowar (White),FAQ,2100.0,2500.0,2300.0,2019-05-14,1
+Coimbatore,Annur,Jowar(Sorghum),Jowar (White),FAQ,3500.0,4000.0,3800.0,2021-11-17,2
+Ariyalur,Ariyalur Market,Jowar(Sorghum),Other,FAQ,2430.0,2695.0,2520.0,2020-02-17,0
+Salem,Salem,Jowar(Sorghum),Other,FAQ,2000.0,2400.0,2200.0,2021-01-08,4
+Salem,Salem,Jowar(Sorghum),Other,FAQ,2200.0,2500.0,2375.0,2020-11-20,4
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2300.0,2700.0,2500.0,2019-02-13,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,2800.0,2600.0,2019-07-18,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-09-15,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-10-20,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,900.0,900.0,900.0,2019-03-08,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1000.0,1891.0,1800.0,2019-08-28,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1515.0,1515.0,1515.0,2021-07-16,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2002.0,2002.0,2002.0,2020-12-08,1
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2010.0,3509.0,3400.0,2019-09-05,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2063.0,2063.0,2063.0,2021-03-10,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3489.0,3889.0,3800.0,2019-08-09,4
+Coimbatore,Annur,Jowar(Sorghum),Jowar (White),FAQ,2500.0,2700.0,2600.0,2021-01-05,1
+Ariyalur,Ariyalur Market,Jowar(Sorghum),Other,FAQ,3991.0,4200.0,4061.0,2019-05-31,4
+Theni,Theni,Jowar(Sorghum),Jowar (White),FAQ,1700.0,1800.0,1750.0,2021-09-20,0
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-07-14,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-09-29,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-08-31,1
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-03-31,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3150.0,4100.0,3600.0,2021-09-09,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3700.0,4000.0,3900.0,2021-05-26,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1489.0,1489.0,1489.0,2019-03-14,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1720.0,1720.0,1720.0,2020-07-27,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2210.0,2210.0,2210.0,2021-10-25,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2280.0,2280.0,2280.0,2020-10-22,3
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,1900.0,2000.0,1950.0,2021-09-03,4
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2300.0,2800.0,2500.0,2019-02-20,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3000.0,2800.0,2019-04-24,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-04-21,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-10-21,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3100.0,4100.0,3600.0,2020-09-24,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,4000.0,5000.0,4500.0,2021-12-16,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Other,FAQ,2400.0,4000.0,3500.0,2020-04-15,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1502.0,1502.0,1502.0,2019-05-27,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1520.0,1520.0,1520.0,2019-12-20,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1620.0,3520.0,3520.0,2021-07-12,0
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,1654.0,1654.0,1654.0,2019-01-30,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2503.0,2503.0,2503.0,2020-01-10,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3722.0,3722.0,3722.0,2021-03-29,0
+Erode,Alangeyam,Jowar(Sorghum),Annigeri,FAQ,2700.0,2800.0,2750.0,2021-04-27,1
+Coimbatore,Annur,Jowar(Sorghum),Jowar (White),FAQ,2400.0,2600.0,2500.0,2019-12-25,2
+Ariyalur,Ariyalur Market,Jowar(Sorghum),Other,FAQ,2430.0,2550.0,2500.0,2020-01-06,0
+Ariyalur,Ariyalur Market,Jowar(Sorghum),Other,FAQ,3700.0,4050.0,4000.0,2019-02-25,0
+Coimbatore,Karamadai,Jowar(Sorghum),Other,FAQ,2450.0,2550.0,2500.0,2019-02-02,5
+Salem,Salem,Jowar(Sorghum),Other,FAQ,2300.0,2600.0,2450.0,2020-11-10,1
+Madurai,Thirumangalam,Jowar(Sorghum),Red,FAQ,2000.0,2100.0,2050.0,2019-04-12,4
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3000.0,2800.0,2019-05-16,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3200.0,2800.0,2019-07-20,5
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2400.0,3200.0,2800.0,2019-03-27,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,2700.0,3400.0,3000.0,2020-05-27,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-09-02,3
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-11-04,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2020-12-07,0
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-08-17,1
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-09-22,2
+Coimbatore,Thiruppur,Jowar(Sorghum),Local,FAQ,3000.0,4000.0,3500.0,2021-11-24,2
+Madurai,Usilampatty,Jowar(Sorghum),Local,FAQ,3000.0,3200.0,3100.0,2019-01-08,1
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2020.0,2020.0,2020.0,2021-09-30,3
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,2420.0,2420.0,2420.0,2020-06-24,2
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3111.0,3111.0,3111.0,2021-09-24,4
+Vellore,Vellore,Jowar(Sorghum),Other,FAQ,3180.0,3180.0,3180.0,2021-01-19,1
