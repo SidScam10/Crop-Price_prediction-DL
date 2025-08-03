@@ -1,282 +1,282 @@
 District Name,Market Name,Commodity,Variety,Grade,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date,Day Of Week,lookback_temp_mean,lookback_precip_sum
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1371.0,1379.0,1372.0,2017-11-22,2,27.565555555555555,648.4
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1371.0,1480.0,1480.0,2016-01-18,0,24.78111111111111,746.1999999999999
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1700.0,1739.0,1728.0,2017-08-29,1,30.555555555555557,269.4
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1960.0,2000.0,2000.0,2015-03-10,1,24.68777777777778,135.1
-Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1519.0,1519.0,1519.0,2016-08-29,0,29.59888888888889,220.39999999999998
-Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1800.0,2000.0,1900.0,2016-07-16,5,26.785555555555554,179.6
-Cuddalore,Sethiathoppu,Bajra(Pearl Millet/Cumbu),Other,FAQ,1215.0,1289.0,1239.0,2015-09-01,1,30.35111111111111,132.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2015-06-24,2,26.538888888888888,396.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-03-18,2,23.865555555555552,83.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1250.0,1450.0,1350.0,2017-05-04,3,27.941111111111113,71.6
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1500.0,1400.0,2016-11-09,2,25.166666666666668,200.89999999999998
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1350.0,1550.0,1450.0,2017-05-24,2,28.52777777777778,121.3
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1550.0,1500.0,2018-02-26,0,24.75888888888889,136.7
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1700.0,1650.0,2018-07-11,2,26.667777777777776,239.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1650.0,1750.0,1700.0,2018-09-24,0,24.83888888888889,279.40000000000003
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1650.0,1880.0,1750.0,2018-10-10,2,24.892222222222223,489.90000000000003
-Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1524.0,1527.0,1527.0,2017-01-21,5,25.89888888888889,156.10000000000002
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1789.0,4209.0,1789.0,2016-07-28,3,29.615555555555556,366.0
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1000.0,1191.0,1180.0,2017-11-30,3,27.224444444444444,660.1999999999999
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1006.0,1150.0,1050.0,2017-11-17,4,27.716666666666665,653.9
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1334.0,1325.0,2017-10-24,1,28.743333333333336,592.1
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1310.0,1310.0,1310.0,2015-04-06,0,26.04111111111111,22.0
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1669.0,1669.0,1669.0,2016-08-11,3,29.541111111111114,372.3
-Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1800.0,1700.0,2018-02-26,0,24.75888888888889,136.7
-Cuddalore,Sethiathoppu,Bajra(Pearl Millet/Cumbu),Other,FAQ,1415.0,0.0,0.0,2015-09-02,2,30.355555555555554,134.39999999999998
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1271.0,1271.0,1271.0,2018-02-05,0,24.973333333333333,397.0
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1369.0,1479.0,1439.0,2018-05-14,0,28.033333333333335,57.50000000000001
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2015-04-09,3,25.275555555555552,45.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1350.0,1450.0,1400.0,2017-01-25,2,24.721111111111114,145.6
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1550.0,1500.0,2018-02-17,5,24.65,157.4
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-05-10,3,28.05888888888889,108.5
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1650.0,1600.0,2018-06-06,2,28.042222222222225,248.8
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1700.0,1650.0,2018-07-10,1,26.726666666666667,240.3
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1800.0,1700.0,2018-09-27,3,24.91111111111111,288.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1650.0,1850.0,1750.0,2018-10-31,2,25.00333333333333,518.5
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1259.0,1440.0,1389.0,2018-10-08,0,29.353333333333335,293.1
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1494.0,2843.0,1551.0,2016-10-25,1,29.49555555555556,164.29999999999998
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1463.0,1463.0,1463.0,2015-08-12,2,30.517777777777777,162.2
-Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1069.0,1189.0,1129.0,2017-06-13,1,30.195555555555554,31.999999999999996
-Salem,Gangavalli,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900.0,2000.0,1950.0,2017-09-14,3,27.86111111111111,492.8
-Salem,Gangavalli,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900.0,2100.0,2000.0,2017-06-06,1,31.393333333333334,174.6
-Salem,Gangavalli,Bajra(Pearl Millet/Cumbu),Other,FAQ,2100.0,2300.0,2200.0,2017-05-25,3,31.136666666666663,170.1
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1579.0,1579.0,1579.0,2016-10-14,4,29.484444444444442,210.7
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1600.0,1600.0,1600.0,2016-11-14,0,28.924444444444447,205.6
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2016-06-15,2,28.793333333333333,80.80000000000001
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2015-06-17,2,26.872222222222224,370.7
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2016-01-23,5,23.205555555555556,409.1
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1150.0,1350.0,1250.0,2015-04-07,1,25.143333333333334,45.4
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2015-05-07,3,26.67222222222222,127.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2015-05-13,2,26.84,169.3
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-05-09,2,28.043333333333333,97.7
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-03-28,2,26.025555555555556,92.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1650.0,1750.0,1700.0,2018-08-09,3,25.303333333333335,242.9
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,5161.0,7495.0,6329.0,2017-06-13,1,30.195555555555554,31.999999999999996
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1261.0,1261.0,1261.0,2015-01-28,2,24.24333333333333,253.9
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1273.0,1310.0,1295.0,2017-10-04,2,29.574444444444442,437.8
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1426.0,1426.0,1426.0,2016-01-21,3,24.7,746.8000000000001
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1435.0,1435.0,1435.0,2015-05-21,3,28.68777777777778,181.7
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1537.0,1539.0,1539.0,2015-09-09,2,30.55,167.6
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1625.0,1630.0,1629.0,2016-10-27,3,29.872222222222224,163.20000000000002
-Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2016-02-26,4,23.855555555555554,92.0
-Cuddalore,Sethiathoppu,Bajra(Pearl Millet/Cumbu),Other,FAQ,1156.0,1315.0,1267.0,2015-08-31,0,30.341111111111108,132.0
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1500.0,1571.0,1561.0,2016-12-09,4,27.864444444444448,157.7
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1561.0,1561.0,1561.0,2016-10-05,2,29.511111111111113,214.3
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1629.0,1629.0,1629.0,2016-11-16,2,28.824444444444442,208.6
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1250.0,2015-04-29,2,26.25111111111111,107.6
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2015-06-01,0,26.998888888888885,358.99999999999994
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2016-08-24,2,24.845555555555556,237.1
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1250.0,1450.0,1350.0,2016-12-17,5,25.020000000000003,225.20000000000002
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1330.0,1400.0,1380.0,2016-12-21,2,24.957777777777782,223.3
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-04-25,2,27.439999999999998,101.10000000000001
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1359.0,1560.0,1409.0,2017-11-27,0,27.384444444444444,652.4
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1479.0,1603.0,1569.0,2015-09-29,1,30.466666666666665,223.9
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1531.0,1531.0,1531.0,2015-10-28,2,29.40222222222222,287.8
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1552.0,1629.0,1553.0,2015-10-19,0,29.674444444444447,266.5
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1569.0,1603.0,1601.0,2015-09-01,1,30.654444444444444,132.8
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1700.0,1700.0,1700.0,2016-09-12,0,29.543333333333333,243.4
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1700.0,1821.0,1819.0,2018-12-12,2,26.543333333333333,551.6
-Salem,Gangavalli,Bajra(Pearl Millet/Cumbu),Other,FAQ,1700.0,1800.0,1750.0,2017-11-06,0,26.471111111111107,635.4
-Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1400.0,1350.0,2015-06-09,1,26.992222222222225,360.09999999999997
-Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1800.0,1700.0,2018-02-27,1,24.797777777777775,133.4
-Cuddalore,Sethiathoppu,Bajra(Pearl Millet/Cumbu),Other,FAQ,0.0,974.0,0.0,2015-09-04,4,30.32777777777778,145.8
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1409.0,1449.0,1419.0,2018-09-24,0,29.716666666666665,202.5
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1463.0,1463.0,1463.0,2016-10-20,3,29.483333333333334,192.89999999999998
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1559.0,1852.0,1679.0,2017-06-06,1,29.93888888888889,60.199999999999996
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2016-02-03,2,23.14888888888889,266.6
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1150.0,1350.0,1250.0,2015-04-20,0,25.819999999999997,91.1
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-03-27,4,24.37666666666667,81.1
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1500.0,1400.0,2017-03-15,2,25.408888888888885,65.4
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1350.0,1550.0,1450.0,2017-06-07,2,28.397777777777776,144.2
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-03-07,2,25.214444444444446,47.7
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1700.0,1800.0,1750.0,2018-12-05,2,25.072222222222223,492.5
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,6623.0,9236.0,7748.0,2017-12-08,4,26.770000000000003,881.9
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1143.0,1193.0,1161.0,2015-02-12,3,24.068888888888893,182.6
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1460.0,1550.0,1500.0,2017-12-19,1,26.54,719.5
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1684.0,1684.0,1684.0,2016-10-18,1,29.923333333333332,212.0
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1700.0,1766.0,1720.0,2017-01-30,0,25.606666666666666,115.2
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,2700.0,2920.0,2760.0,2016-10-19,2,29.919999999999998,212.7
-Cuddalore,Bhuvanagiri,Bajra(Pearl Millet/Cumbu),Other,FAQ,985.0,1286.0,1085.0,2015-09-08,1,30.238888888888887,143.9
-Vellore,Katpadi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1275.0,1450.0,1300.0,2016-08-04,3,28.98444444444445,483.4
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1639.0,1659.0,1659.0,2017-01-03,1,26.642222222222223,161.6
-Salem,Thammampati,Bajra(Pearl Millet/Cumbu),Other,FAQ,2000.0,2100.0,2050.0,2018-10-06,5,28.025555555555556,295.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-04-15,2,25.628888888888888,71.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1500.0,1400.0,2017-04-19,2,27.218888888888888,78.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1600.0,1500.0,2018-02-16,4,24.642222222222223,160.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1800.0,1700.0,2018-09-26,2,24.887777777777774,286.8
-Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1569.0,1569.0,1569.0,2016-11-02,2,29.396666666666665,183.39999999999998
-Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1762.0,1762.0,1762.0,2017-05-10,2,28.04111111111111,69.0
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1603.0,1602.0,2016-08-12,4,29.471111111111107,370.4
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,6824.0,7874.0,7699.0,2018-07-10,1,30.30222222222222,135.6
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1275.0,1280.0,1280.0,2015-02-09,0,24.042222222222218,240.4
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1465.0,1493.0,1471.0,2015-08-05,2,30.333333333333332,226.4
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1569.0,1591.0,1580.0,2015-09-30,2,30.38888888888889,227.3
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1594.0,1613.0,1605.0,2017-01-24,1,25.810000000000002,85.69999999999999
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1800.0,1907.0,1850.0,2018-11-15,3,28.217777777777776,431.0
-Salem,Gangavalli,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900.0,2100.0,2000.0,2017-05-31,2,31.28111111111111,183.4
-Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1850.0,1900.0,1875.0,2015-08-10,0,25.044444444444448,417.8
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1007.0,1007.0,1007.0,2016-09-30,4,29.541111111111114,230.6
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1302.0,1302.0,1302.0,2018-02-07,2,24.964444444444446,395.2
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1419.0,1441.0,1427.0,2018-10-22,0,28.748888888888885,356.2
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1617.0,1812.0,1719.0,2017-08-17,3,30.50111111111111,345.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1250.0,1450.0,1350.0,2016-10-05,2,24.895555555555553,174.70000000000002
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-06-21,3,27.62666666666667,215.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1700.0,1650.0,2018-07-19,3,26.20111111111111,248.1
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1750.0,1650.0,2018-09-21,4,24.781111111111112,264.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1650.0,1850.0,1750.0,2018-11-28,2,25.15222222222222,468.70000000000005
-Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1663.0,1663.0,1663.0,2017-01-23,0,25.83888888888889,156.10000000000002
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,6800.0,7389.0,7262.0,2017-01-12,3,26.18888888888889,153.3
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1400.0,2000.0,1600.0,2017-04-12,2,27.12333333333333,125.9
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1621.0,1621.0,1621.0,2015-12-21,0,25.97222222222222,876.8000000000001
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1069.0,1069.0,1069.0,2016-11-04,4,29.34888888888889,186.89999999999998
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2015-04-22,2,25.905555555555555,96.8
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1550.0,1500.0,2018-01-31,2,24.446666666666665,212.79999999999998
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1510.0,1600.0,1550.0,2018-03-21,2,25.67222222222222,91.39999999999999
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1750.0,1650.0,2018-07-18,2,26.27111111111111,243.70000000000002
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1700.0,1650.0,2018-08-29,2,24.635555555555552,315.2
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,2200.0,2400.0,2300.0,2018-02-14,2,24.62888888888889,164.1
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1676.0,4189.0,2933.0,2016-07-29,4,29.59,368.3
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1141.0,1216.0,1163.0,2018-01-18,3,25.084444444444447,547.7
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1329.0,1329.0,1329.0,2015-02-24,1,24.07444444444445,172.70000000000002
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1389.0,1462.0,1460.0,2016-01-11,0,25.07333333333333,757.5
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1600.0,1600.0,2015-10-20,1,29.655555555555555,262.7
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1719.0,1732.0,1732.0,2016-06-27,0,30.69555555555556,267.5
-Salem,Gangavalli,Bajra(Pearl Millet/Cumbu),Other,FAQ,2000.0,2200.0,2100.0,2017-06-01,3,31.307777777777776,183.3
-Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1650.0,1625.0,2015-12-31,3,23.858888888888885,472.3
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1659.0,1669.0,1669.0,2016-09-28,2,29.57,220.3
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1550.0,1500.0,2018-01-24,2,24.42222222222222,239.6
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1460.0,1550.0,1550.0,2017-11-23,3,24.67888888888889,451.9
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1650.0,1600.0,2018-07-04,2,27.035555555555558,240.2
-Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1482.0,1482.0,1482.0,2016-11-08,1,29.224444444444444,188.2
-Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1509.0,1604.0,1604.0,2016-12-21,2,27.304444444444446,189.8
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1436.0,2770.0,1455.0,2016-10-19,2,29.467777777777776,197.89999999999998
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1465.0,2989.0,1526.0,2016-10-27,3,29.512222222222228,153.9
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,3059.0,2629.0,2016-10-31,0,29.458888888888886,172.29999999999998
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,6124.0,7986.0,7376.0,2017-02-23,3,25.018888888888892,176.1
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,7238.0,9161.0,8252.0,2016-08-17,2,29.656666666666666,202.5
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1006.0,1231.0,1129.0,2017-12-12,1,26.817777777777778,725.6999999999999
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1420.0,1425.0,1423.0,2018-04-19,3,26.939999999999998,56.0
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1507.0,1507.0,1507.0,2015-09-21,0,30.641111111111115,172.89999999999998
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1571.0,1569.0,2015-10-26,0,29.522222222222222,259.7
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1556.0,1556.0,1556.0,2015-11-02,0,29.177777777777777,313.9
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1459.0,1459.0,1459.0,2016-10-18,1,29.45888888888889,199.29999999999998
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2015-05-18,0,26.794444444444444,357.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1550.0,1500.0,2018-02-28,2,24.856666666666666,111.9
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1650.0,1600.0,2018-04-04,2,26.340000000000003,90.8
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1650.0,1600.0,2018-05-16,2,28.17,117.7
-Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1243.0,1243.0,1243.0,2018-06-19,1,29.944444444444443,90.6
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1621.0,3389.0,1625.0,2016-08-11,3,29.467777777777783,370.4
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1653.0,4242.0,4089.0,2016-08-01,0,29.50888888888889,371.9
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,926.0,1139.0,1100.0,2018-01-12,4,25.326666666666668,554.0999999999999
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1389.0,1419.0,1405.0,2016-03-08,1,25.46555555555555,19.2
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1528.0,1528.0,1528.0,2015-10-29,3,29.35222222222222,286.2
-Cuddalore,Bhuvanagiri,Bajra(Pearl Millet/Cumbu),Other,FAQ,1186.0,1316.0,1289.0,2015-08-31,0,30.341111111111108,132.0
-Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1400.0,1500.0,1450.0,2015-06-11,3,26.973333333333333,371.29999999999995
-Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1800.0,1900.0,1850.0,2015-08-09,6,25.067777777777778,417.2
-Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1800.0,1900.0,1850.0,2015-08-17,0,25.08111111111111,234.0
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1509.0,1509.0,1509.0,2016-09-14,2,29.35222222222222,252.4
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2015-03-25,2,24.245555555555555,83.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2015-06-08,0,26.98777777777778,359.09999999999997
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2015-06-10,2,26.993333333333336,367.29999999999995
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1350.0,1500.0,1400.0,2017-01-19,3,24.689999999999998,160.3
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1350.0,1550.0,1450.0,2017-07-12,2,26.783333333333335,302.5
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1550.0,1500.0,2018-02-07,2,24.532222222222224,157.6
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-03-15,3,25.49888888888889,56.5
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-04-28,5,27.595555555555556,102.10000000000001
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1700.0,1600.0,2018-09-14,4,24.666666666666668,270.70000000000005
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1700.0,1600.0,2018-04-18,2,27.075555555555553,98.2
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1700.0,1650.0,2018-07-25,2,25.906666666666666,249.2
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1800.0,1700.0,2018-08-23,3,24.735555555555557,307.79999999999995
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900.0,2100.0,2000.0,2018-12-19,2,24.92,500.40000000000003
-Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1809.0,1809.0,1809.0,2016-11-07,0,29.261111111111113,188.0
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,5836.0,7366.0,6511.0,2017-07-12,2,30.90222222222222,79.2
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1170.0,1620.0,1430.0,2017-10-03,1,29.591111111111108,431.3
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1375.0,1375.0,1375.0,2015-03-11,2,24.707777777777782,134.39999999999998
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1489.0,1543.0,1543.0,2016-06-08,2,30.852222222222224,191.0
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1513.0,1513.0,1513.0,2015-09-14,0,30.560000000000002,160.4
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1521.0,1521.0,1521.0,2015-07-29,2,30.45,217.2
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1653.0,1661.0,1661.0,2016-09-21,2,29.761111111111113,190.4
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,2660.0,2900.0,2860.0,2016-10-24,0,29.86444444444444,181.5
-Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1439.0,1439.0,1439.0,2016-09-02,4,29.51222222222222,252.5
-Salem,Gangavalli,Bajra(Pearl Millet/Cumbu),Other,FAQ,1700.0,1800.0,1750.0,2017-11-02,3,26.637777777777778,630.3
-Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1700.0,1600.0,2018-03-13,1,25.44111111111111,45.9
-Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950.0,2000.0,1975.0,2017-06-03,5,28.412222222222223,131.8
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1473.0,1529.0,1529.0,2016-11-07,0,29.261111111111113,188.0
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1629.0,2649.0,2649.0,2016-10-26,2,29.504444444444445,156.2
-Salem,Thammampati,Bajra(Pearl Millet/Cumbu),Other,FAQ,1800.0,2000.0,1900.0,2017-09-13,2,27.880000000000003,495.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2016-02-17,2,23.5,131.2
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1150.0,1350.0,1250.0,2016-06-29,2,27.857777777777777,155.3
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-03-23,0,24.12111111111111,83.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1500.0,1400.0,2015-03-11,2,23.631111111111107,80.19999999999999
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1350.0,1550.0,1450.0,2017-02-22,2,24.659999999999997,122.4
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-03-14,2,25.471111111111114,52.2
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1650.0,1600.0,2018-04-19,3,27.13666666666667,98.89999999999999
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1700.0,1600.0,2018-04-11,2,26.758888888888887,89.3
-Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1629.0,1629.0,1629.0,2017-01-04,2,26.591111111111108,161.6
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1220.0,1493.0,1350.0,2017-08-11,4,31.412222222222223,218.20000000000002
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1236.0,1756.0,1556.0,2017-11-29,2,27.27111111111111,658.1
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1400.0,1440.0,1430.0,2018-02-13,1,24.67888888888889,294.9
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1853.0,1853.0,1853.0,2017-03-13,0,25.491111111111113,123.8
-Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2015-10-08,3,24.997777777777774,310.3
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1379.0,1379.0,1379.0,2018-03-07,2,24.89222222222222,47.1
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1419.0,1419.0,1419.0,2016-11-10,3,29.124444444444446,188.2
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1450.0,1950.0,1950.0,2016-09-19,0,29.38888888888889,230.29999999999998
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1569.0,1569.0,1569.0,2016-10-25,1,29.49555555555556,164.29999999999998
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1000.0,1300.0,1250.0,2015-03-17,1,23.822222222222223,83.39999999999999
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1150.0,1350.0,1250.0,2016-04-06,2,26.534444444444443,7.800000000000001
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1150.0,1350.0,1250.0,2016-02-11,3,23.305555555555557,219.2
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-03-04,2,23.342222222222226,89.2
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-07-15,2,25.89666666666667,373.59999999999997
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1250.0,1350.0,1300.0,2016-06-08,2,29.035555555555558,78.3
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1500.0,1400.0,2015-01-14,2,22.797777777777778,391.40000000000003
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1400.0,1600.0,1500.0,2017-08-02,2,25.996666666666666,316.9
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1400.0,1600.0,1500.0,2018-01-10,2,24.416666666666668,307.2
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1500.0,1475.0,2017-09-13,2,24.806666666666665,534.7
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1351.0,1575.0,1390.0,2017-11-16,3,27.738888888888887,652.4000000000001
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1430.0,1450.0,1450.0,2015-04-23,3,27.12333333333333,63.39999999999999
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,2016.0,1800.0,2017-04-17,0,27.53777777777778,125.1
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1800.0,1900.0,1850.0,2017-03-22,2,25.83888888888889,125.8
-Erode,Dharapuram,Bajra(Pearl Millet/Cumbu),Local,FAQ,1900.0,2100.0,2000.0,2017-07-19,2,30.216666666666665,212.2
-Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2016-03-23,2,25.362222222222222,7.3
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1500.0,1500.0,1500.0,2016-10-03,0,29.504444444444445,229.29999999999998
-Theni,Theni,Bajra(Pearl Millet/Cumbu),Small,FAQ,2250.0,2350.0,2300.0,2018-11-27,1,25.957777777777775,577.0999999999999
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-03-05,3,23.407777777777774,90.2
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2016-08-17,2,25.01,237.1
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1550.0,1500.0,2017-11-13,0,24.54111111111111,486.3
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1700.0,1600.0,2017-07-19,2,26.445555555555554,304.59999999999997
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1650.0,1750.0,1700.0,2018-08-01,2,25.57777777777778,252.29999999999998
-Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1029.0,1309.0,1303.0,2018-06-12,1,29.622222222222224,99.2
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,5859.0,8950.0,6910.0,2016-09-30,4,29.541111111111114,230.6
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1121.0,1139.0,1129.0,2018-01-11,3,25.347777777777775,581.8
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1753.0,1766.0,1766.0,2016-06-30,3,30.619999999999997,276.0
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1826.0,1826.0,1826.0,2016-04-11,0,27.59,8.4
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,3055.0,3055.0,3055.0,2017-02-08,2,25.285555555555554,112.5
-Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1350.0,1325.0,2015-07-17,4,25.854444444444447,371.4
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1850.0,1850.0,1850.0,2016-08-18,3,29.67333333333334,202.5
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2016-03-09,2,24.39,27.299999999999997
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2016-04-21,3,27.736666666666668,9.100000000000001
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-02-25,2,22.982222222222223,96.2
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1390.0,1500.0,1400.0,2017-05-03,2,27.874444444444446,71.6
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1410.0,1600.0,1500.0,2017-11-29,2,24.767777777777777,384.09999999999997
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1550.0,1500.0,2017-12-06,2,24.616666666666667,440.9
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1650.0,1600.0,2018-04-12,3,26.797777777777778,91.3
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1650.0,1600.0,2018-05-23,2,28.283333333333335,140.1
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1750.0,1650.0,2018-09-19,2,24.743333333333336,268.7
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1650.0,1800.0,1700.0,2018-10-17,2,24.970000000000002,497.2
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1325.0,1310.0,2017-09-25,0,29.755555555555556,417.40000000000003
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1350.0,1425.0,1383.0,2018-04-20,4,27.042222222222225,56.400000000000006
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1429.0,1451.0,1451.0,2016-01-12,1,25.025555555555556,757.5
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1461.0,1479.0,1479.0,2015-11-13,4,28.468888888888888,664.1999999999999
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1900.0,1600.0,2017-04-03,0,26.443333333333328,124.1
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1501.0,1545.0,1529.0,2017-12-27,2,26.09,690.2
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1663.0,1723.0,1681.0,2016-08-10,2,29.55111111111111,372.3
-Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1669.0,1671.0,1671.0,2016-10-17,0,29.933333333333334,211.7
-Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1459.0,1459.0,1459.0,2018-01-11,3,25.62333333333333,734.3
-Salem,Gangavalli,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900.0,2100.0,2000.0,2017-05-30,1,31.258888888888887,183.4
-Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1609.0,1609.0,1609.0,2016-10-04,1,29.512222222222228,214.3
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2016-02-24,2,23.778888888888886,91.8
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-04-08,2,25.207777777777782,45.0
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2016-07-13,2,27.001111111111115,171.20000000000002
-Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1700.0,1650.0,2018-08-16,3,24.977777777777778,339.2
-Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1539.0,3504.0,1670.0,2016-10-06,3,29.514444444444447,214.1
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1371.0,1379.0,1372.0,2017-11-22,2,27.412222222222226,722.1
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1371.0,1480.0,1480.0,2016-01-18,0,24.80777777777778,839.0999999999999
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1700.0,1739.0,1728.0,2017-08-29,1,30.522222222222222,257.0
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1960.0,2000.0,2000.0,2015-03-10,1,24.584444444444443,166.9
+Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1519.0,1519.0,1519.0,2016-08-29,0,29.685555555555553,295.4
+Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1800.0,2000.0,1900.0,2016-07-16,5,26.851111111111116,179.6
+Cuddalore,Sethiathoppu,Bajra(Pearl Millet/Cumbu),Other,FAQ,1215.0,1289.0,1239.0,2015-09-01,1,30.517777777777777,183.8
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2015-06-24,2,26.6,396.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-03-18,2,23.925555555555558,83.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1250.0,1450.0,1350.0,2017-05-04,3,28.003333333333334,71.6
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1500.0,1400.0,2016-11-09,2,25.218888888888888,200.89999999999998
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1350.0,1550.0,1450.0,2017-05-24,2,28.592222222222226,121.3
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1550.0,1500.0,2018-02-26,0,24.825555555555557,136.7
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1700.0,1650.0,2018-07-11,2,26.736666666666665,239.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1650.0,1750.0,1700.0,2018-09-24,0,24.906666666666666,279.40000000000003
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1650.0,1880.0,1750.0,2018-10-10,2,24.96222222222222,489.90000000000003
+Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1524.0,1527.0,1527.0,2017-01-21,5,25.72222222222222,124.00000000000001
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1789.0,4209.0,1789.0,2016-07-28,3,29.94888888888889,378.3
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1000.0,1191.0,1180.0,2017-11-30,3,27.067777777777778,702.4000000000001
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1006.0,1150.0,1050.0,2017-11-17,4,27.56222222222222,720.6
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1334.0,1325.0,2017-10-24,1,28.59777777777778,583.5
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1310.0,1310.0,1310.0,2015-04-06,0,25.871111111111112,18.900000000000002
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1669.0,1669.0,1669.0,2016-08-11,3,29.574444444444442,376.6
+Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1800.0,1700.0,2018-02-26,0,24.825555555555557,136.7
+Cuddalore,Sethiathoppu,Bajra(Pearl Millet/Cumbu),Other,FAQ,1415.0,0.0,0.0,2015-09-02,2,30.535555555555554,182.3
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1271.0,1271.0,1271.0,2018-02-05,0,24.55,378.6
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1369.0,1479.0,1439.0,2018-05-14,0,28.837777777777774,55.4
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2015-04-09,3,25.340000000000003,45.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1350.0,1450.0,1400.0,2017-01-25,2,24.785555555555558,145.6
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1550.0,1500.0,2018-02-17,5,24.717777777777776,157.4
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-05-10,3,28.124444444444443,108.5
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1650.0,1600.0,2018-06-06,2,28.112222222222222,248.8
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1700.0,1650.0,2018-07-10,1,26.79666666666667,240.3
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1800.0,1700.0,2018-09-27,3,24.977777777777778,288.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1650.0,1850.0,1750.0,2018-10-31,2,25.07,518.5
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1259.0,1440.0,1389.0,2018-10-08,0,30.104444444444447,253.0
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1494.0,2843.0,1551.0,2016-10-25,1,29.843333333333334,156.39999999999998
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1463.0,1463.0,1463.0,2015-08-12,2,30.533333333333335,184.99999999999997
+Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1069.0,1189.0,1129.0,2017-06-13,1,31.604444444444447,82.89999999999999
+Salem,Gangavalli,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900.0,2000.0,1950.0,2017-09-14,3,27.32111111111111,484.4
+Salem,Gangavalli,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900.0,2100.0,2000.0,2017-06-06,1,30.558888888888887,187.4
+Salem,Gangavalli,Bajra(Pearl Millet/Cumbu),Other,FAQ,2100.0,2300.0,2200.0,2017-05-25,3,30.256666666666664,186.0
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1579.0,1579.0,1579.0,2016-10-14,4,29.845555555555556,222.8
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1600.0,1600.0,1600.0,2016-11-14,0,29.253333333333334,201.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2016-06-15,2,28.85888888888889,80.80000000000001
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2015-06-17,2,26.93444444444445,370.7
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2016-01-23,5,23.26777777777778,409.1
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1150.0,1350.0,1250.0,2015-04-07,1,25.20666666666667,45.4
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2015-05-07,3,26.736666666666668,127.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2015-05-13,2,26.905555555555555,169.3
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-05-09,2,28.10888888888889,97.7
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-03-28,2,26.09,92.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1650.0,1750.0,1700.0,2018-08-09,3,25.368888888888886,242.9
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,5161.0,7495.0,6329.0,2017-06-13,1,31.604444444444447,82.89999999999999
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1261.0,1261.0,1261.0,2015-01-28,2,24.237777777777772,310.59999999999997
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1273.0,1310.0,1295.0,2017-10-04,2,29.431111111111107,437.40000000000003
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1426.0,1426.0,1426.0,2016-01-21,3,24.724444444444444,838.6
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1435.0,1435.0,1435.0,2015-05-21,3,28.47555555555555,155.9
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1537.0,1539.0,1539.0,2015-09-09,2,30.483333333333334,185.0
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1625.0,1630.0,1629.0,2016-10-27,3,29.91444444444444,143.3
+Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2016-02-26,4,23.918888888888887,92.0
+Cuddalore,Sethiathoppu,Bajra(Pearl Millet/Cumbu),Other,FAQ,1156.0,1315.0,1267.0,2015-08-31,0,30.495555555555555,183.9
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1500.0,1571.0,1561.0,2016-12-09,4,28.042222222222218,149.0
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1561.0,1561.0,1561.0,2016-10-05,2,29.815555555555555,226.9
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1629.0,1629.0,1629.0,2016-11-16,2,29.140000000000004,202.4
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1250.0,2015-04-29,2,26.317777777777778,107.6
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2015-06-01,0,27.06222222222222,358.99999999999994
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2016-08-24,2,24.906666666666666,237.1
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1250.0,1450.0,1350.0,2016-12-17,5,25.075555555555557,225.20000000000002
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1330.0,1400.0,1380.0,2016-12-21,2,25.013333333333335,223.3
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-04-25,2,27.50222222222222,101.10000000000001
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1359.0,1560.0,1409.0,2017-11-27,0,27.22555555555556,727.8
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1479.0,1603.0,1569.0,2015-09-29,1,30.421111111111113,235.4
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1531.0,1531.0,1531.0,2015-10-28,2,29.405555555555555,288.7
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1552.0,1629.0,1553.0,2015-10-19,0,29.64777777777778,272.9
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1569.0,1603.0,1601.0,2015-09-01,1,30.592222222222226,163.3
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1700.0,1700.0,1700.0,2016-09-12,0,29.526666666666667,259.79999999999995
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1700.0,1821.0,1819.0,2018-12-12,2,26.496666666666666,573.8000000000001
+Salem,Gangavalli,Bajra(Pearl Millet/Cumbu),Other,FAQ,1700.0,1800.0,1750.0,2017-11-06,0,25.87111111111111,665.2
+Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1400.0,1350.0,2015-06-09,1,27.053333333333335,360.09999999999997
+Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1800.0,1700.0,2018-02-27,1,24.86444444444444,133.4
+Cuddalore,Sethiathoppu,Bajra(Pearl Millet/Cumbu),Other,FAQ,0.0,974.0,0.0,2015-09-04,4,30.505555555555556,207.5
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1409.0,1449.0,1419.0,2018-09-24,0,30.533333333333335,174.1
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1463.0,1463.0,1463.0,2016-10-20,3,29.84777777777778,204.79999999999998
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1559.0,1852.0,1679.0,2017-06-06,1,31.365555555555556,101.4
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2016-02-03,2,23.21222222222222,266.6
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1150.0,1350.0,1250.0,2015-04-20,0,25.88666666666667,91.1
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-03-27,4,24.43777777777778,81.1
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1500.0,1400.0,2017-03-15,2,25.473333333333333,65.4
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1350.0,1550.0,1450.0,2017-06-07,2,28.46333333333333,144.2
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-03-07,2,25.280000000000005,47.7
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1700.0,1800.0,1750.0,2018-12-05,2,25.13666666666667,492.5
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,6623.0,9236.0,7748.0,2017-12-08,4,26.772222222222222,863.1
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1143.0,1193.0,1161.0,2015-02-12,3,24.038888888888888,239.5
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1460.0,1550.0,1500.0,2017-12-19,1,26.39,654.1
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1684.0,1684.0,1684.0,2016-10-18,1,29.914444444444445,192.5
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1700.0,1766.0,1720.0,2017-01-30,0,25.41444444444444,125.39999999999999
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,2700.0,2920.0,2760.0,2016-10-19,2,29.919999999999998,193.0
+Cuddalore,Bhuvanagiri,Bajra(Pearl Millet/Cumbu),Other,FAQ,985.0,1286.0,1085.0,2015-09-08,1,30.40111111111111,206.5
+Vellore,Katpadi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1275.0,1450.0,1300.0,2016-08-04,3,28.85777777777778,515.8
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1639.0,1659.0,1659.0,2017-01-03,1,26.583333333333332,142.20000000000002
+Salem,Thammampati,Bajra(Pearl Millet/Cumbu),Other,FAQ,2000.0,2100.0,2050.0,2018-10-06,5,27.344444444444445,321.5
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-04-15,2,25.694444444444443,71.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1500.0,1400.0,2017-04-19,2,27.281111111111112,78.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1600.0,1500.0,2018-02-16,4,24.711111111111112,160.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1800.0,1700.0,2018-09-26,2,24.95444444444444,286.8
+Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1569.0,1569.0,1569.0,2016-11-02,2,29.76777777777778,185.79999999999998
+Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1762.0,1762.0,1762.0,2017-05-10,2,29.22888888888889,70.2
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1603.0,1602.0,2016-08-12,4,29.609999999999996,381.59999999999997
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,6824.0,7874.0,7699.0,2018-07-10,1,31.355555555555554,149.9
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1275.0,1280.0,1280.0,2015-02-09,0,24.021111111111107,290.7
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1465.0,1493.0,1471.0,2015-08-05,2,30.372222222222224,224.8
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1569.0,1591.0,1580.0,2015-09-30,2,30.34888888888889,238.0
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1594.0,1613.0,1605.0,2017-01-24,1,25.637777777777774,107.2
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1800.0,1907.0,1850.0,2018-11-15,3,28.076666666666668,427.29999999999995
+Salem,Gangavalli,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900.0,2100.0,2000.0,2017-05-31,2,30.427777777777777,196.8
+Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1850.0,1900.0,1875.0,2015-08-10,0,25.10111111111111,417.8
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1007.0,1007.0,1007.0,2016-09-30,4,29.82444444444445,237.6
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1302.0,1302.0,1302.0,2018-02-07,2,24.542222222222218,384.00000000000006
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1419.0,1441.0,1427.0,2018-10-22,0,29.547777777777778,322.59999999999997
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1617.0,1812.0,1719.0,2017-08-17,3,31.536666666666665,305.9
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1250.0,1450.0,1350.0,2016-10-05,2,24.952222222222222,174.70000000000002
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-06-21,3,27.69777777777778,215.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1700.0,1650.0,2018-07-19,3,26.271111111111107,248.1
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1750.0,1650.0,2018-09-21,4,24.84888888888889,264.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1650.0,1850.0,1750.0,2018-11-28,2,25.217777777777776,468.70000000000005
+Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1663.0,1663.0,1663.0,2017-01-23,0,25.669999999999998,123.7
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,6800.0,7389.0,7262.0,2017-01-12,3,26.05888888888889,133.8
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1400.0,2000.0,1600.0,2017-04-12,2,26.809999999999995,114.2
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1621.0,1621.0,1621.0,2015-12-21,0,26.056666666666665,964.9999999999999
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1069.0,1069.0,1069.0,2016-11-04,4,29.716666666666665,190.1
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2015-04-22,2,25.971111111111107,96.8
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1550.0,1500.0,2018-01-31,2,24.51888888888889,212.79999999999998
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1510.0,1600.0,1550.0,2018-03-21,2,25.736666666666665,91.39999999999999
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1750.0,1650.0,2018-07-18,2,26.341111111111108,243.70000000000002
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1700.0,1650.0,2018-08-29,2,24.705555555555556,315.2
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,2200.0,2400.0,2300.0,2018-02-14,2,24.696666666666665,164.1
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1676.0,4189.0,2933.0,2016-07-29,4,29.90777777777778,379.0
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1141.0,1216.0,1163.0,2018-01-18,3,24.914444444444445,493.09999999999997
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1329.0,1329.0,1329.0,2015-02-24,1,24.013333333333332,226.7
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1389.0,1462.0,1460.0,2016-01-11,0,25.11111111111111,851.5
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1600.0,1600.0,2015-10-20,1,29.632222222222218,268.79999999999995
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1719.0,1732.0,1732.0,2016-06-27,0,30.677777777777777,258.1
+Salem,Gangavalli,Bajra(Pearl Millet/Cumbu),Other,FAQ,2000.0,2200.0,2100.0,2017-06-01,3,30.46,196.5
+Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1650.0,1625.0,2015-12-31,3,23.92222222222222,472.3
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1659.0,1669.0,1669.0,2016-09-28,2,29.837777777777774,226.89999999999998
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1550.0,1500.0,2018-01-24,2,24.493333333333336,239.6
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1460.0,1550.0,1550.0,2017-11-23,3,24.74888888888889,451.9
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1650.0,1600.0,2018-07-04,2,27.106666666666666,240.2
+Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1482.0,1482.0,1482.0,2016-11-08,1,29.578888888888887,186.79999999999998
+Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1509.0,1604.0,1604.0,2016-12-21,2,27.38888888888889,166.9
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1436.0,2770.0,1455.0,2016-10-19,2,29.834444444444443,206.0
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1465.0,2989.0,1526.0,2016-10-27,3,29.858888888888885,148.39999999999998
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,3059.0,2629.0,2016-10-31,0,29.82,183.29999999999998
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,6124.0,7986.0,7376.0,2017-02-23,3,24.84,168.7
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,7238.0,9161.0,8252.0,2016-08-17,2,29.77444444444444,269.2
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1006.0,1231.0,1129.0,2017-12-12,1,26.67222222222222,656.1
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1420.0,1425.0,1423.0,2018-04-19,3,26.557777777777776,62.4
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1507.0,1507.0,1507.0,2015-09-21,0,30.58555555555556,188.10000000000002
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1571.0,1569.0,2015-10-26,0,29.515555555555558,258.90000000000003
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1556.0,1556.0,1556.0,2015-11-02,0,29.18,324.3
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1459.0,1459.0,1459.0,2016-10-18,1,29.824444444444442,207.70000000000002
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2015-05-18,0,26.86111111111111,357.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1550.0,1500.0,2018-02-28,2,24.923333333333332,111.9
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1650.0,1600.0,2018-04-04,2,26.40222222222222,90.8
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1650.0,1600.0,2018-05-16,2,28.24111111111111,117.7
+Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1243.0,1243.0,1243.0,2018-06-19,1,31.03666666666667,92.4
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1621.0,3389.0,1625.0,2016-08-11,3,29.612222222222222,381.7
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1653.0,4242.0,4089.0,2016-08-01,0,29.77444444444445,380.1
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,926.0,1139.0,1100.0,2018-01-12,4,25.174444444444443,500.8
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1389.0,1419.0,1405.0,2016-03-08,1,25.439999999999998,23.5
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1528.0,1528.0,1528.0,2015-10-29,3,29.355555555555554,289.4
+Cuddalore,Bhuvanagiri,Bajra(Pearl Millet/Cumbu),Other,FAQ,1186.0,1316.0,1289.0,2015-08-31,0,30.495555555555555,183.9
+Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1400.0,1500.0,1450.0,2015-06-11,3,27.034444444444443,371.29999999999995
+Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1800.0,1900.0,1850.0,2015-08-09,6,25.124444444444443,417.2
+Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1800.0,1900.0,1850.0,2015-08-17,0,25.137777777777774,234.0
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1509.0,1509.0,1509.0,2016-09-14,2,29.447777777777773,297.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2015-03-25,2,24.307777777777776,83.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2015-06-08,0,27.04888888888889,359.09999999999997
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2015-06-10,2,27.054444444444446,367.29999999999995
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1350.0,1500.0,1400.0,2017-01-19,3,24.75,160.3
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1350.0,1550.0,1450.0,2017-07-12,2,26.86,302.5
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1550.0,1500.0,2018-02-07,2,24.60333333333333,157.6
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-03-15,3,25.564444444444447,56.5
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-04-28,5,27.656666666666666,102.10000000000001
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1700.0,1600.0,2018-09-14,4,24.733333333333334,270.70000000000005
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1700.0,1600.0,2018-04-18,2,27.13666666666667,98.2
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1700.0,1650.0,2018-07-25,2,25.976666666666663,249.2
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1800.0,1700.0,2018-08-23,3,24.803333333333335,307.79999999999995
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900.0,2100.0,2000.0,2018-12-19,2,24.984444444444442,500.40000000000003
+Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1809.0,1809.0,1809.0,2016-11-07,0,29.622222222222224,187.2
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,5836.0,7366.0,6511.0,2017-07-12,2,32.196666666666665,120.2
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1170.0,1620.0,1430.0,2017-10-03,1,29.454444444444444,430.40000000000003
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1375.0,1375.0,1375.0,2015-03-11,2,24.60333333333333,165.7
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1489.0,1543.0,1543.0,2016-06-08,2,30.75333333333333,180.20000000000002
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1513.0,1513.0,1513.0,2015-09-14,0,30.5,177.1
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1521.0,1521.0,1521.0,2015-07-29,2,30.466666666666665,211.8
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1653.0,1661.0,1661.0,2016-09-21,2,29.718888888888888,204.7
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,2660.0,2900.0,2860.0,2016-10-24,0,29.89555555555556,160.79999999999998
+Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1439.0,1439.0,1439.0,2016-09-02,4,29.585555555555555,308.0
+Salem,Gangavalli,Bajra(Pearl Millet/Cumbu),Other,FAQ,1700.0,1800.0,1750.0,2017-11-02,3,26.04111111111111,654.9
+Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1700.0,1600.0,2018-03-13,1,25.507777777777783,45.9
+Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950.0,2000.0,1975.0,2017-06-03,5,28.476666666666667,131.8
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1473.0,1529.0,1529.0,2016-11-07,0,29.622222222222224,187.2
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1629.0,2649.0,2649.0,2016-10-26,2,29.85222222222222,149.1
+Salem,Thammampati,Bajra(Pearl Millet/Cumbu),Other,FAQ,1800.0,2000.0,1900.0,2017-09-13,2,27.343333333333334,476.70000000000005
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2016-02-17,2,23.565555555555555,131.2
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1150.0,1350.0,1250.0,2016-06-29,2,27.921111111111106,155.3
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-03-23,0,24.182222222222222,83.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1500.0,1400.0,2015-03-11,2,23.693333333333328,80.19999999999999
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1350.0,1550.0,1450.0,2017-02-22,2,24.72555555555556,122.4
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2018-03-14,2,25.53777777777778,52.2
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1650.0,1600.0,2018-04-19,3,27.19777777777778,98.89999999999999
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1700.0,1600.0,2018-04-11,2,26.82111111111111,89.3
+Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1629.0,1629.0,1629.0,2017-01-04,2,26.526666666666667,142.10000000000002
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1220.0,1493.0,1350.0,2017-08-11,4,31.372222222222224,211.29999999999998
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1236.0,1756.0,1556.0,2017-11-29,2,27.112222222222222,727.5
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1400.0,1440.0,1430.0,2018-02-13,1,24.46,165.9
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1853.0,1853.0,1853.0,2017-03-13,0,25.218888888888888,113.0
+Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2015-10-08,3,25.055555555555557,310.3
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1379.0,1379.0,1379.0,2018-03-07,2,24.581111111111113,41.199999999999996
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1419.0,1419.0,1419.0,2016-11-10,3,29.45666666666667,186.79999999999998
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1450.0,1950.0,1950.0,2016-09-19,0,29.512222222222228,254.9
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1569.0,1569.0,1569.0,2016-10-25,1,29.843333333333334,156.39999999999998
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1000.0,1300.0,1250.0,2015-03-17,1,23.883333333333333,83.39999999999999
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1150.0,1350.0,1250.0,2016-04-06,2,26.606666666666666,7.800000000000001
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1150.0,1350.0,1250.0,2016-02-11,3,23.371111111111112,219.2
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-03-04,2,23.404444444444444,89.2
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-07-15,2,25.955555555555556,373.59999999999997
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1250.0,1350.0,1300.0,2016-06-08,2,29.09888888888889,78.3
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1500.0,1400.0,2015-01-14,2,22.862222222222222,391.40000000000003
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1400.0,1600.0,1500.0,2017-08-02,2,26.068888888888885,316.9
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1400.0,1600.0,1500.0,2018-01-10,2,24.49111111111111,307.2
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1500.0,1475.0,2017-09-13,2,24.872222222222224,534.7
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1351.0,1575.0,1390.0,2017-11-16,3,27.584444444444443,720.4
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1430.0,1450.0,1450.0,2015-04-23,3,26.904444444444444,66.80000000000001
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,2016.0,1800.0,2017-04-17,0,27.191111111111113,113.1
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1800.0,1900.0,1850.0,2017-03-22,2,25.564444444444447,115.7
+Erode,Dharapuram,Bajra(Pearl Millet/Cumbu),Local,FAQ,1900.0,2100.0,2000.0,2017-07-19,2,30.107777777777777,191.0
+Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1600.0,1550.0,2016-03-23,2,25.427777777777777,7.3
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1500.0,1500.0,1500.0,2016-10-03,0,29.797777777777775,236.20000000000002
+Theni,Theni,Bajra(Pearl Millet/Cumbu),Small,FAQ,2250.0,2350.0,2300.0,2018-11-27,1,25.18777777777778,644.6999999999999
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-03-05,3,23.470000000000002,90.2
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2016-08-17,2,25.07333333333333,237.1
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1550.0,1500.0,2017-11-13,0,24.608888888888885,486.3
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1700.0,1600.0,2017-07-19,2,26.518888888888892,304.59999999999997
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1650.0,1750.0,1700.0,2018-08-01,2,25.648888888888884,252.29999999999998
+Cuddalore,Tittakudi,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1029.0,1309.0,1303.0,2018-06-12,1,30.663333333333338,100.2
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,5859.0,8950.0,6910.0,2016-09-30,4,29.82444444444445,237.6
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1121.0,1139.0,1129.0,2018-01-11,3,25.197777777777773,516.3000000000001
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1753.0,1766.0,1766.0,2016-06-30,3,30.614444444444448,266.1
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1826.0,1826.0,1826.0,2016-04-11,0,27.457777777777782,7.2
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,3055.0,3055.0,3055.0,2017-02-08,2,25.06111111111111,118.4
+Coimbatore,Karamadai,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1350.0,1325.0,2015-07-17,4,25.91333333333333,371.4
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1850.0,1850.0,1850.0,2016-08-18,3,29.80111111111111,269.2
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2016-03-09,2,24.457777777777775,27.299999999999997
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1300.0,1250.0,2016-04-21,3,27.80777777777778,9.100000000000001
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-02-25,2,23.043333333333333,96.2
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1390.0,1500.0,1400.0,2017-05-03,2,27.936666666666667,71.6
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1410.0,1600.0,1500.0,2017-11-29,2,24.83666666666667,384.09999999999997
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1450.0,1550.0,1500.0,2017-12-06,2,24.686666666666664,440.9
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1650.0,1600.0,2018-04-12,3,26.86,91.3
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1550.0,1650.0,1600.0,2018-05-23,2,28.354444444444447,140.1
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1750.0,1650.0,2018-09-19,2,24.809999999999995,268.7
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1650.0,1800.0,1700.0,2018-10-17,2,25.038888888888888,497.2
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1300.0,1325.0,1310.0,2017-09-25,0,29.695555555555554,415.5
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1350.0,1425.0,1383.0,2018-04-20,4,26.657777777777774,62.4
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1429.0,1451.0,1451.0,2016-01-12,1,25.06444444444444,851.5
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1461.0,1479.0,1479.0,2015-11-13,4,28.5,682.1999999999999
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1500.0,1900.0,1600.0,2017-04-03,0,26.133333333333333,112.7
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1501.0,1545.0,1529.0,2017-12-27,2,25.939999999999998,624.8000000000001
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1663.0,1723.0,1681.0,2016-08-10,2,29.582222222222224,376.6
+Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1669.0,1671.0,1671.0,2016-10-17,0,29.915555555555557,193.39999999999998
+Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1459.0,1459.0,1459.0,2018-01-11,3,25.279999999999998,668.1
+Salem,Gangavalli,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900.0,2100.0,2000.0,2017-05-30,1,30.403333333333336,196.5
+Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1609.0,1609.0,1609.0,2016-10-04,1,29.81111111111111,226.9
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1100.0,1300.0,1200.0,2016-02-24,2,23.84222222222222,91.8
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2015-04-08,2,25.272222222222222,45.0
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1200.0,1400.0,1300.0,2016-07-13,2,27.06555555555555,171.20000000000002
+Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1600.0,1700.0,1650.0,2018-08-16,3,25.042222222222225,339.2
+Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1539.0,3504.0,1670.0,2016-10-06,3,29.825555555555557,226.79999999999998
