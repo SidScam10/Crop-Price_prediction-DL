@@ -101,7 +101,7 @@ def create_or_update_district_coordinates(csv_file_path, cache_file='district_co
 if __name__ == "__main__":
     # Specify the path to your new CSV file.
     # You can change this path each time you run the script with a different file.
-    csv_path = '.\Cleaned CSVs\Blackgram-2022-2025.csv'
+    csv_path = '.\Cleaned CSVs\Coconut-2022-2025.csv'
 
     # Specify the name of your persistent cache file
     coordinate_cache_file = 'district_coordinates.json'
