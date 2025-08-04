@@ -1,20 +1,4 @@
 {
-    "Thiruvannamalai": {
-        "lat": 9.539867,
-        "lon": 77.6197904
-    },
-    "Kancheepuram": {
-        "lat": 12.8796051,
-        "lon": 79.7042762
-    },
-    "Namakkal": {
-        "lat": 11.3033889,
-        "lon": 78.118604
-    },
-    "Villupuram": {
-        "lat": 11.9398285,
-        "lon": 79.4945645
-    },
     "Ariyalur": {
         "lat": 11.1530559,
         "lon": 79.2585797
@@ -43,21 +27,13 @@
         "lat": 9.8692558,
         "lon": 77.4222974
     },
-    "Thiruchirappalli": {
-        "lat": 10.7905,
-        "lon": 78.7047
+    "Namakkal": {
+        "lat": 11.3033889,
+        "lon": 78.118604
     },
-    "Thiruvellore": {
-        "lat": 13.1227,
-        "lon": 79.9118
-    },
-    "Nagercoil (Kannyiakumari)": {
-        "lat": 8.1833,
-        "lon": 77.4119
-    },
-    "Thirunelveli": {
-        "lat": 8.7150,
-        "lon": 77.7656
+    "Villupuram": {
+        "lat": 11.9398285,
+        "lon": 79.4945645
     },
     "Virudhunagar": {
         "lat": 9.4926289,
@@ -66,6 +42,10 @@
     "Dindigul": {
         "lat": 10.4256896,
         "lon": 77.815664
+    },
+    "Thiruvannamalai": {
+        "lat": 9.539867,
+        "lon": 77.6197904
     },
     "Ramanathapuram": {
         "lat": 9.5205576,
@@ -99,6 +79,14 @@
         "lat": 12.5152075,
         "lon": 78.0093769
     },
+    "Kancheepuram": {
+        "lat": 12.8796051,
+        "lon": 79.7042762
+    },
+    "Chengalpattu": {
+        "lat": 12.6840886,
+        "lon": 79.9836371
+    },
     "The Nilgiris": {
         "lat": 11.4,
         "lon": 76.7
@@ -106,10 +94,6 @@
     "Sivaganga": {
         "lat": 9.8486881,
         "lon": 78.4870461
-    },
-    "Chengalpattu": {
-        "lat": 12.6840886,
-        "lon": 79.9836371
     },
     "Thirupur": {
         "lat": 12.921745,
@@ -142,5 +126,21 @@
     "Tenkasi": {
         "lat": 9.0933908,
         "lon": 77.4758373
+    },
+    "Thirunelveli": {
+        "lat": 8.7150,
+        "lon": 77.7656
+    },
+    "Thiruvellore" : {
+        "lat": 13.1227,
+        "lon": 79.9118
+    },
+    "Thiruchirappalli" : {
+        "lat": 10.7905,
+        "lon": 78.7047
+    },
+    "Nagercoil (Kannyiakumari)" : {
+        "lat": 8.1833,
+        "lon": 77.4119
     }
 }

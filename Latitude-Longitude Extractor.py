@@ -3,26 +3,12 @@ import time
 import json
 import os
 import pprint
+import glob
 
-# This script requires the 'geopy' library.
-# You can install it by running: pip install geopy
 from geopy.geocoders import Nominatim
 
 
 def create_or_update_district_coordinates(csv_file_path, cache_file='district_coordinates.json'):
-    """
-    Reads a CSV file to find unique districts and fetches their geographic
-    coordinates, using a JSON file as a cache to avoid re-fetching existing data.
-
-    Args:
-        csv_file_path (str): The path to the input CSV file.
-        cache_file (str): The path to the JSON file used for caching coordinates.
-
-    Returns:
-        tuple: A tuple containing:
-            - dict: The updated dictionary of district names and coordinates.
-            - list: A list of district names for which coordinates were not found in this run.
-    """
     # --- Step 1: Load existing coordinates from the cache file ---
     if os.path.exists(cache_file):
         print(f"Loading existing coordinates from '{cache_file}'...")
@@ -96,31 +82,32 @@ def create_or_update_district_coordinates(csv_file_path, cache_file='district_co
 
     return generated_coordinates, districts_not_found
 
-
-# --- Main Execution ---
 if __name__ == "__main__":
-    # Specify the path to your new CSV file.
-    # You can change this path each time you run the script with a different file.
-    csv_path = '.\Cleaned CSVs\Coconut-2022-2025.csv'
+    csv_folder = './Cleaned CSVs/'
+
+    csv_files = glob.glob(f"{csv_folder}*.csv")
 
     # Specify the name of your persistent cache file
     coordinate_cache_file = 'district_coordinates.json'
 
-    # Call the function to get the combined data
-    final_district_data, not_found_list = create_or_update_district_coordinates(
-        csv_path,
-        cache_file=coordinate_cache_file
-    )
+    for csv_path in csv_files:
+        print(f"\nProcessing file: {csv_path}")
 
-    # Print the final, combined dictionary of all found coordinates
-    if final_district_data:
-        print("\n--- Final Combined District Coordinates ---")
-        pprint.pprint(final_district_data)
-    else:
-        print("\nNo coordinate data was generated.")
+        # Call the function to get the combined data
+        final_district_data, not_found_list = create_or_update_district_coordinates(
+            csv_path,
+            cache_file=coordinate_cache_file
+        )
 
-    # Print the list of districts that were not found in this specific run
-    if not_found_list:
-        print("\nCould not find coordinates for the following districts in this run:")
-        for district_name in not_found_list:
-            print(f"- {district_name}")
+        # Print the final, combined dictionary of all found coordinates
+        if final_district_data:
+            print("\n--- Final Combined District Coordinates ---")
+            pprint.pprint(final_district_data)
+        else:
+            print("\nNo coordinate data was generated.")
+
+        # Print the list of districts that were not found in this specific run
+        if not_found_list:
+            print("\nCould not find coordinates for the following districts in this run:")
+            for district_name in not_found_list:
+                print(f"- {district_name}")
