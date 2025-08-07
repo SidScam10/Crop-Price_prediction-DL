@@ -1,31 +1,29 @@
-import tensorflow as tf
+import torch
 
-# Check for available GPUs
-gpus = tf.config.list_physical_devices('GPU')
+# Check if a CUDA-enabled GPU is available.
+if torch.cuda.is_available():
+    # Get the number of available GPUs.
+    gpu_count = torch.cuda.device_count()
+    print(f"GPU(s) found and configured: {gpu_count}")
 
-if gpus:
-    try:
-        # Restrict TensorFlow to only allocate memory as needed
-        for gpu in gpus:
-            tf.config.experimental.set_memory_growth(gpu, True)
-        
-        logical_gpus = tf.config.list_logical_devices('GPU')
-        print(f"Found {len(gpus)} Physical GPU(s), Configured {len(logical_gpus)} Logical GPU(s)")
+    # Iterate through each GPU and print its name.
+    for i in range(gpu_count):
+        print(f"  GPU {i}: {torch.cuda.get_device_name(i)}")
 
-        # Optional: Run a test operation to see which device is used
-        print("\n--- GPU Test ---")
-        with tf.device('/GPU:0'):
-            a = tf.constant([[1.0, 2.0, 3.0], [4.0, 5.0, 6.0]])
-            b = tf.constant([[1.0, 2.0], [3.0, 4.0], [5.0, 6.0]])
-            c = tf.matmul(a, b)
-        print("Test matrix multiplication on GPU:")
-        print(c.numpy())
-        print("----------------\n")
-    except RuntimeError as e:
-        # Memory growth must be set before GPUs have been initialized.
-        # This error is common if you try to configure GPUs after a TF operation has already run.
-        print(e)
+    # Set the 'device' object to be used for moving tensors and models to the GPU.
+    device = torch.device("cuda")
+
 else:
     print("No GPU found. The model will run on the CPU.")
+    # Set the 'device' object to CPU.
+    device = torch.device("cpu")
 
-# ... (rest of your code for data loading, model building, etc.)
+
+# You can then use this 'device' object throughout your script
+# to ensure your tensors and models are on the correct hardware.
+print(f"\nModel and tensors will be moved to: '{device}'")
+
+# Example of moving a tensor to the selected device:
+# my_tensor = torch.randn(2, 2)
+# my_tensor = my_tensor.to(device)
+# print(f"\nExample tensor is on device: {my_tensor.device}")
