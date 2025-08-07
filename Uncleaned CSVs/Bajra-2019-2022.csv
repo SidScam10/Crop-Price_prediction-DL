@@ -1,0 +1,56 @@
+Sl no.,District Name,Market Name,Commodity,Variety,Grade,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950,2100,2000,11-Nov-19
+2,Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950,2100,2000,13-Nov-19
+3,Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1159,1159,1159,18-Sep-20
+4,Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1614,1614,1614,16-Oct-19
+5,Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1609,1624,1609,14-Oct-19
+6,Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1630,1630,1630,9-Oct-19
+7,Salem,Thammampati,Bajra(Pearl Millet/Cumbu),Other,FAQ,1800,2000,1900,13-May-19
+8,Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1650,1825,1725,5-Nov-19
+9,Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,2060,2270,2060,10-Jul-19
+10,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900,2100,2000,19-Jun-19
+11,Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950,2050,2000,11-Dec-19
+12,Theni,Theni,Bajra(Pearl Millet/Cumbu),Small,FAQ,1700,1750,1725,24-May-21
+13,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1800,2100,2000,30-Jan-19
+14,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900,2100,2000,23-Jan-19
+15,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900,2100,2000,27-Mar-19
+16,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950,2100,2000,8-May-19
+17,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950,2100,2000,2-May-19
+18,Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950,2050,2000,22-Nov-19
+19,Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950,2100,2000,4-Dec-19
+20,Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950,2100,2000,19-Nov-19
+21,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900,2100,2000,1-Apr-19
+22,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900,2100,2000,13-Feb-19
+23,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900,2100,2000,22-Apr-19
+24,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900,2100,2000,26-Jun-19
+25,Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950,2050,1980,12-Dec-19
+26,Namakkal,Namakkal,Bajra(Pearl Millet/Cumbu),Other,FAQ,2000,2500,2200,26-Apr-19
+27,Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1939,1939,1939,1-Apr-19
+28,Theni,Theni,Bajra(Pearl Millet/Cumbu),Small,FAQ,1800,1900,1850,2-Dec-21
+29,Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,2309,2309,2309,15-Jul-19
+30,Salem,Thammampati,Bajra(Pearl Millet/Cumbu),Other,FAQ,2300,2500,2400,3-Jun-19
+31,Theni,Theni,Bajra(Pearl Millet/Cumbu),Small,FAQ,1500,1600,1550,3-Mar-21
+32,Theni,Theni,Bajra(Pearl Millet/Cumbu),Small,FAQ,1600,1650,1625,16-Nov-20
+33,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900,2100,2000,20-Feb-19
+34,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950,2100,2000,18-Mar-19
+35,Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1650,1760,1700,4-Nov-19
+36,Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1209,1209,1209,17-Sep-20
+37,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900,2100,2000,27-Feb-19
+38,Cuddalore,Shrimushnam,Bajra(Pearl Millet/Cumbu),Bold,FAQ,2039,2039,2039,15-Jul-19
+39,Theni,Theni,Bajra(Pearl Millet/Cumbu),Small,FAQ,1650,1700,1675,26-Jun-21
+40,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950,2100,2000,9-Jan-19
+41,Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1749,1753,1753,4-Oct-19
+42,Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950,2100,2000,18-Nov-19
+43,Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950,2050,2000,2-Dec-19
+44,Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,2052,2052,2052,16-Jul-19
+45,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950,2100,2000,16-May-19
+46,Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1549,2269,2269,5-Aug-19
+47,Theni,Theni,Bajra(Pearl Millet/Cumbu),Small,FAQ,1800,1900,1850,12-Nov-21
+48,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900,2100,2000,20-Mar-19
+49,Ariyalur,Ariyalur Market,Bajra(Pearl Millet/Cumbu),Other,FAQ,1950,2050,1970,26-Nov-19
+50,Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1755,1755,1755,24-Oct-19
+51,Cuddalore,Cuddalore,Bajra(Pearl Millet/Cumbu),Bold,FAQ,1909,1909,1909,2-Jul-19
+52,Theni,Theni,Bajra(Pearl Millet/Cumbu),Small,FAQ,1800,1900,1850,7-Dec-21
+53,Cuddalore,Virudhachalam,Bajra(Pearl Millet/Cumbu),Other,FAQ,1812,2066,1833,9-Jan-19
+54,Theni,Theni,Bajra(Pearl Millet/Cumbu),Small,FAQ,1700,1800,1750,19-May-21
+55,Coimbatore,Thiruppur,Bajra(Pearl Millet/Cumbu),Other,FAQ,1900,2100,2000,13-Mar-19

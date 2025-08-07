@@ -1,0 +1,1353 @@
+District Name,Market Name,Commodity,Variety,Grade,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date,Day Of Week,lookback_temp_mean,lookback_precip_sum
+Nagercoil (Kannyiakumari),Eathamozhi,Rubber,Other,FAQ,8400.0,10600.0,9500.0,2019-08-16,4,27.23369863013699,1320.3999999999999
+Nagercoil (Kannyiakumari),Eathamozhi,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-06-06,0,27.17150684931507,909.0999999999999
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-26,4,26.78,1246.3000000000002
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2017-01-02,0,27.289315068493146,506.7
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2017-01-04,2,27.292328767123283,507.7
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-05,5,27.188493150684934,682.2
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-10-10,0,27.14986301369863,800.0
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-12,5,27.2013698630137,628.9
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-14,0,27.20876712328767,626.2
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2017-01-21,5,27.30383561643836,510.90000000000003
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-10-22,5,27.162191780821914,744.9
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-10-24,0,27.166027397260276,737.6
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-10-25,1,27.16794520547945,737.9
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-29,1,27.198356164383565,638.7
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7000.0,12000.0,9000.0,2015-07-23,3,26.440547945205477,1323.7
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-13,1,27.10931506849315,897.1
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-16,4,27.113698630136987,894.4
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-17,5,27.113424657534246,894.3000000000001
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-20,1,27.117534246575342,886.1
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-21,2,27.116438356164384,885.7
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-22,3,27.115616438356167,883.9
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-23,4,27.115068493150684,879.4
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-26,0,27.116712328767125,864.1
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7500.0,8500.0,8000.0,2016-02-29,0,26.793698630136987,1240.0000000000002
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,7700.0,12700.0,10200.0,2016-10-15,5,27.1586301369863,766.0
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-05,1,26.91013698630137,1199.7
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-06,2,26.913698630136988,1197.3999999999999
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-07,3,26.921369863013698,1194.5
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-08,4,26.92547945205479,1193.8000000000002
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-09,5,26.929589041095895,1188.1
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-14,3,26.972054794520545,1138.3
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-15,4,26.97808219178082,1136.9
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-10-04,1,27.138082191780825,814.1
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-10-05,2,27.140273972602742,813.7
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-07-12,1,27.13643835616438,966.7
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-06-16,3,27.163013698630138,944.6999999999999
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-06-30,3,27.143287671232876,958.6999999999999
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8400.0,10600.0,9000.0,2019-11-04,0,27.1172602739726,1635.8
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8400.0,10600.0,9300.0,2020-01-29,2,27.17041095890411,1580.0
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8400.0,13400.0,10900.0,2016-09-28,2,27.125205479452056,831.8
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8400.0,13400.0,10900.0,2016-09-29,3,27.130684931506845,823.1999999999999
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8400.0,13400.0,10900.0,2016-09-30,4,27.133424657534242,818.3
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8500.0,10500.0,9000.0,2018-10-20,5,26.646301369863014,1936.6
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8500.0,10500.0,9500.0,2016-12-16,4,27.23972602739726,513.9000000000001
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,8500.0,11500.0,9500.0,2016-10-07,4,27.145205479452056,804.8000000000001
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-01,0,27.135342465753425,962.5
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-05-02,0,27.091232876712326,1026.5
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-05-04,2,27.10301369863014,1023.0
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-05,4,27.13808219178082,965.8
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-08,0,27.143835616438356,966.1999999999999
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-10,2,27.14739726027397,966.5999999999999
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-11,3,27.14904109589041,966.5999999999999
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-16,1,27.1413698630137,939.4
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-07-23,5,27.14438356164384,950.6
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-06-23,3,27.15013698630137,949.5
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-05-24,1,27.172602739726027,928.9
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-07-25,0,27.14328767123288,954.9
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-26,4,27.1345205479452,937.3
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-27,5,27.130958904109587,938.4000000000001
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-05-27,4,27.171506849315065,931.1
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-07-28,3,27.135616438356163,964.3000000000001
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-05-28,5,27.170410958904107,932.3000000000001
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-07-30,5,27.13671232876712,963.8000000000001
+Nagercoil (Kannyiakumari),Kalliakavillai,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-31,2,27.116438356164384,939.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,3800.0,4000.0,3900.0,2024-06-13,3,27.374794520547947,2516.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6400.0,11500.0,11100.0,2019-10-11,4,27.14191780821918,1453.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6400.0,11600.0,11100.0,2019-10-12,5,27.137260273972604,1468.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6400.0,11600.0,11100.0,2019-10-15,1,27.140821917808225,1484.6999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6400.0,11600.0,11100.0,2019-10-16,2,27.13917808219178,1519.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6400.0,12100.0,10400.0,2020-03-24,1,27.13753424657534,1574.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6500.0,11600.0,10700.0,2019-10-07,0,27.14438356164384,1436.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6500.0,11600.0,10700.0,2019-10-10,3,27.143835616438356,1439.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6500.0,11600.0,11100.0,2019-10-14,0,27.140547945205476,1469.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6500.0,12000.0,11100.0,2019-11-07,3,27.133150684931508,1613.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6600.0,11400.0,11100.0,2019-10-17,3,27.138082191780825,1523.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6600.0,11400.0,11100.0,2019-10-18,4,27.135616438356163,1532.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6600.0,11800.0,11100.0,2019-10-09,2,27.145479452054797,1433.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6600.0,11800.0,11400.0,2019-10-19,5,27.135616438356163,1543.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6600.0,12300.0,11400.0,2019-09-21,5,27.164109589041097,1445.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6600.0,12300.0,11400.0,2019-09-23,0,27.155616438356162,1461.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6600.0,12300.0,11400.0,2019-09-24,1,27.15095890410959,1483.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6700.0,11700.0,9200.0,2016-09-19,0,27.11698630136986,886.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6700.0,11800.0,11100.0,2019-10-04,4,27.142191780821918,1453.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6700.0,11800.0,11100.0,2019-10-21,0,27.132876712328766,1571.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6700.0,12000.0,11100.0,2019-11-02,5,27.11945205479452,1625.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6700.0,12000.0,11100.0,2019-10-03,3,27.14109589041096,1479.6999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6700.0,12000.0,11100.0,2019-11-05,1,27.117534246575346,1635.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6700.0,12000.0,11400.0,2019-09-26,3,27.138630136986304,1508.6999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6700.0,12100.0,11100.0,2019-10-01,1,27.135616438356163,1496.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6700.0,12300.0,11400.0,2019-09-25,2,27.146575342465752,1508.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6700.0,12300.0,11400.0,2019-09-27,4,27.135890410958904,1497.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6700.0,12300.0,11400.0,2019-09-28,5,27.136438356164387,1485.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6700.0,12300.0,11400.0,2019-09-30,0,27.134794520547945,1496.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6800.0,11900.0,11100.0,2019-10-29,1,27.128219178082194,1600.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6900.0,11900.0,9400.0,2016-10-07,4,27.145205479452056,804.8000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,6900.0,11900.0,9400.0,2016-10-08,5,27.146027397260273,803.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,7800.0,7400.0,2016-02-16,1,26.7372602739726,1247.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8000.0,7500.0,2016-02-02,1,26.729589041095892,1246.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8000.0,7500.0,2016-02-09,1,26.72876712328767,1246.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8000.0,7500.0,2016-02-20,5,26.764383561643836,1248.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8000.0,7500.0,2016-02-22,0,26.772054794520546,1248.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8200.0,7600.0,2016-01-16,5,26.68931506849315,1246.3000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8200.0,7600.0,2016-01-28,3,26.729041095890405,1246.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8300.0,7700.0,2016-02-23,1,26.772876712328763,1248.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8500.0,7800.0,2015-12-21,0,26.594794520547946,1282.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8600.0,7800.0,2016-01-09,5,26.661917808219172,1246.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8600.0,7800.0,2016-01-13,2,26.68164383561644,1246.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8600.0,7800.0,2016-01-14,3,26.685753424657538,1246.3000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8700.0,7900.0,2016-03-01,1,26.796164383561646,1239.8000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8700.0,7900.0,2016-02-24,2,26.77260273972603,1247.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8700.0,7900.0,2016-02-26,4,26.78,1246.3000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8700.0,7900.0,2016-02-27,5,26.786027397260273,1240.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8700.0,7900.0,2015-12-29,1,26.62054794520548,1251.0000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8900.0,8000.0,2016-01-06,2,26.648219178082194,1248.8000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,8900.0,8000.0,2016-01-07,3,26.652876712328766,1248.5000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-03-04,4,26.81287671232877,1230.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-03-07,0,26.82191780821918,1229.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9400.0,8200.0,2015-02-04,2,26.629041095890408,1212.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9400.0,8200.0,2015-02-05,3,26.633150684931508,1212.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9500.0,8250.0,2015-02-02,0,26.625479452054794,1212.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9700.0,8400.0,2016-03-15,1,26.841917808219176,1222.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9800.0,8400.0,2016-03-08,1,26.823561643835617,1229.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9800.0,8400.0,2016-03-09,2,26.824931506849317,1229.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9800.0,8400.0,2016-03-16,2,26.847397260273976,1222.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9800.0,8400.0,2016-03-17,3,26.852876712328765,1222.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9800.0,8400.0,2015-01-28,2,26.634246575342466,1212.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9800.0,8400.0,2015-01-31,5,26.63041095890411,1212.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9900.0,8475.0,2015-02-14,5,26.665753424657535,1213.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-04-01,2,26.556164383561644,1253.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-03-02,0,26.626849315068498,1213.6999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-04-04,5,26.548767123287675,1257.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-03-04,2,26.61917808219178,1223.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-03-05,3,26.61698630136986,1223.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-03-11,2,26.604657534246574,1222.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-03-12,3,26.606301369863015,1223.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-03-14,5,26.601369863013698,1233.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-03-17,1,26.592876712328767,1234.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-02-18,2,26.652602739726028,1209.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-02-19,3,26.645205479452056,1209.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-04-20,0,26.51095890410959,1316.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-02-20,4,26.641643835616442,1209.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-03-20,4,26.580000000000002,1232.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-03-23,0,26.576164383561647,1228.6999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-03-24,1,26.576986301369864,1228.6999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-02-25,2,26.633972602739725,1209.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,9950.0,8475.0,2015-03-27,4,26.572602739726026,1229.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,10050.0,8525.0,2015-04-06,0,26.556164383561644,1244.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,10050.0,8525.0,2015-02-12,3,26.661369863013704,1212.6999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,10200.0,8600.0,2015-05-04,0,26.479726027397255,1314.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,10200.0,8600.0,2016-03-24,3,26.87753424657534,1223.5000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,10200.0,8600.0,2015-04-30,3,26.470684931506852,1386.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,10300.0,8700.0,2016-03-30,2,26.891506849315068,1208.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,10800.0,8900.0,2015-05-13,2,26.48849315068493,1225.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,10800.0,8900.0,2015-05-18,0,26.466027397260277,1275.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,10950.0,8975.0,2015-05-06,2,26.49041095890411,1153.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2015-05-26,1,26.45287671232877,1293.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2015-05-27,2,26.452328767123287,1293.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,11100.0,9050.0,2015-05-07,3,26.49671232876712,1134.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,11400.0,9200.0,2015-06-02,1,26.45150684931507,1295.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,11400.0,10100.0,2018-11-23,4,26.606575342465753,1849.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,11400.0,10100.0,2018-11-24,5,26.599452054794522,1876.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,11400.0,10100.0,2018-11-26,0,26.60301369863014,1842.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,11400.0,10100.0,2018-11-27,1,26.60630136986301,1830.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,11400.0,10100.0,2018-11-28,2,26.607123287671232,1826.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,11400.0,10100.0,2018-11-29,3,26.607123287671232,1808.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,11400.0,10100.0,2018-11-30,4,26.61123287671233,1730.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,11450.0,9225.0,2015-06-01,0,26.45095890410959,1296.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,11500.0,10100.0,2018-11-17,5,26.6186301369863,1853.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,11500.0,10100.0,2018-11-19,0,26.615068493150684,1843.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,11500.0,10100.0,2018-11-20,1,26.612328767123287,1846.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,11500.0,10100.0,2018-11-22,3,26.609041095890408,1844.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,12000.0,9500.0,2016-09-08,3,27.10301369863014,903.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,12000.0,9500.0,2016-09-12,0,27.109863013698632,896.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,12600.0,11400.0,2019-11-22,4,27.161643835616438,1571.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7000.0,12600.0,11500.0,2019-09-20,4,27.163561643835617,1444.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7100.0,11800.0,10300.0,2018-11-16,4,26.621095890410956,1851.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7100.0,12100.0,9600.0,2016-10-05,2,27.140273972602742,813.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7100.0,12600.0,10600.0,2020-03-23,0,27.142739726027397,1569.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7100.0,12600.0,10900.0,2020-03-20,4,27.146027397260276,1566.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7100.0,12600.0,10900.0,2020-03-21,5,27.145205479452056,1568.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7100.0,12800.0,10800.0,2020-01-08,2,27.162739726027397,1583.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7100.0,12800.0,10800.0,2020-01-10,4,27.161643835616438,1583.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7200.0,12100.0,11800.0,2019-11-08,4,27.13808219178082,1583.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7200.0,12200.0,9700.0,2016-10-03,0,27.134246575342466,816.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7200.0,12900.0,11800.0,2019-09-18,2,27.165479452054793,1443.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7200.0,12900.0,11800.0,2019-09-19,3,27.16219178082192,1445.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,11500.0,10100.0,2018-12-08,5,26.633150684931508,1661.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,11500.0,10100.0,2018-12-10,0,26.638630136986304,1660.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,11600.0,10300.0,2018-12-01,5,26.616712328767125,1668.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,11600.0,10300.0,2018-12-03,0,26.622191780821915,1659.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,11600.0,10300.0,2018-12-04,1,26.62164383561644,1670.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,11600.0,10300.0,2018-12-05,2,26.621917808219177,1670.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,11600.0,10300.0,2018-12-06,3,26.624931506849315,1669.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,11600.0,10300.0,2018-12-07,4,26.627945205479453,1667.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,11800.0,10500.0,2018-11-13,1,26.624931506849315,1827.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,11800.0,10500.0,2018-11-14,2,26.625479452054797,1829.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,11800.0,10500.0,2018-11-15,3,26.626027397260273,1832.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12000.0,10500.0,2018-11-12,0,26.625479452054794,1825.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12100.0,10600.0,2018-11-03,5,26.635342465753425,1903.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12100.0,10600.0,2018-11-05,0,26.638356164383563,1886.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12100.0,10600.0,2018-11-07,2,26.63123287671233,1787.3000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12100.0,10600.0,2018-11-08,3,26.62931506849315,1811.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12100.0,10600.0,2018-11-09,4,26.627671232876715,1824.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-03,5,27.098904109589043,932.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12400.0,10600.0,2018-11-01,3,26.637808219178087,1895.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12400.0,10600.0,2018-11-02,4,26.63917808219178,1900.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12400.0,10600.0,2018-10-31,2,26.637808219178087,1917.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12400.0,10700.0,2018-10-27,5,26.631780821917808,1962.8000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12400.0,10700.0,2018-10-29,0,26.633150684931504,1927.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12400.0,10700.0,2018-10-30,1,26.634246575342466,1928.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12400.0,10800.0,2018-10-16,1,26.650136986301373,1902.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12400.0,10800.0,2018-10-17,2,26.649315068493152,1906.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12400.0,10800.0,2018-10-20,5,26.646301369863014,1936.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12400.0,10800.0,2018-10-22,0,26.64301369863014,1953.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12500.0,10800.0,2018-10-08,0,26.65835616438356,1888.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12500.0,10800.0,2018-10-09,1,26.653698630136986,1888.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12500.0,10800.0,2018-10-10,2,26.65013698630137,1887.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12500.0,10800.0,2018-10-11,3,26.649589041095886,1883.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12500.0,10800.0,2018-10-12,4,26.65123287671233,1878.3000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12500.0,10800.0,2018-10-13,5,26.651506849315066,1878.3000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7300.0,12500.0,10800.0,2018-10-15,0,26.652876712328766,1882.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7400.0,11600.0,10200.0,2018-12-11,1,26.640821917808225,1658.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7400.0,11600.0,10200.0,2018-12-12,2,26.641643835616442,1656.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7400.0,12400.0,9900.0,2016-11-05,5,27.188493150684934,682.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7400.0,12400.0,9900.0,2016-10-21,4,27.161917808219172,759.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7400.0,12400.0,9900.0,2016-10-24,0,27.166027397260276,737.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7400.0,12400.0,9900.0,2016-10-25,1,27.16794520547945,737.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7400.0,13000.0,10900.0,2020-01-13,0,27.155890410958904,1583.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,8900.0,8200.0,2015-12-14,0,26.57972602739726,1319.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,9000.0,8200.0,2015-12-05,5,26.574794520547947,1253.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,9000.0,8200.0,2015-12-10,3,26.576712328767123,1308.8000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,9200.0,8400.0,2015-11-19,3,26.515068493150686,1337.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,9200.0,8400.0,2015-11-21,5,26.525205479452058,1283.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,9200.0,8400.0,2015-11-23,0,26.533698630136985,1241.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,9200.0,8400.0,2015-11-24,1,26.53835616438356,1237.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12000.0,7500.0,2019-09-17,1,27.16630136986301,1437.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12000.0,10500.0,2018-11-10,5,26.627945205479453,1825.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12500.0,10000.0,2016-11-02,2,27.188493150684934,696.5999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12500.0,10000.0,2016-09-24,5,27.11616438356165,872.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12500.0,10000.0,2016-09-26,0,27.116712328767125,864.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12500.0,10800.0,2018-10-02,1,26.6827397260274,1795.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12500.0,10800.0,2018-10-03,2,26.677534246575345,1805.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12500.0,10800.0,2018-10-04,3,26.67315068493151,1830.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12500.0,10800.0,2018-10-05,4,26.67150684931507,1841.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12500.0,10800.0,2018-10-06,5,26.66876712328767,1861.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12500.0,10800.0,2018-10-07,6,26.663013698630138,1874.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12500.0,10800.0,2018-09-24,0,26.676986301369865,1731.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12500.0,10800.0,2018-09-25,1,26.680547945205483,1734.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12500.0,10800.0,2018-09-26,2,26.68520547945205,1739.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12500.0,10800.0,2018-09-27,3,26.688767123287672,1747.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12500.0,10800.0,2018-09-28,4,26.690958904109586,1756.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12500.0,10800.0,2018-09-29,5,26.69068493150685,1758.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,12500.0,10800.0,2018-09-30,6,26.68904109589041,1772.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7500.0,13100.0,11100.0,2020-02-29,5,27.165753424657535,1548.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,12000.0,10200.0,2019-02-13,2,26.69123287671233,1656.3000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,12000.0,10200.0,2019-02-14,3,26.694246575342465,1656.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,12000.0,10200.0,2019-02-16,5,26.69150684931507,1659.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,12000.0,10200.0,2019-02-18,0,26.693424657534248,1663.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,12000.0,10200.0,2019-02-19,1,26.695890410958903,1665.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,12700.0,10800.0,2020-01-09,3,27.16328767123288,1583.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,12700.0,10800.0,2019-12-30,0,27.147123287671235,1579.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,12700.0,10800.0,2019-12-31,1,27.14739726027397,1579.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,12700.0,11400.0,2019-12-10,1,27.167397260273972,1573.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,12800.0,11100.0,2019-12-21,5,27.152876712328766,1590.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,13000.0,11100.0,2020-02-11,1,27.162191780821914,1561.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,13100.0,11100.0,2020-02-26,2,27.161095890410955,1550.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,13100.0,11100.0,2020-02-27,3,27.163287671232872,1550.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,13200.0,11200.0,2020-02-12,2,27.162465753424655,1561.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,13300.0,11200.0,2020-02-18,1,27.158356164383566,1552.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,13300.0,11200.0,2020-02-19,2,27.15753424657534,1550.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,13300.0,12000.0,2019-09-14,5,27.176438356164383,1430.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,13300.0,12000.0,2019-09-16,0,27.16849315068493,1435.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,13600.0,12300.0,2019-09-05,3,27.192876712328765,1401.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,13600.0,12300.0,2019-09-06,4,27.19123287671233,1408.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7600.0,13600.0,12300.0,2019-09-13,4,27.178904109589038,1428.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,11900.0,10200.0,2019-02-05,1,26.690684931506844,1649.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,11900.0,10200.0,2019-02-06,2,26.69178082191781,1643.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,11900.0,10200.0,2019-02-07,3,26.695890410958903,1639.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,11900.0,10200.0,2019-02-08,4,26.69671232876712,1641.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,11900.0,10200.0,2019-02-09,5,26.694246575342465,1655.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,12000.0,10200.0,2019-02-11,0,26.69123287671233,1656.3000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,12000.0,10200.0,2019-02-12,1,26.690958904109593,1656.3000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,12000.0,10200.0,2019-02-15,4,26.694246575342465,1657.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,12400.0,9900.0,2016-09-02,4,27.101369863013698,936.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,12700.0,10200.0,2016-10-13,3,27.156986301369862,765.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,12700.0,10200.0,2016-10-14,4,27.159452054794517,759.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,12700.0,10200.0,2016-10-17,0,27.16191780821918,747.0000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,12700.0,10200.0,2016-10-18,1,27.164109589041097,761.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,12700.0,10200.0,2016-10-20,3,27.165479452054793,757.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,12700.0,10200.0,2016-08-27,5,27.130958904109587,938.4000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,12700.0,10200.0,2016-08-29,0,27.126301369863015,938.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,12700.0,10200.0,2016-08-30,1,27.122465753424656,938.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,13100.0,11200.0,2020-02-28,4,27.164383561643834,1549.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,13400.0,11200.0,2020-01-20,0,27.162191780821914,1583.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,13400.0,11200.0,2020-01-21,1,27.168767123287672,1583.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,13400.0,11200.0,2020-01-22,2,27.17616438356164,1583.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7700.0,13800.0,11800.0,2020-01-25,5,27.181643835616438,1583.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12000.0,10500.0,2019-01-01,1,26.654520547945204,1659.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12000.0,10500.0,2019-01-02,2,26.65643835616438,1655.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12000.0,10500.0,2019-01-03,3,26.656986301369862,1654.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12000.0,10500.0,2019-01-04,4,26.65534246575342,1654.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12000.0,10500.0,2018-12-31,0,26.653424657534245,1659.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12000.0,10600.0,2018-12-13,3,26.644109589041093,1653.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12000.0,10600.0,2018-12-14,4,26.643013698630135,1655.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12000.0,10600.0,2018-12-15,5,26.6413698630137,1657.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12000.0,10600.0,2018-12-17,0,26.640821917808218,1657.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12000.0,10600.0,2018-12-18,1,26.644657534246573,1657.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12000.0,10600.0,2018-12-19,2,26.646301369863018,1647.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12000.0,10600.0,2018-12-20,3,26.648493150684935,1647.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12000.0,10600.0,2018-12-27,3,26.647945205479452,1656.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12000.0,10600.0,2018-12-28,4,26.65068493150685,1657.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12000.0,10600.0,2018-12-29,5,26.652876712328766,1659.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12100.0,10600.0,2019-01-05,5,26.655068493150686,1654.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12100.0,10600.0,2019-01-07,0,26.65945205479452,1651.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12100.0,10600.0,2019-01-08,1,26.661643835616438,1651.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12100.0,10600.0,2018-12-26,2,26.648219178082194,1656.8000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12100.0,10700.0,2019-01-14,0,26.67095890410959,1649.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12500.0,10800.0,2020-01-18,5,27.15205479452055,1583.3000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12600.0,11100.0,2019-11-30,5,27.174794520547945,1547.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12700.0,10800.0,2020-01-11,5,27.161369863013704,1583.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12700.0,11400.0,2019-12-07,5,27.16849315068493,1574.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12700.0,11400.0,2019-12-09,0,27.166575342465755,1574.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,12800.0,11100.0,2019-12-23,0,27.153424657534245,1584.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,13200.0,11100.0,2020-02-20,3,27.155342465753428,1550.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,13200.0,11100.0,2020-02-21,4,27.15424657534247,1551.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,13200.0,11100.0,2020-02-22,5,27.154794520547945,1551.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,13200.0,11100.0,2020-02-24,0,27.16,1551.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,13200.0,11100.0,2020-02-25,1,27.161095890410955,1551.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,13600.0,12300.0,2019-09-03,1,27.19808219178082,1387.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,13600.0,12300.0,2019-09-04,2,27.19479452054794,1396.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,13600.0,12300.0,2019-08-26,0,27.221643835616437,1345.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,13600.0,12300.0,2019-08-27,1,27.220000000000002,1355.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,13600.0,12300.0,2019-08-31,5,27.20958904109589,1371.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,13800.0,12300.0,2019-08-24,5,27.232876712328768,1317.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,13800.0,12400.0,2019-08-21,2,27.249863013698633,1293.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,13800.0,12400.0,2019-08-22,3,27.244383561643836,1299.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,14400.0,12400.0,2019-07-17,2,27.227671232876713,1246.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,14400.0,12400.0,2019-07-18,3,27.226575342465754,1252.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,14400.0,12400.0,2019-07-19,4,27.224657534246575,1262.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,14400.0,12400.0,2019-07-20,5,27.221917808219178,1266.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,14500.0,12500.0,2019-07-22,0,27.216986301369865,1269.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7800.0,14500.0,12500.0,2019-07-23,1,27.216712328767123,1269.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12000.0,10300.0,2019-02-02,5,26.68465753424658,1646.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12000.0,10300.0,2019-02-04,0,26.690958904109593,1646.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12000.0,10400.0,2019-01-24,3,26.673424657534245,1647.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12000.0,10400.0,2019-01-25,4,26.675890410958907,1644.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12600.0,11400.0,2019-11-23,5,27.164109589041097,1567.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12600.0,11400.0,2019-11-25,0,27.170136986301372,1539.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12600.0,11500.0,2019-11-26,1,27.17178082191781,1540.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12600.0,11500.0,2019-11-28,3,27.175616438356165,1539.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12600.0,11600.0,2019-11-27,2,27.174794520547945,1541.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12700.0,11200.0,2019-12-19,3,27.163013698630138,1575.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12700.0,11300.0,2019-12-20,4,27.15643835616438,1591.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12700.0,11400.0,2019-12-11,2,27.166849315068493,1573.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12700.0,11400.0,2019-12-12,3,27.167123287671235,1572.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12700.0,11400.0,2019-12-13,4,27.167123287671235,1573.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12700.0,11400.0,2019-12-26,3,27.152602739726028,1582.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12700.0,11400.0,2019-12-28,5,27.14876712328767,1581.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12700.0,11400.0,2019-11-29,4,27.178356164383562,1523.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12900.0,11400.0,2019-12-16,0,27.167123287671235,1573.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12900.0,11400.0,2019-12-17,1,27.166027397260276,1573.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,12900.0,11400.0,2019-12-18,2,27.16383561643836,1574.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,13000.0,10800.0,2020-01-14,1,27.152602739726028,1583.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,7900.0,13400.0,11200.0,2020-01-24,4,27.18164383561644,1583.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,9100.0,8500.0,2015-09-07,0,26.52958904109589,1268.8000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,9100.0,8600.0,2015-09-03,3,26.523835616438358,1243.3000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,9100.0,8600.0,2015-09-08,1,26.529041095890406,1269.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,9100.0,8600.0,2015-09-09,2,26.52821917808219,1274.3000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,9300.0,8700.0,2015-09-12,5,26.52109589041096,1281.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,9300.0,8700.0,2015-09-14,0,26.523835616438358,1279.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,9400.0,8700.0,2015-09-15,1,26.523835616438358,1281.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,9400.0,8700.0,2015-09-16,2,26.523013698630137,1282.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,9500.0,8800.0,2015-10-01,3,26.510684931506848,1292.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,9500.0,8800.0,2015-09-25,4,26.51534246575342,1287.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,9500.0,8800.0,2015-09-28,0,26.51890410958904,1277.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,9500.0,8800.0,2015-09-29,1,26.516164383561645,1290.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,9600.0,8800.0,2015-11-16,0,26.51424657534247,1336.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,9600.0,8800.0,2015-11-17,1,26.515342465753427,1336.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,9700.0,8800.0,2015-11-11,2,26.518356164383565,1324.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,9800.0,8900.0,2015-11-06,4,26.522739726027396,1299.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-10-05,0,26.50739726027397,1282.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-10-06,1,26.50657534246575,1282.8000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-10-07,2,26.50739726027397,1283.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-01-10,5,26.659178082191783,1214.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10100.0,9100.0,2015-11-02,0,26.523287671232875,1279.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10200.0,9100.0,2015-01-09,4,26.65890410958904,1214.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10200.0,9100.0,2015-10-13,1,26.49808219178082,1310.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10200.0,9100.0,2015-10-20,1,26.509863013698627,1304.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10200.0,9100.0,2015-10-23,4,26.5227397260274,1260.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10200.0,9100.0,2015-10-27,1,26.522465753424658,1252.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10200.0,9100.0,2015-10-30,4,26.525479452054793,1263.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10200.0,9100.0,2015-10-31,5,26.524657534246575,1274.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10300.0,9200.0,2015-10-14,2,26.495342465753428,1321.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10400.0,9200.0,2016-04-04,0,26.90958904109589,1198.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10400.0,9200.0,2016-04-06,2,26.913698630136988,1197.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10750.0,9375.0,2015-01-06,1,26.654794520547945,1241.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,10750.0,9375.0,2015-01-07,2,26.657260273972607,1213.9999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,11200.0,9600.0,2016-05-06,4,27.115342465753425,1009.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,11700.0,9900.0,2016-04-13,2,26.962739726027397,1144.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,12000.0,10300.0,2019-01-28,0,26.6827397260274,1646.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,12000.0,10300.0,2019-01-29,1,26.682465753424655,1646.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,12000.0,10300.0,2019-01-30,2,26.68328767123288,1646.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,12000.0,10300.0,2019-01-31,3,26.68246575342466,1646.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,12100.0,10500.0,2019-01-18,4,26.673424657534248,1649.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,12100.0,10500.0,2019-01-19,5,26.67315068493151,1649.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,12100.0,10500.0,2019-01-21,0,26.67068493150685,1649.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,12100.0,10500.0,2019-01-22,1,26.66986301369863,1649.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,12100.0,10500.0,2019-01-23,2,26.67041095890411,1648.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,12100.0,10700.0,2019-01-10,3,26.6641095890411,1649.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,12100.0,10700.0,2019-01-11,4,26.664383561643834,1649.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,12600.0,11400.0,2019-12-03,1,27.170958904109593,1577.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,12700.0,11400.0,2019-12-02,0,27.17205479452055,1576.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,12700.0,11400.0,2019-12-04,2,27.17178082191781,1569.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,12700.0,11400.0,2019-12-05,3,27.17041095890411,1571.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,12700.0,11400.0,2019-12-06,4,27.16986301369863,1571.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,13000.0,10500.0,2016-08-24,2,27.137808219178087,936.6999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,13200.0,11200.0,2020-01-29,2,27.17041095890411,1580.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,13200.0,11200.0,2020-01-30,3,27.16630136986301,1580.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,13300.0,11200.0,2020-01-27,0,27.175890410958907,1580.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,13300.0,11200.0,2020-01-31,4,27.166027397260276,1580.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,13300.0,11300.0,2020-02-13,3,27.161643835616438,1561.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,13300.0,11300.0,2020-02-14,4,27.15945205479452,1561.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,13800.0,11200.0,2020-01-28,1,27.172054794520545,1580.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,14000.0,12500.0,2019-08-19,0,27.24958904109589,1288.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,14000.0,12500.0,2019-08-20,1,27.25068493150685,1290.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,14900.0,10900.0,2020-11-13,4,27.176986301369865,1279.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8000.0,14900.0,11000.0,2020-11-12,3,27.175616438356165,1279.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8100.0,12100.0,10500.0,2019-02-20,2,26.69890410958904,1665.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8100.0,12100.0,10500.0,2019-02-21,3,26.703561643835613,1665.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8100.0,12100.0,10500.0,2019-02-22,4,26.706027397260275,1665.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8100.0,12100.0,10500.0,2019-02-23,5,26.706301369863013,1665.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8100.0,12100.0,10500.0,2019-02-25,0,26.7013698630137,1665.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8100.0,12500.0,11700.0,2019-11-21,3,27.162465753424655,1570.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8100.0,13300.0,11300.0,2020-02-15,5,27.158082191780817,1559.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8100.0,13300.0,11300.0,2020-02-17,0,27.161369863013697,1553.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8100.0,14100.0,12500.0,2019-08-10,5,27.219452054794523,1392.3000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8100.0,14100.0,12500.0,2019-08-14,2,27.22109589041096,1367.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8100.0,14200.0,12500.0,2019-08-16,4,27.23369863013699,1320.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8100.0,14200.0,12500.0,2019-08-17,5,27.239178082191778,1310.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8100.0,14300.0,12500.0,2019-08-07,2,27.224931506849313,1337.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8100.0,14400.0,11200.0,2020-11-18,2,27.177808219178083,1321.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8100.0,14900.0,10900.0,2020-11-10,1,27.173698630136986,1272.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8200.0,14300.0,12500.0,2019-08-05,0,27.223013698630137,1307.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8200.0,14300.0,12500.0,2019-08-06,1,27.223835616438357,1317.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8200.0,15000.0,11000.0,2020-11-07,5,27.161643835616438,1287.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8200.0,15100.0,11000.0,2020-11-05,3,27.156986301369862,1289.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,12300.0,10800.0,2019-03-01,4,26.697534246575344,1665.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,12300.0,10800.0,2019-03-02,5,26.69917808219178,1664.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,12300.0,10800.0,2019-02-26,1,26.70027397260274,1664.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,12300.0,10800.0,2019-02-27,2,26.7,1664.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,14100.0,12500.0,2019-08-09,4,27.22246575342466,1386.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,14300.0,12500.0,2019-08-08,3,27.225753424657533,1368.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,14400.0,11200.0,2020-11-17,1,27.1786301369863,1321.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,14500.0,12500.0,2019-08-01,3,27.229315068493147,1270.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,14500.0,12500.0,2019-08-02,4,27.229041095890413,1284.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,14500.0,12500.0,2019-08-03,5,27.22739726027397,1293.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,14500.0,12500.0,2019-07-31,2,27.22657534246575,1269.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,14600.0,12600.0,2019-07-25,3,27.21780821917808,1271.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,14600.0,12600.0,2019-07-26,4,27.21698630136986,1271.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,14600.0,12600.0,2019-07-27,5,27.21561643835616,1271.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,14600.0,12600.0,2019-07-29,0,27.218082191780823,1272.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,14600.0,12600.0,2019-07-30,1,27.22219178082192,1269.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,15200.0,11200.0,2020-11-23,0,27.172328767123286,1318.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8300.0,15200.0,11300.0,2020-11-27,4,27.16657534246575,1322.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,12300.0,10800.0,2019-03-09,5,26.70958904109589,1666.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,12300.0,10800.0,2019-02-28,3,26.699726027397258,1664.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,12300.0,10900.0,2019-03-11,0,26.702739726027396,1665.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,12300.0,10900.0,2019-03-12,1,26.70904109589041,1659.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,12300.0,10900.0,2019-03-13,2,26.722739726027395,1575.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,12300.0,10900.0,2019-03-14,3,26.733424657534243,1569.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,12300.0,10900.0,2019-03-15,4,26.74054794520548,1568.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,12500.0,10900.0,2019-03-04,0,26.701095890410958,1664.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,12500.0,10900.0,2019-03-05,1,26.70356164383562,1664.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,12500.0,10900.0,2019-03-06,2,26.708219178082192,1664.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,12500.0,10900.0,2019-03-07,3,26.71150684931507,1664.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,12500.0,10900.0,2019-03-08,4,26.710684931506847,1664.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,14500.0,12300.0,2019-07-15,0,27.221369863013695,1256.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,14500.0,12300.0,2019-07-16,1,27.226301369863016,1249.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,14500.0,12500.0,2019-07-13,5,27.215068493150685,1273.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,14600.0,12500.0,2019-07-10,2,27.196164383561644,1300.8000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,14600.0,12500.0,2019-07-11,3,27.205205479452054,1290.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,14600.0,12500.0,2019-07-12,4,27.21150684931507,1277.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8400.0,14700.0,12600.0,2019-07-09,1,27.19178082191781,1307.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,9100.0,8800.0,2015-08-25,1,26.47698630136986,1263.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,9500.0,9100.0,2015-08-21,4,26.464383561643835,1300.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,9700.0,9100.0,2015-08-19,2,26.462191780821918,1301.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12400.0,11000.0,2019-05-02,3,26.856164383561644,1481.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12400.0,11000.0,2019-04-03,2,26.80301369863014,1533.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12400.0,11000.0,2019-05-03,4,26.856712328767124,1479.6999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12400.0,11000.0,2019-04-04,3,26.804383561643835,1529.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12400.0,11000.0,2019-05-04,5,26.861643835616437,1473.8000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12400.0,11000.0,2019-04-05,4,26.806575342465756,1527.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12400.0,11000.0,2019-05-06,0,26.876438356164382,1459.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12400.0,11000.0,2019-04-23,1,26.857808219178082,1486.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12400.0,11000.0,2019-04-24,2,26.85890410958904,1485.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12400.0,11000.0,2019-04-25,3,26.85808219178082,1488.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12400.0,11000.0,2019-04-26,4,26.856712328767124,1487.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12400.0,11000.0,2019-04-27,5,26.86,1481.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12400.0,11000.0,2019-04-29,0,26.863835616438354,1477.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12400.0,11000.0,2019-04-30,1,26.861369863013696,1475.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12500.0,11000.0,2019-04-06,5,26.80958904109589,1523.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12500.0,11000.0,2019-04-08,0,26.81753424657534,1515.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12500.0,11000.0,2019-04-09,1,26.82164383561644,1511.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12500.0,11000.0,2019-04-10,2,26.824383561643838,1506.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12500.0,11000.0,2019-04-11,3,26.82849315068493,1500.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12500.0,11000.0,2019-04-12,4,26.834520547945207,1494.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12500.0,11000.0,2019-04-13,5,26.844109589041096,1477.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12500.0,11000.0,2019-04-15,0,26.854246575342465,1474.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,12500.0,11000.0,2019-04-16,1,26.8586301369863,1475.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,13500.0,11000.0,2016-08-04,3,27.138356164383563,965.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,13500.0,11000.0,2016-08-05,4,27.13808219178082,965.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,13500.0,11000.0,2016-08-06,5,27.139999999999997,965.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,13500.0,11000.0,2016-08-08,0,27.143835616438356,966.1999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,13500.0,11000.0,2016-07-26,1,27.14027397260274,961.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8500.0,13500.0,11100.0,2016-08-10,2,27.14739726027397,966.5999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12400.0,11000.0,2019-04-01,0,26.80109589041096,1533.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12400.0,11000.0,2019-04-02,1,26.80328767123288,1534.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12400.0,11000.0,2019-03-16,5,26.747671232876712,1568.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12400.0,11000.0,2019-03-18,0,26.75890410958904,1559.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12400.0,11000.0,2019-03-19,1,26.766301369863015,1556.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12400.0,11000.0,2019-03-20,2,26.77041095890411,1557.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12400.0,11000.0,2019-03-27,2,26.787123287671232,1540.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12400.0,11000.0,2019-03-28,3,26.79095890410959,1535.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12400.0,11000.0,2019-03-29,4,26.794794520547946,1533.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12400.0,11000.0,2019-03-30,5,26.79643835616438,1531.3000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12500.0,11100.0,2019-03-21,3,26.773698630136984,1557.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12500.0,11100.0,2019-03-22,4,26.775616438356167,1555.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12500.0,11100.0,2019-03-23,5,26.7758904109589,1556.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12500.0,11100.0,2019-03-25,0,26.78301369863014,1554.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12500.0,11100.0,2019-03-26,1,26.783561643835615,1540.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12600.0,11100.0,2019-05-07,1,26.882465753424658,1445.8000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12600.0,11100.0,2019-05-08,2,26.890958904109585,1440.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,12600.0,11100.0,2019-05-09,3,26.903013698630136,1425.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,14300.0,10900.0,2021-01-07,3,27.178356164383562,1291.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,14300.0,10900.0,2021-01-09,5,27.17616438356164,1307.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,14300.0,10900.0,2021-01-11,0,27.164109589041097,1333.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,14600.0,10900.0,2021-01-05,1,27.183287671232875,1283.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,14700.0,12600.0,2019-07-02,1,27.18958904109589,1268.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,14700.0,12600.0,2019-07-03,2,27.19013698630137,1279.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,14700.0,12600.0,2019-07-04,3,27.18849315068493,1288.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,14700.0,12600.0,2019-07-05,4,27.186849315068496,1300.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,14700.0,12600.0,2019-07-06,5,27.186027397260272,1308.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,14700.0,12600.0,2019-07-08,0,27.18904109589041,1316.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8600.0,14800.0,10900.0,2021-01-04,0,27.18465753424658,1282.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8700.0,14600.0,10900.0,2021-01-12,1,27.15835616438356,1358.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8700.0,14700.0,12600.0,2019-07-01,0,27.18958904109589,1258.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8700.0,14700.0,12600.0,2019-06-25,1,27.160821917808217,1246.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8700.0,14700.0,12600.0,2019-06-26,2,27.164931506849317,1247.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8700.0,14700.0,12600.0,2019-06-27,3,27.17150684931507,1244.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8700.0,14700.0,12600.0,2019-06-28,4,27.1772602739726,1240.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8700.0,14700.0,12600.0,2019-06-29,5,27.18301369863014,1241.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8700.0,15300.0,11000.0,2020-12-16,2,27.182739726027393,1276.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8700.0,15300.0,11000.0,2020-12-18,4,27.179726027397255,1282.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,12900.0,11600.0,2019-05-11,5,26.9227397260274,1402.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,12900.0,11600.0,2019-05-13,0,26.94164383561644,1382.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,12900.0,11600.0,2019-05-14,1,26.950410958904108,1379.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,12900.0,11600.0,2019-05-15,2,26.958904109589042,1376.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,12900.0,11600.0,2019-05-16,3,26.968219178082197,1366.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,13100.0,11800.0,2019-05-17,4,26.97780821917808,1340.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,13100.0,11800.0,2019-05-18,5,26.987123287671235,1334.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,13100.0,11800.0,2019-05-20,0,27.002739726027396,1334.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,13400.0,12100.0,2019-05-21,1,27.00876712328767,1335.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,13600.0,12400.0,2019-05-22,2,27.013972602739727,1335.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,13600.0,12400.0,2019-05-23,3,27.01753424657534,1339.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,14400.0,11200.0,2020-11-20,4,27.17616438356164,1323.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,14400.0,11200.0,2020-11-21,5,27.177260273972603,1319.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,14400.0,11200.0,2020-11-26,3,27.168767123287672,1321.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,14500.0,13000.0,2022-09-19,0,26.565205479452054,1795.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,14600.0,10900.0,2021-01-20,2,27.12054794520548,1376.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,14600.0,13000.0,2022-10-17,0,26.607671232876715,1689.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,15200.0,11200.0,2020-12-23,2,27.178904109589038,1279.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,15200.0,11200.0,2020-11-24,1,27.172876712328762,1320.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,15600.0,11300.0,2020-11-30,0,27.180273972602738,1268.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,15600.0,11500.0,2020-12-14,0,27.1827397260274,1271.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,15600.0,11800.0,2020-12-02,2,27.179726027397255,1270.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8800.0,15800.0,11800.0,2020-12-01,1,27.181643835616438,1268.6999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,8900.0,15200.0,11000.0,2020-12-21,0,27.182739726027393,1270.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2015-08-07,4,26.439178082191784,1312.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2015-08-08,5,26.441917808219177,1310.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2015-08-12,2,26.447945205479453,1293.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10200.0,9600.0,2016-06-01,2,27.172876712328762,917.9000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10200.0,9600.0,2016-06-02,3,27.172876712328762,915.3000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10200.0,9600.0,2015-08-04,1,26.440273972602736,1312.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10200.0,9600.0,2016-05-26,3,27.173150684931503,930.8000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10200.0,9600.0,2016-05-28,5,27.170410958904107,932.3000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10300.0,9600.0,2015-08-01,5,26.4386301369863,1313.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10300.0,9700.0,2015-08-03,0,26.440547945205477,1312.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10300.0,9700.0,2016-05-23,0,27.174520547945203,927.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10300.0,9700.0,2016-05-25,2,27.172328767123286,930.4000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10400.0,9700.0,2016-05-20,4,27.166849315068493,929.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10600.0,9800.0,2016-07-08,4,27.13972602739726,960.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10600.0,9800.0,2016-07-11,0,27.13972602739726,964.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10600.0,9800.0,2016-05-13,4,27.15205479452055,939.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10600.0,9800.0,2015-07-18,5,26.447945205479453,1309.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10600.0,9800.0,2015-07-20,0,26.44630136986301,1310.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10600.0,9800.0,2016-07-20,2,27.142191780821918,961.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10600.0,9800.0,2016-05-21,5,27.17041095890411,928.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10600.0,9800.0,2016-07-22,4,27.146575342465752,948.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10700.0,9800.0,2016-06-13,0,27.15890410958904,944.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10700.0,9900.0,2016-06-15,2,27.162739726027397,944.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10700.0,9900.0,2016-06-17,4,27.163013698630138,945.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10700.0,9900.0,2016-06-18,5,27.162739726027397,945.1999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10700.0,9900.0,2016-06-20,0,27.15780821917808,946.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10700.0,9900.0,2016-06-24,4,27.147945205479452,952.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10700.0,9900.0,2015-07-27,0,26.435342465753422,1324.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10800.0,9900.0,2016-06-07,1,27.17205479452055,913.1999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10800.0,9900.0,2015-07-14,1,26.451506849315066,1305.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10850.0,9925.0,2015-07-09,3,26.440273972602743,1313.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,10950.0,9975.0,2015-07-08,2,26.438082191780822,1314.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2016-06-10,4,27.16219178082192,935.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2016-06-11,5,27.160821917808217,937.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2016-05-12,3,27.148493150684935,933.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2016-06-27,0,27.147123287671235,950.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2016-06-29,2,27.14438356164384,957.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11200.0,10100.0,2015-07-06,0,26.433698630136984,1316.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11300.0,10150.0,2015-07-01,2,26.429315068493153,1316.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11300.0,10150.0,2015-07-02,3,26.42986301369863,1316.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11300.0,10150.0,2015-07-03,4,26.42849315068493,1316.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11400.0,10200.0,2016-07-01,4,27.141643835616435,959.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11400.0,10200.0,2016-07-02,5,27.14246575342466,959.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11400.0,10200.0,2016-05-03,1,27.097808219178084,1022.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11400.0,10200.0,2015-06-30,1,26.429589041095888,1317.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11500.0,10200.0,2015-06-03,2,26.450410958904115,1298.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11500.0,10200.0,2015-06-04,3,26.452328767123287,1298.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11500.0,10200.0,2015-06-05,4,26.453424657534246,1297.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11500.0,10200.0,2015-06-08,0,26.45506849315068,1300.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11600.0,10300.0,2015-06-11,3,26.455890410958904,1303.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11600.0,10300.0,2015-06-24,2,26.44191780821918,1319.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11600.0,10300.0,2015-06-25,3,26.43972602739726,1320.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11700.0,10300.0,2015-06-12,4,26.456986301369867,1302.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,11800.0,10400.0,2015-06-19,4,26.442465753424656,1304.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,12500.0,10800.0,2016-04-23,5,27.030684931506848,1052.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,12800.0,10900.0,2016-04-28,3,27.06986301369863,1030.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,14000.0,11500.0,2017-05-25,3,27.09835616438356,640.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,14500.0,13000.0,2022-09-26,0,26.562191780821916,1773.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,14900.0,12900.0,2019-06-21,4,27.15232876712329,1247.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,14900.0,12900.0,2019-06-22,5,27.153424657534245,1248.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9000.0,14900.0,12900.0,2019-06-24,0,27.15753424657534,1246.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14000.0,12700.0,2019-06-03,0,27.086849315068495,1294.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14000.0,12700.0,2019-06-04,1,27.089863013698633,1294.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14000.0,12700.0,2019-06-06,3,27.09808219178082,1302.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14000.0,12700.0,2019-06-07,4,27.102739726027398,1298.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14000.0,12700.0,2019-06-08,5,27.107397260273974,1282.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14000.0,12700.0,2019-05-28,1,27.05068493150685,1310.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14000.0,12700.0,2019-05-29,2,27.05671232876712,1307.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14200.0,12800.0,2019-06-10,0,27.110410958904108,1271.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14600.0,11400.0,2021-01-29,4,27.1,1379.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14600.0,11800.0,2021-02-03,2,27.10082191780822,1380.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14600.0,11800.0,2021-02-04,3,27.099452054794522,1380.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14600.0,13000.0,2019-06-11,1,27.110958904109587,1273.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14600.0,13000.0,2019-06-12,2,27.109863013698632,1287.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14700.0,11400.0,2021-02-02,1,27.10191780821918,1380.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14800.0,11200.0,2021-01-21,3,27.116164383561642,1377.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14800.0,11200.0,2021-01-25,0,27.10301369863014,1378.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14800.0,11200.0,2021-01-27,2,27.10027397260274,1378.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14900.0,12900.0,2019-06-18,1,27.136986301369863,1276.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,14900.0,12900.0,2019-06-19,2,27.14246575342466,1269.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,15000.0,13100.0,2019-06-13,3,27.113698630136987,1286.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,15000.0,13100.0,2019-06-14,4,27.1172602739726,1285.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,15000.0,13100.0,2019-06-15,5,27.1213698630137,1284.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,15000.0,13100.0,2019-06-17,0,27.131780821917808,1281.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,15600.0,11500.0,2020-12-11,4,27.184383561643834,1271.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,15800.0,11500.0,2020-12-09,2,27.18054794520548,1270.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9100.0,15800.0,11500.0,2020-12-10,3,27.18246575342466,1271.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9200.0,14700.0,11500.0,2021-02-01,0,27.101369863013698,1380.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9200.0,15600.0,12600.0,2020-11-03,1,27.1572602739726,1272.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9200.0,15600.0,12600.0,2020-11-04,2,27.15835616438356,1276.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9200.0,15800.0,11600.0,2020-12-07,0,27.17808219178082,1267.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9400.0,14600.0,12300.0,2021-02-10,2,27.095616438356164,1379.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9400.0,14700.0,11700.0,2021-02-05,4,27.09835616438356,1380.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9500.0,14600.0,11500.0,2021-02-09,1,27.0986301369863,1379.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9500.0,14800.0,11900.0,2021-02-08,0,27.099452054794522,1379.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9700.0,14600.0,12300.0,2021-02-11,3,27.09095890410959,1379.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9700.0,14700.0,11800.0,2021-02-12,4,27.085753424657533,1379.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,9900.0,14800.0,12500.0,2021-02-13,5,27.08219178082192,1379.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10100.0,14800.0,12800.0,2021-02-16,1,27.072876712328767,1379.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10100.0,14800.0,12800.0,2021-02-17,2,27.075068493150685,1380.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10200.0,15400.0,13300.0,2021-05-03,0,27.00767123287671,1397.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10200.0,15600.0,13400.0,2021-04-27,1,27.033150684931506,1375.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10300.0,14600.0,14400.0,2022-02-07,0,26.715342465753427,1754.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10300.0,15400.0,12800.0,2021-05-19,2,26.96027397260274,1512.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10300.0,15600.0,13400.0,2021-04-22,3,27.026575342465755,1388.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10300.0,15700.0,14400.0,2022-02-02,2,26.72739726027397,1751.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10300.0,16200.0,13400.0,2021-04-20,1,27.022739726027396,1396.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10300.0,16200.0,13400.0,2021-04-21,2,27.023835616438355,1389.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10300.0,16200.0,14500.0,2022-01-12,2,26.69369863013699,1754.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10300.0,16200.0,14500.0,2022-02-23,2,26.7013698630137,1775.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10400.0,15200.0,12800.0,2021-02-18,3,27.075342465753426,1380.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10400.0,15600.0,13400.0,2021-02-23,1,27.074794520547947,1382.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10400.0,15600.0,14200.0,2021-03-25,3,27.05671232876712,1360.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10400.0,15800.0,14400.0,2021-07-13,1,26.836164383561645,1582.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10400.0,15800.0,14400.0,2022-01-28,4,26.72849315068493,1752.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10400.0,15800.0,14500.0,2022-01-20,3,26.722191780821912,1745.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10400.0,16400.0,14400.0,2022-01-13,3,26.69780821917808,1741.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10500.0,16400.0,13600.0,2021-03-26,4,27.06082191780822,1360.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10600.0,15600.0,13800.0,2021-03-31,2,27.06,1366.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10600.0,16400.0,13400.0,2021-03-23,1,27.04904109589041,1369.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,15300.0,13600.0,2021-07-16,4,26.82931506849315,1561.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,15400.0,13800.0,2021-07-19,0,26.825753424657535,1551.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,15400.0,14500.0,2021-07-15,3,26.82712328767123,1580.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,15600.0,13400.0,2021-03-01,0,27.057534246575344,1384.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,15600.0,13400.0,2021-03-02,1,27.054794520547944,1384.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,15600.0,13400.0,2021-03-03,2,27.05260273972603,1382.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,15600.0,13400.0,2021-03-05,4,27.05698630136986,1357.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,15600.0,13400.0,2021-03-10,2,27.063835616438354,1366.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,15600.0,13400.0,2021-02-24,2,27.075068493150688,1382.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,15600.0,13400.0,2021-02-25,3,27.072328767123288,1384.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,15600.0,13600.0,2021-03-11,3,27.065205479452057,1367.8000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,15600.0,13600.0,2021-03-12,4,27.066301369863012,1366.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,15600.0,13600.0,2021-03-15,0,27.066301369863016,1366.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,15600.0,13600.0,2021-03-16,1,27.06219178082192,1366.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,15600.0,14600.0,2022-01-21,4,26.720547945205478,1745.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,15700.0,14200.0,2021-03-18,3,27.055068493150685,1367.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,16200.0,15300.0,2021-10-20,2,26.872876712328768,1407.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,16400.0,14500.0,2021-04-12,0,27.056164383561644,1382.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,16400.0,14500.0,2021-04-16,4,27.03972602739726,1390.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,16400.0,14600.0,2021-04-19,0,27.026575342465755,1397.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,16400.0,15300.0,2021-07-06,1,26.869589041095896,1531.3000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10700.0,16600.0,14400.0,2021-08-24,1,26.851780821917806,1410.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,15300.0,13400.0,2021-07-27,1,26.802739726027397,1579.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,15400.0,13600.0,2021-07-26,0,26.80821917808219,1576.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,15600.0,13400.0,2021-03-22,0,27.046849315068496,1370.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,15600.0,14400.0,2021-07-30,4,26.80630136986301,1561.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,15600.0,14500.0,2021-08-03,1,26.819999999999997,1507.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,15600.0,14500.0,2021-08-07,5,26.835068493150686,1433.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,15600.0,14500.0,2021-08-11,2,26.85013698630137,1416.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,15600.0,14600.0,2021-08-10,1,26.849589041095893,1417.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,15600.0,14600.0,2021-07-29,3,26.80328767123288,1564.6999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,15700.0,14500.0,2022-03-07,0,26.721917808219178,1778.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,15800.0,13600.0,2021-03-19,4,27.051506849315068,1366.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,15800.0,14400.0,2021-07-28,2,26.799452054794518,1580.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,15800.0,14500.0,2022-01-06,3,26.67150684931507,1813.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,15800.0,14600.0,2022-03-15,1,26.721917808219178,1771.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16200.0,15300.0,2021-10-13,2,26.870410958904106,1374.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16400.0,13600.0,2021-06-29,1,26.86876712328767,1532.3000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16400.0,14200.0,2021-08-18,2,26.85671232876712,1414.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16400.0,14400.0,2021-08-14,5,26.855890410958903,1413.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16400.0,14400.0,2021-08-31,1,26.805205479452052,1453.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16400.0,14500.0,2021-04-09,4,27.06986301369863,1365.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16400.0,14500.0,2021-08-12,3,26.85095890410959,1416.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16400.0,14500.0,2021-08-13,4,26.853698630136986,1414.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16400.0,14500.0,2021-08-23,0,26.853972602739727,1410.8000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16400.0,14600.0,2021-08-04,2,26.824383561643835,1480.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16400.0,14600.0,2021-08-16,0,26.86,1411.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16400.0,15300.0,2021-10-11,0,26.866301369863017,1414.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16400.0,15300.0,2021-07-12,0,26.840273972602738,1577.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16600.0,14400.0,2021-08-25,2,26.847123287671234,1412.8000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16600.0,14500.0,2021-04-08,3,27.074520547945202,1363.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16600.0,14500.0,2021-04-15,3,27.044109589041092,1387.6999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16600.0,14600.0,2021-09-20,0,26.85287671232877,1358.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16600.0,15300.0,2021-07-05,0,26.865479452054792,1538.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10800.0,16600.0,15400.0,2021-10-18,0,26.872054794520547,1396.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,10900.0,15600.0,13400.0,2021-03-08,0,27.066301369863012,1365.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11000.0,16600.0,14400.0,2021-06-25,4,26.86328767123288,1559.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11100.0,11800.0,11400.0,2019-10-22,1,27.13643835616438,1555.1999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11100.0,11800.0,11400.0,2019-10-23,2,27.137808219178087,1555.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11100.0,11900.0,11600.0,2019-10-25,4,27.135616438356163,1558.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11100.0,12000.0,11400.0,2019-11-06,2,27.12246575342466,1635.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11100.0,12000.0,11600.0,2019-11-04,0,27.1172602739726,1635.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11100.0,12000.0,11800.0,2019-10-30,2,27.124109589041097,1635.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11100.0,12000.0,11800.0,2019-10-31,3,27.11890410958904,1643.8000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11200.0,12100.0,11900.0,2019-11-09,5,27.140821917808218,1574.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11200.0,12100.0,11900.0,2019-11-11,0,27.140547945205476,1585.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11200.0,12500.0,11800.0,2019-11-19,1,27.1572602739726,1572.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11300.0,12900.0,11400.0,2019-12-14,5,27.166849315068497,1575.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,15400.0,14400.0,2022-04-27,2,26.59616438356164,1897.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16200.0,14200.0,2021-09-15,2,26.824657534246576,1375.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16200.0,14600.0,2022-01-05,2,26.66849315068493,1822.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16200.0,15400.0,2021-12-10,4,26.6786301369863,1861.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16200.0,15400.0,2021-10-21,3,26.87178082191781,1413.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16200.0,15400.0,2021-10-25,0,26.859452054794517,1441.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16400.0,14400.0,2022-01-04,1,26.66767123287671,1823.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16400.0,14500.0,2021-09-14,1,26.822739726027397,1379.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16400.0,14600.0,2021-09-17,4,26.833150684931507,1370.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16400.0,14600.0,2022-03-23,2,26.71972602739726,1775.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16400.0,15300.0,2021-10-07,3,26.869315068493155,1417.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16400.0,15400.0,2021-10-29,4,26.844109589041096,1501.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16500.0,15300.0,2021-11-11,3,26.7745205479452,1632.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16500.0,15300.0,2021-11-18,3,26.745479452054795,1655.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16600.0,14400.0,2021-09-06,0,26.804109589041097,1399.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16600.0,14400.0,2021-09-13,0,26.81917808219178,1376.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16600.0,14400.0,2021-12-28,1,26.66986301369863,1828.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16600.0,15300.0,2021-10-12,1,26.866849315068492,1399.1000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16600.0,15300.0,2021-12-22,2,26.69013698630137,1829.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16600.0,15300.0,2021-10-22,4,26.869589041095896,1418.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16600.0,15300.0,2021-09-27,0,26.883287671232875,1312.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16600.0,15400.0,2021-11-12,4,26.76794520547945,1642.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,16600.0,15400.0,2021-10-27,2,26.851506849315072,1489.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11400.0,17400.0,16100.0,2021-11-10,2,26.778356164383563,1633.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11500.0,12200.0,12000.0,2019-11-12,1,27.144109589041097,1583.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11500.0,12400.0,12100.0,2019-11-14,3,27.14739726027397,1581.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11500.0,12400.0,12100.0,2019-11-15,4,27.14767123287671,1584.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11500.0,12400.0,12100.0,2019-11-18,0,27.157260273972607,1568.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11500.0,12500.0,12100.0,2019-11-20,2,27.160000000000004,1569.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11500.0,15600.0,14500.0,2022-04-28,3,26.59095890410959,1903.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11700.0,15700.0,14600.0,2022-03-17,3,26.716438356164385,1776.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11700.0,16200.0,14600.0,2021-09-16,3,26.82821917808219,1373.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11700.0,16200.0,14600.0,2021-09-22,2,26.86794520547945,1312.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11700.0,16400.0,14200.0,2021-12-29,2,26.66849315068493,1826.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11700.0,16400.0,15300.0,2021-12-17,4,26.686849315068496,1847.8
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11700.0,16400.0,15300.0,2021-09-23,3,26.875342465753423,1308.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11700.0,16500.0,15300.0,2021-11-02,1,26.82246575342466,1576.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11700.0,16500.0,15300.0,2021-10-28,3,26.848493150684934,1488.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11700.0,16500.0,15400.0,2021-12-16,3,26.686301369863013,1851.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11700.0,16500.0,15400.0,2021-11-25,3,26.719452054794516,1744.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11700.0,16600.0,15300.0,2021-12-20,0,26.689589041095893,1839.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,11700.0,16600.0,15400.0,2021-12-15,2,26.684931506849313,1854.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12100.0,16600.0,14200.0,2022-06-23,3,26.66849315068493,1669.8000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12100.0,16800.0,14800.0,2022-06-29,2,26.66657534246575,1692.1
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12200.0,15400.0,14800.0,2022-06-02,3,26.614520547945208,1707.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12200.0,15600.0,14500.0,2022-05-20,4,26.618082191780818,1786.6
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12200.0,15700.0,14800.0,2022-05-24,1,26.617534246575342,1765.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12200.0,15800.0,14800.0,2022-05-11,2,26.64,1806.8999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12200.0,16200.0,14700.0,2022-06-06,0,26.625753424657532,1700.0
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12200.0,16500.0,14200.0,2022-08-31,2,26.60164383561644,1800.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12200.0,16500.0,14400.0,2022-09-02,4,26.591232876712333,1806.6999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12200.0,16600.0,14500.0,2022-06-08,2,26.627945205479453,1694.2
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12200.0,16600.0,14600.0,2022-07-07,3,26.653972602739728,1709.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12300.0,16500.0,14700.0,2022-06-16,3,26.654246575342462,1668.6000000000001
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12300.0,16600.0,14800.0,2022-06-22,2,26.664931506849317,1667.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12300.0,16800.0,14600.0,2022-07-12,1,26.659178082191783,1666.3999999999999
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12300.0,16800.0,14800.0,2022-07-04,0,26.665753424657535,1699.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12300.0,16800.0,14800.0,2022-07-11,0,26.65890410958904,1670.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12400.0,15600.0,13600.0,2021-06-24,3,26.864109589041096,1564.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12400.0,16400.0,14400.0,2021-09-09,3,26.80986301369863,1388.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12400.0,16400.0,14600.0,2022-06-15,2,26.647123287671235,1673.5
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12400.0,16400.0,14600.0,2021-08-26,3,26.841917808219176,1412.8000000000002
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12400.0,16600.0,14400.0,2021-09-07,1,26.805753424657535,1402.4
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12400.0,16600.0,14400.0,2021-09-08,2,26.804657534246576,1401.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12400.0,16800.0,14500.0,2022-08-10,2,26.620000000000005,1761.7
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12400.0,17000.0,14400.0,2022-07-26,1,26.67205479452055,1652.3
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12500.0,16500.0,14600.0,2022-08-23,1,26.606849315068494,1778.6999999999998
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12500.0,16800.0,14400.0,2022-07-20,2,26.64438356164383,1696.9
+Nagercoil (Kannyiakumari),Kulasekaram,Rubber,Other,FAQ,12700.0,16600.0,14500.0,2022-08-08,0,26.626027397260273,1752.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,8000.0,7500.0,2016-03-01,1,26.796164383561646,1239.8000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-02,1,26.729589041095892,1246.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-03,2,26.727671232876713,1246.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-04,3,26.725205479452057,1246.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-05,4,26.724657534246575,1246.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-06,5,26.724931506849316,1246.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-01-08,4,26.657808219178083,1246.8000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-09,1,26.72876712328767,1246.8999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-01-09,5,26.661917808219172,1246.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-10,2,26.72876712328767,1247.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-11,3,26.727671232876713,1248.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-01-11,0,26.670136986301365,1246.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-12,4,26.72767123287671,1248.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-13,5,26.72876712328767,1247.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-01-13,2,26.68164383561644,1246.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-16,1,26.7372602739726,1247.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-01-16,5,26.68931506849315,1246.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-17,2,26.744931506849316,1248.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-18,3,26.75178082191781,1248.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-19,4,26.759452054794522,1248.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-20,5,26.764383561643836,1248.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-01-20,2,26.697260273972603,1246.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-22,0,26.772054794520546,1248.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-23,1,26.772876712328763,1248.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-24,2,26.77260273972603,1247.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-25,3,26.775068493150684,1247.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,9000.0,8000.0,2016-02-26,4,26.78,1246.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-01,1,27.18931506849315,686.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2017-01-02,0,27.289315068493146,506.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-02,2,27.188493150684934,696.5999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-03,3,27.186301369863013,706.9000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2017-01-04,2,27.292328767123283,507.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2017-01-05,3,27.29342465753425,507.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-05,5,27.188493150684934,682.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-07,0,27.194520547945206,662.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-10-07,4,27.145205479452056,804.8000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-08,1,27.197534246575337,653.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-09,2,27.197534246575344,655.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-10-10,0,27.14986301369863,800.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-11,4,27.19835616438356,637.8000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-14,0,27.20876712328767,626.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-16,2,27.21150684931507,625.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-17,3,27.214246575342464,622.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-10-19,2,27.165753424657535,757.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-10-20,3,27.165479452054793,757.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-21,0,27.203287671232875,657.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-22,1,27.20328767123288,659.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-24,3,27.199726027397258,660.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-10-24,0,27.166027397260276,737.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-10-25,1,27.16794520547945,737.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-10-27,3,27.173698630136986,714.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-10-28,4,27.17753424657534,706.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-11-29,1,27.198356164383565,638.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7000.0,11000.0,9000.0,2016-10-31,0,27.189863013698634,686.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7300.0,12000.0,9800.0,2016-09-27,1,27.119999999999997,854.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-07,2,27.103287671232877,908.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-08,3,27.10301369863014,903.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-13,1,27.10931506849315,897.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-15,3,27.114246575342463,894.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-16,4,27.113698630136987,894.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-19,0,27.11698630136986,886.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-20,1,27.117534246575342,886.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-22,3,27.115616438356167,883.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7300.0,12300.0,9800.0,2016-09-23,4,27.115068493150684,879.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7500.0,8500.0,8000.0,2016-03-02,2,26.803287671232873,1231.8000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7500.0,8500.0,8000.0,2016-03-03,3,26.80849315068493,1230.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7500.0,9500.0,8500.0,2016-01-02,5,26.630684931506853,1248.8000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7500.0,9500.0,8500.0,2016-01-04,0,26.63808219178082,1248.8000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7500.0,9500.0,8500.0,2016-01-05,1,26.642739726027397,1248.8000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7500.0,9500.0,8500.0,2016-01-06,2,26.648219178082194,1248.8000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7500.0,9500.0,8500.0,2015-12-09,2,26.573698630136985,1310.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7500.0,9500.0,8500.0,2016-07-14,3,27.135342465753425,967.1999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7500.0,9500.0,8500.0,2016-01-18,0,26.69041095890411,1246.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7500.0,9500.0,8500.0,2016-01-19,1,26.69260273972603,1246.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7500.0,9500.0,8500.0,2016-01-21,3,26.701917808219175,1246.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7500.0,9500.0,8500.0,2016-01-22,4,26.708219178082192,1246.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7500.0,9500.0,8500.0,2016-01-23,5,26.71232876712329,1246.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7500.0,9500.0,8500.0,2016-01-25,0,26.7227397260274,1246.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7500.0,9500.0,8500.0,2016-01-28,3,26.729041095890405,1246.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7500.0,9500.0,8500.0,2016-01-29,4,26.72794520547945,1246.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7700.0,12700.0,10200.0,2016-10-13,3,27.156986301369862,765.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7700.0,12700.0,10200.0,2016-10-14,4,27.159452054794517,759.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7700.0,12700.0,10200.0,2016-10-17,0,27.16191780821918,747.0000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,7700.0,12700.0,10200.0,2016-10-18,1,27.164109589041097,761.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-01,4,26.900821917808223,1203.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-02,5,26.90465753424657,1198.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2015-09-02,2,26.515342465753427,1247.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2015-09-07,0,26.52958904109589,1268.8000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-11,0,26.940821917808222,1183.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-12,1,26.95205479452055,1151.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-05-12,3,27.148493150684935,933.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-05-13,4,27.15205479452055,939.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-15,4,26.97808219178082,1136.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-16,5,26.983835616438352,1130.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-05-16,0,27.162739726027397,935.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-05-17,1,27.16328767123288,944.3000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-18,0,26.993972602739728,1128.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-05-19,3,27.16520547945206,934.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-20,2,27.008767123287672,1066.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-05-20,4,27.166849315068493,929.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-22,4,27.022465753424658,1066.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-25,0,27.048767123287668,1042.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9000.0,8500.0,2016-04-26,1,27.058082191780823,1036.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,9500.0,9000.0,2016-03-09,2,26.824931506849317,1229.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-12-01,1,26.57013698630137,1211.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-09-01,1,26.50739726027397,1255.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2019-01-02,2,26.65643835616438,1655.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-10-02,4,26.510136986301365,1285.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-10-03,5,26.51095890410959,1282.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-10-03,0,27.134246575342466,816.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-09-03,3,26.523835616438358,1243.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2019-01-04,4,26.65534246575342,1654.1000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-10-04,1,27.138082191780825,814.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-09-04,4,26.52712328767123,1246.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-11-05,3,26.52520547945205,1278.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-10-05,2,27.140273972602742,813.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-10-06,1,26.50657534246575,1282.8000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-10-06,3,27.142739726027397,810.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-12-07,0,26.574794520547943,1256.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2019-01-07,0,26.65945205479452,1651.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-12-08,1,26.572328767123288,1319.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-12-08,5,26.633150684931508,1661.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2019-01-08,1,26.661643835616438,1651.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-07-08,4,27.13972602739726,960.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-10-08,3,26.505753424657534,1287.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-09-08,1,26.529041095890406,1269.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2019-01-09,2,26.661369863013697,1651.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-11-09,0,26.517260273972607,1328.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-10-09,4,26.505205479452055,1285.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-09-09,2,26.52821917808219,1274.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-12-10,0,26.638630136986304,1660.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-06-10,4,27.16219178082192,935.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-10-10,5,26.502739726027396,1287.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-10-10,2,26.65013698630137,1887.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-12-11,1,26.640821917808225,1658.1000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2019-01-11,4,26.664383561643834,1649.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-07-11,0,27.13972602739726,964.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-10-11,3,26.649589041095886,1883.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2019-01-12,5,26.664931506849314,1649.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-07-12,1,27.13643835616438,966.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-11-12,3,26.51972602739726,1329.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-10-12,0,26.499726027397266,1301.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-10-12,4,26.65123287671233,1878.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-07-13,2,27.134794520547945,966.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-11-13,4,26.518904109589045,1334.8000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-10-13,1,26.49808219178082,1310.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-10-13,5,26.651506849315066,1878.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-10-14,6,26.65232876712329,1887.6999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-12-15,1,26.580273972602743,1322.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-10-15,0,26.652876712328766,1882.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-09-15,1,26.523835616438358,1281.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-12-16,2,26.580273972602743,1319.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2019-01-16,2,26.675890410958907,1649.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-06-16,3,27.163013698630138,944.6999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-11-16,0,26.51424657534247,1336.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-10-16,4,26.496438356164386,1319.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-10-16,1,26.650136986301373,1902.1000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-09-16,2,26.523013698630137,1282.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-06-17,4,27.163013698630138,945.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-10-17,5,26.50082191780822,1301.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-12-19,2,26.646301369863018,1647.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-11-19,3,26.515068493150686,1337.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-12-20,3,26.648493150684935,1647.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-11-20,4,26.51890410958904,1313.6999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-12-21,4,26.65095890410959,1647.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2019-01-21,0,26.67068493150685,1649.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2019-01-23,2,26.67041095890411,1648.8999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-12-24,0,26.649863013698628,1656.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-12-25,1,26.65013698630137,1656.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-11-25,2,26.544383561643837,1236.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-08-26,2,26.478356164383563,1261.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-12-26,2,26.648219178082194,1656.8000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-11-26,3,26.547671232876713,1235.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-10-26,0,26.521643835616437,1251.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-12-27,3,26.647945205479452,1656.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-12-28,0,26.61917808219178,1256.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-12-28,4,26.65068493150685,1657.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2019-01-28,0,26.6827397260274,1646.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-06-28,1,27.146301369863018,954.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-12-29,1,26.62054794520548,1251.0000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-12-29,5,26.652876712328766,1659.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2019-01-29,1,26.682465753424655,1646.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-10-29,3,26.52191780821918,1264.1999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-12-30,2,26.621917808219177,1251.0000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-12-30,6,26.65232876712329,1659.6000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2019-01-30,2,26.68328767123288,1646.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2016-06-30,3,27.143287671232876,958.6999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-11-30,0,26.570136986301367,1197.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2015-12-31,3,26.623013698630135,1248.8000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-12-31,0,26.653424657534245,1659.6000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2019-01-31,3,26.68246575342466,1646.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10300.0,9000.0,2019-02-25,0,26.7013698630137,1665.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,10500.0,9000.0,2019-08-29,3,27.213972602739727,1365.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,12000.0,10000.0,2017-01-20,4,27.305479452054794,509.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,12000.0,10000.0,2017-01-21,5,27.30383561643836,510.90000000000003
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8000.0,12000.0,10000.0,2017-01-24,1,27.29890410958904,512.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-02-01,4,26.6827397260274,1646.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-05-02,3,26.856164383561644,1481.8999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-02-04,0,26.690958904109593,1646.8999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-02-05,1,26.690684931506844,1649.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-04-09,1,26.82164383561644,1511.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-04-11,3,26.82849315068493,1500.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-06-12,2,27.109863013698632,1287.8999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-03-12,1,26.70904109589041,1659.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-05-12,6,26.932602739726025,1390.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-02-13,2,26.69123287671233,1656.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-03-14,3,26.733424657534243,1569.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-03-18,0,26.75890410958904,1559.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-05-21,1,27.00876712328767,1335.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-04-22,0,26.858630136986307,1488.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-02-28,3,26.699726027397258,1664.6000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-03-28,3,26.79095890410959,1535.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-05-28,1,27.05068493150685,1310.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10200.0,9000.0,2019-03-29,4,26.794794520547946,1533.6000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10300.0,9000.0,2019-03-05,1,26.70356164383562,1664.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10300.0,9000.0,2019-02-10,6,26.690958904109593,1656.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10300.0,9000.0,2019-05-10,4,26.91287671232877,1406.1999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10300.0,9000.0,2019-02-11,0,26.69123287671233,1656.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10300.0,9000.0,2019-03-11,0,26.702739726027396,1665.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10300.0,9000.0,2019-05-15,2,26.958904109589042,1376.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10300.0,9000.0,2019-04-23,1,26.857808219178082,1486.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10300.0,9000.0,2019-04-27,5,26.86,1481.1999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10400.0,9200.0,2019-04-13,5,26.844109589041096,1477.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,10500.0,9400.0,2019-06-15,5,27.1213698630137,1284.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8300.0,11300.0,10200.0,2019-06-25,1,27.160821917808217,1246.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10300.0,9000.0,2019-04-04,3,26.804383561643835,1529.6000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10300.0,9000.0,2019-06-06,3,27.09808219178082,1302.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10300.0,9100.0,2019-05-06,0,26.876438356164382,1459.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10500.0,9000.0,2019-05-26,6,27.032054794520544,1330.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10500.0,9200.0,2019-04-30,1,26.861369863013696,1475.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9000.0,2020-02-08,5,27.155068493150686,1576.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9000.0,2019-10-09,2,27.145479452054797,1433.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9000.0,2019-10-12,5,27.137260273972604,1468.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9000.0,2019-11-14,3,27.14739726027397,1581.6000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9000.0,2019-08-16,4,27.23369863013699,1320.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9000.0,2019-09-16,0,27.16849315068493,1435.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9000.0,2019-09-19,3,27.16219178082192,1445.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9000.0,2020-01-22,2,27.17616438356164,1583.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9000.0,2019-10-25,4,27.135616438356163,1558.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9000.0,2020-01-29,2,27.17041095890411,1580.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9000.0,2019-09-30,0,27.134794520547945,1496.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9500.0,2019-08-01,3,27.229315068493147,1270.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9500.0,2019-07-12,4,27.21150684931507,1277.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9500.0,2019-07-13,5,27.215068493150685,1273.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9500.0,2019-09-13,4,27.178904109589038,1428.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9500.0,2019-08-19,0,27.24958904109589,1288.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9500.0,2019-07-19,4,27.224657534246575,1262.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9500.0,2019-08-22,3,27.244383561643836,1299.1999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,10600.0,9500.0,2019-08-26,0,27.221643835616437,1345.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,13400.0,10900.0,2016-09-28,2,27.125205479452056,831.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8400.0,13400.0,10900.0,2016-09-29,3,27.130684931506845,823.1999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-04-04,0,26.90958904109589,1198.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-03-04,4,26.81287671232877,1230.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-04-06,2,26.913698630136988,1197.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-03-07,0,26.82191780821918,1229.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-03-08,1,26.823561643835617,1229.8999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-04-09,5,26.929589041095895,1188.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-03-10,3,26.827123287671238,1230.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-03-11,4,26.826027397260273,1230.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-03-12,5,26.82794520547945,1228.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-05-14,5,27.155342465753428,940.3000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-03-16,2,26.847397260273976,1222.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-03-17,3,26.852876712328765,1222.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-03-18,4,26.855890410958903,1223.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-03-19,5,26.861643835616437,1223.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2015-06-20,5,26.443835616438356,1306.1000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-03-21,0,26.870684931506847,1223.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2015-08-22,5,26.46849315068493,1275.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-03-23,2,26.873972602739727,1223.5000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-03-24,3,26.87753424657534,1223.5000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,9500.0,9000.0,2016-03-28,0,26.884383561643833,1218.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,10500.0,9000.0,2019-10-02,2,27.138904109589042,1482.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,10500.0,9000.0,2019-10-31,3,27.11890410958904,1643.8000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,10500.0,9500.0,2015-11-17,1,26.515342465753427,1336.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,10500.0,9500.0,2015-11-18,2,26.514794520547948,1337.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,10500.0,9500.0,2015-11-23,0,26.533698630136985,1241.6000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8500.0,14000.0,10000.0,2023-12-21,3,27.259999999999998,2259.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,9200.0,8900.0,2015-07-02,3,26.42986301369863,1316.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,9200.0,8900.0,2015-07-04,5,26.429589041095888,1316.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,9200.0,8900.0,2015-07-06,0,26.433698630136984,1316.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,9200.0,8900.0,2015-07-07,1,26.4358904109589,1314.8999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,9500.0,9500.0,2019-09-10,1,27.19013698630137,1413.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,9600.0,9000.0,2016-04-07,3,26.921369863013698,1194.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10400.0,9000.0,2020-01-06,0,27.16082191780822,1582.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10400.0,9000.0,2019-11-08,4,27.13808219178082,1583.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10400.0,9000.0,2019-12-12,3,27.167123287671235,1572.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10400.0,9000.0,2020-03-14,5,27.132602739726025,1570.1999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10400.0,9000.0,2019-12-17,1,27.166027397260276,1573.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10400.0,9000.0,2019-10-17,3,27.138082191780825,1523.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10400.0,9000.0,2020-01-18,5,27.15205479452055,1583.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10400.0,9000.0,2019-12-19,3,27.163013698630138,1575.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10400.0,9000.0,2019-12-22,6,27.155068493150686,1585.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10400.0,9000.0,2020-03-22,6,27.143835616438356,1568.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10400.0,9000.0,2019-11-22,4,27.161643835616438,1571.8999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10400.0,9200.0,2020-02-05,2,27.160273972602738,1577.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10400.0,9200.0,2019-07-28,6,27.217260273972602,1271.1000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10400.0,9500.0,2019-09-03,1,27.19808219178082,1387.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10400.0,9500.0,2019-08-07,2,27.224931506849313,1337.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10500.0,9000.0,2019-04-03,2,26.80301369863014,1533.1000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10500.0,9000.0,2019-03-31,6,26.79835616438356,1532.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10500.0,9100.0,2020-02-13,3,27.161643835616438,1561.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10600.0,9000.0,2019-10-07,0,27.14438356164384,1436.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10600.0,9200.0,2020-02-26,2,27.161095890410955,1550.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10600.0,9400.0,2019-08-11,6,27.218904109589044,1390.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10700.0,9000.0,2019-12-26,3,27.152602739726028,1582.1999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8600.0,10800.0,9200.0,2020-02-22,5,27.154794520547945,1551.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8700.0,9100.0,8900.0,2015-07-03,4,26.42849315068493,1316.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8700.0,9300.0,9000.0,2015-07-17,4,26.44931506849315,1308.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8700.0,9300.0,9000.0,2015-07-18,5,26.447945205479453,1309.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8700.0,9300.0,9000.0,2015-07-21,1,26.444383561643832,1311.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8700.0,9300.0,9000.0,2015-07-22,2,26.44301369863014,1319.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8700.0,9300.0,9000.0,2015-07-27,0,26.435342465753422,1324.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8700.0,9300.0,9000.0,2015-07-28,1,26.438356164383563,1324.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8700.0,9300.0,9000.0,2015-07-29,2,26.438082191780822,1324.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8700.0,9300.0,9000.0,2015-07-31,4,26.436164383561646,1324.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8700.0,10200.0,9100.0,2020-02-18,1,27.158356164383566,1552.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8700.0,10300.0,9100.0,2020-01-02,3,27.15178082191781,1579.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8700.0,10500.0,9000.0,2019-07-07,6,27.18575342465753,1319.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-06-01,0,26.45095890410959,1296.8999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-05-01,4,26.470410958904107,1387.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-06-02,1,26.45150684931507,1295.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-05-02,5,26.47013698630137,1380.1999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-08-03,0,26.440547945205477,1312.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-06-03,2,26.450410958904115,1298.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-04-04,5,26.548767123287675,1257.6000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-08-04,1,26.440273972602736,1312.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-06-04,3,26.452328767123287,1298.1000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-08-05,2,26.43917808219178,1312.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-06-05,4,26.453424657534246,1297.1000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-05-05,1,26.484109589041097,1296.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-08-07,4,26.439178082191784,1312.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-04-08,2,26.556164383561644,1245.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-08-08,5,26.441917808219177,1310.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-06-08,0,26.45506849315068,1300.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-05-08,4,26.502191780821917,1124.6000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-03-09,0,26.606575342465753,1222.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-05-09,5,26.503013698630138,1128.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-04-10,4,26.553972602739723,1252.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-03-10,1,26.604657534246574,1222.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-04-11,5,26.551780821917806,1252.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-05-11,0,26.497534246575345,1159.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-05-12,1,26.492876712328773,1216.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-03-13,4,26.606027397260277,1225.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-07-14,1,26.451506849315066,1305.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-03-16,0,26.598082191780826,1233.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-03-17,1,26.592876712328767,1234.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-05-19,1,26.46082191780822,1288.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-03-20,4,26.580000000000002,1232.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-05-21,3,26.456438356164384,1293.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-05-22,4,26.454794520547946,1294.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-05-23,5,26.453150684931504,1295.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-07-24,4,26.438904109589043,1324.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-04-25,5,26.48904109589041,1369.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-07-25,5,26.43643835616438,1324.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-05-26,1,26.45287671232877,1293.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-05-27,2,26.452328767123287,1293.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-04-28,1,26.472602739726028,1386.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-05-28,3,26.454520547945208,1291.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-05-29,4,26.456438356164384,1286.1000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9200.0,9000.0,2015-04-30,3,26.470684931506852,1386.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9300.0,9000.0,2015-04-09,3,26.556164383561644,1246.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,9500.0,9000.0,2015-03-04,2,26.61917808219178,1223.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,10200.0,9000.0,2020-01-24,4,27.18164383561644,1583.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8800.0,10200.0,9000.0,2019-11-29,4,27.178356164383562,1523.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8900.0,9300.0,9100.0,2015-06-13,5,26.456438356164384,1302.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8900.0,9300.0,9100.0,2015-04-17,4,26.525479452054796,1304.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8900.0,10500.0,9200.0,2020-02-14,4,27.15945205479452,1561.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8900.0,11100.0,9000.0,2019-11-17,6,27.155616438356166,1571.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,8900.0,11100.0,9000.0,2019-11-18,0,27.157260273972607,1568.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,9500.0,9300.0,2015-02-14,5,26.665753424657535,1213.1999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,9500.0,9500.0,2016-05-04,2,27.10301369863014,1023.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,9600.0,9400.0,2015-02-13,4,26.664383561643834,1213.1999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,9700.0,9400.0,2015-02-17,1,26.659178082191783,1210.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,9700.0,9400.0,2015-02-19,3,26.645205479452056,1209.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,9700.0,9400.0,2015-02-20,4,26.641643835616442,1209.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,9700.0,9400.0,2015-02-21,5,26.6413698630137,1208.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,9700.0,9400.0,2015-02-23,0,26.637534246575346,1208.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,9700.0,9400.0,2015-02-24,1,26.635890410958904,1208.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,9700.0,9400.0,2015-02-25,2,26.633972602739725,1209.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,9700.0,9500.0,2015-02-04,2,26.629041095890408,1212.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,9700.0,9500.0,2015-02-06,4,26.636164383561642,1212.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,9700.0,9500.0,2015-02-16,0,26.663013698630138,1211.8999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,9800.0,9400.0,2015-02-09,0,26.646575342465752,1212.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,9800.0,9400.0,2015-02-10,1,26.65095890410959,1212.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-01,0,27.135342465753425,962.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-05-01,6,27.086575342465753,1026.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-03,2,27.137260273972604,965.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-05-03,1,27.097808219178084,1022.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-06-04,5,27.175890410958907,909.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-05,4,27.13808219178082,965.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-05-05,3,27.108767123287667,1019.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-06,5,27.139999999999997,965.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-05-06,4,27.115342465753425,1009.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-05-07,5,27.119726027397263,1009.5000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-08,0,27.143835616438356,966.1999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-06-08,2,27.167945205479455,929.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-09,1,27.146027397260276,966.5999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2015-01-09,4,26.65890410958904,1214.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2015-01-10,5,26.659178082191783,1214.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-05-10,1,27.140547945205476,979.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-11,3,27.14904109589041,966.5999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-12,4,27.149041095890414,967.0999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-13,5,27.146575342465752,967.1999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-17,2,27.1413698630137,937.1999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-19,4,27.140821917808218,935.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-05-21,5,27.17041095890411,928.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-23,1,27.13945205479452,936.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-07-23,5,27.14438356164384,950.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-06-23,3,27.15013698630137,949.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-05-23,0,27.174520547945203,927.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-24,2,27.137808219178087,936.6999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-05-24,1,27.172602739726027,928.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-07-25,0,27.14328767123288,954.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-26,4,27.1345205479452,937.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-05-26,3,27.173150684931503,930.8000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-07-27,2,27.136986301369863,963.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-07-28,3,27.135616438356163,964.3000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-05-28,5,27.170410958904107,932.3000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-07-29,4,27.13671232876712,964.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-30,1,27.122465753424656,938.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-07-30,5,27.13671232876712,963.8000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-08-31,2,27.116438356164384,939.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,10300.0,9500.0,2019-02-20,2,26.69890410958904,1665.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-11-03,5,26.635342465753425,1903.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-11-07,2,26.63123287671233,1787.3000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-11-08,3,26.62931506849315,1811.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-11-09,4,26.627671232876715,1824.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-11-10,5,26.627945205479453,1825.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-11-13,1,26.624931506849315,1827.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-11-14,2,26.625479452054797,1829.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-11-15,3,26.626027397260273,1832.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-11-17,5,26.6186301369863,1853.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-10-17,2,26.649315068493152,1906.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-10-18,3,26.648219178082186,1908.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-11-19,0,26.615068493150684,1843.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-10-19,4,26.649315068493152,1911.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-10-20,5,26.646301369863014,1936.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-11-21,2,26.60958904109589,1843.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-10-21,6,26.64712328767123,1939.1000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-10-22,0,26.64301369863014,1953.6000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-10-23,1,26.638630136986304,1952.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-10-24,2,26.635068493150683,1961.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-10-25,3,26.631780821917808,1963.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-11-27,1,26.60630136986301,1830.3999999999999
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-10-27,5,26.631780821917808,1962.8000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-10-28,6,26.63342465753425,1937.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-11-29,3,26.607123287671232,1808.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-10-29,0,26.633150684931504,1927.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-11-30,4,26.61123287671233,1730.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-10-30,1,26.634246575342466,1928.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11000.0,10000.0,2018-10-31,2,26.637808219178087,1917.1999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,11100.0,10000.0,2018-10-26,4,26.63041095890411,1966.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,13000.0,11000.0,2017-01-13,4,27.297260273972604,508.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,14000.0,11000.0,2023-12-14,3,27.27753424657534,1583.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,14000.0,11000.0,2023-12-18,0,27.256164383561643,2266.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,14000.0,11000.0,2023-08-24,3,27.213698630136985,1355.6000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,15000.0,11000.0,2023-12-05,1,27.252054794520546,1567.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9000.0,15000.0,11000.0,2023-12-09,5,27.260547945205474,1581.1999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9500.0,9700.0,9600.0,2015-02-11,2,26.65643835616438,1212.4999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9500.0,10000.0,9700.0,2015-01-27,1,26.63397260273973,1212.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9500.0,10000.0,9700.0,2015-01-28,2,26.634246575342466,1212.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,9500.0,10500.0,10000.0,2018-11-23,4,26.606575342465753,1849.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14000.0,11000.0,2023-10-03,1,27.193972602739723,1476.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14000.0,11000.0,2023-11-05,6,27.18712328767123,1482.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14000.0,11000.0,2023-10-09,0,27.176712328767124,1483.1000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14000.0,11000.0,2023-09-12,1,27.261095890410957,1330.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14000.0,11000.0,2023-09-13,2,27.262739726027398,1329.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14000.0,11000.0,2023-10-16,0,27.163561643835617,1523.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14000.0,11000.0,2023-10-18,2,27.169315068493155,1512.6999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14000.0,11000.0,2023-09-19,1,27.254794520547946,1366.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14000.0,11000.0,2023-10-30,0,27.173972602739727,1482.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14000.0,12000.0,2023-10-04,2,27.186301369863013,1480.6999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14500.0,11000.0,2023-09-01,4,27.264109589041094,1308.3
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14500.0,11000.0,2023-09-02,5,27.266575342465753,1310.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14500.0,11000.0,2023-09-07,3,27.256438356164384,1331.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14500.0,11000.0,2023-08-31,3,27.256712328767126,1307.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14500.0,12000.0,2023-08-01,1,27.033150684931506,1446.8000000000002
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14500.0,12000.0,2023-08-03,3,27.05561643835616,1418.1999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14500.0,12000.0,2023-08-10,3,27.13753424657534,1354.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14500.0,12000.0,2023-08-11,4,27.14328767123288,1358.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14500.0,12000.0,2023-08-17,3,27.161095890410962,1361.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14500.0,12000.0,2023-08-18,4,27.164383561643834,1359.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14500.0,12000.0,2023-07-20,3,27.003013698630138,1488.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14500.0,12000.0,2023-07-21,4,27.00383561643836,1488.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14500.0,12000.0,2023-07-25,1,27.00027397260274,1490.1
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,14500.0,12000.0,2023-07-28,4,27.004109589041096,1474.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,15000.0,11000.0,2023-11-20,0,27.223287671232878,1487.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,15000.0,11000.0,2023-11-27,0,27.24082191780822,1556.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,15000.0,12000.0,2023-07-12,2,26.975890410958907,1511.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,16000.0,12000.0,2023-09-20,2,27.25397260273973,1368.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,10000.0,16000.0,12000.0,2023-09-29,4,27.21260273972603,1431.2
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,11000.0,12200.0,11800.0,2019-11-11,0,27.140547945205476,1585.8
+Nagercoil (Kannyiakumari),Monday Market,Rubber,Other,FAQ,11000.0,13000.0,12000.0,2021-03-08,0,27.066301369863012,1365.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8000.0,10000.0,9000.0,2015-09-12,5,26.52109589041096,1281.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8000.0,10000.0,9000.0,2015-09-19,5,26.52191780821918,1286.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8000.0,10000.0,9000.0,2016-05-21,5,27.17041095890411,928.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8000.0,10000.0,9000.0,2016-05-23,0,27.174520547945203,927.5
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8000.0,10000.0,9000.0,2016-05-24,1,27.172602739726027,928.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8000.0,10000.0,9000.0,2015-09-25,4,26.51534246575342,1287.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8000.0,10000.0,9000.0,2016-05-26,3,27.173150684931503,930.8000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8000.0,10000.0,9000.0,2015-09-26,5,26.519178082191782,1270.9
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8000.0,10000.0,9000.0,2016-05-28,5,27.170410958904107,932.3000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8000.0,10000.0,9000.0,2016-05-30,0,27.17150684931507,921.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8000.0,10000.0,9000.0,2015-09-30,2,26.513424657534244,1293.1000000000001
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8000.0,10000.0,9000.0,2016-05-31,1,27.172602739726027,918.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8500.0,9500.0,9000.0,2015-08-14,4,26.456164383561642,1290.7
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8500.0,9500.0,9000.0,2015-06-16,1,26.447945205479453,1303.4
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8500.0,9500.0,9000.0,2015-08-18,1,26.46027397260274,1306.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8500.0,9500.0,9000.0,2015-06-18,3,26.442465753424656,1304.6
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8500.0,9500.0,9000.0,2015-08-19,2,26.462191780821918,1301.0
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8500.0,9500.0,9000.0,2015-06-26,4,26.43616438356164,1321.6999999999998
+Nagercoil (Kannyiakumari),Monday Market,Rubber,RSS-4,FAQ,8500.0,9500.0,9000.0,2015-06-27,5,26.432328767123284,1324.0
+Nagercoil (Kannyiakumari),Thoduvetty,Rubber,Other,FAQ,8000.0,10000.0,9000.0,2018-09-24,0,26.676986301369865,1731.5
+Nagercoil (Kannyiakumari),Thoduvetty,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-06-06,0,27.17150684931507,909.0999999999999
+Nagercoil (Kannyiakumari),Vadaseri,Rubber,Other,FAQ,9000.0,10000.0,9500.0,2016-06-06,0,27.17150684931507,909.0999999999999
+Nagercoil (Kannyiakumari),Vadaseri,Rubber,Other,FAQ,9000.0,14500.0,13500.0,2024-06-11,1,27.38739726027397,2513.4
+Nagercoil (Kannyiakumari),Vadaseri,Rubber,Other,FAQ,9000.0,14500.0,13500.0,2024-06-13,3,27.374794520547947,2516.3
+Nagercoil (Kannyiakumari),Vadaseri,Rubber,Other,FAQ,9000.0,15500.0,13500.0,2024-06-17,0,27.350684931506848,2521.8
